@@ -16,13 +16,13 @@ sources:
     tables:
       - name: despesas_contratadas_candidatos
         data_tests:
-          # pega ingestão parcial (6 UFs de 2026 somam ~712 mil linhas)
+          # pega ingestão parcial (6 UFs x 2022+2026 somam ~1,65 mi de linhas)
           - dbt_expectations.expect_table_row_count_to_be_between:
               arguments:
-                min_value: 500000
+                min_value: 1500000
         description: >
-          Despesas contratadas declaradas por candidatos (arquivo
-          despesas_contratadas_candidatos_2026_<UF>.csv), filtradas para as UFs
+          Despesas contratadas declaradas por candidatos nas eleições 2022 e 2026 (arquivos
+          despesas_contratadas_candidatos_<ANO>_<UF>.csv), filtradas para as UFs
           DF, SP, MG, BA, RS e AM. Uma linha por lançamento; SQ_DESPESA NÃO é
           único (uma despesa pode ser rateada em várias linhas).
         columns:

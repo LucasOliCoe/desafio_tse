@@ -1,6 +1,7 @@
 /*
-  Gasto com mídia digital.
-  Grão: candidato x plataforma digital x categoria de despesa declarada.
+  Gasto com mídia digital, eleições 2022 e 2026.
+  Grão: candidato x plataforma digital x categoria de despesa declarada
+  (sq_candidato é único por eleição, então o ano já está implícito no grão).
   Só plataformas digitais (Meta, Google, TikTok, Kwai, Outras digitais);
   o gasto Offline fica em dim_candidato.vr_despesa_total.
 */
@@ -40,7 +41,9 @@ agregado as (
 )
 
 select
-    to_hex(md5(concat(a.sq_candidato, '|', a.plataforma, '|', a.categoria_despesa))) as gasto_id,
+    to_hex(md5(concat(cast(c.ano_eleicao as string), '|', a.sq_candidato, '|',
+                      a.plataforma, '|', a.categoria_despesa)))             as gasto_id,
+    c.ano_eleicao,
     a.sq_candidato,
     c.nm_candidato,
     c.ds_cargo,

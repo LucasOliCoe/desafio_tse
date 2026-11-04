@@ -16,6 +16,7 @@ with source as (
 
 select
     {{ tse_null('sq_candidato') }}                         as sq_candidato,
+    any_value(safe_cast(aa_eleicao as int64))              as ano_eleicao,
     any_value(safe_cast({{ tse_null('nr_candidato') }} as int64)) as nr_candidato,
     any_value({{ tse_null('nm_candidato') }})              as nm_candidato,
     any_value(safe_cast(cd_cargo as int64))                as cd_cargo,

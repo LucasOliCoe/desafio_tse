@@ -3,7 +3,7 @@ version: 2
 models:
   - name: fct_gasto_midia_digital
     description: >
-      Gasto com mídia digital das campanhas de 2026 (DF, SP, MG, BA, RS, AM).
+      Gasto com mídia digital das campanhas de 2022 e 2026 (DF, SP, MG, BA, RS, AM).
       Grão: candidato x plataforma digital x categoria de despesa declarada.
       Contém apenas plataformas digitais; o gasto Offline está em
       dim_candidato.vr_despesa_total. Plataformas vêm do classificador LLM +
@@ -12,6 +12,14 @@ models:
       - name: gasto_id
         description: Chave do registro (hash de sq_candidato + plataforma + categoria_despesa).
         data_tests: [unique, not_null]
+      - name: ano_eleicao
+        description: Ano da eleição (2022 ou 2026).
+        data_tests:
+          - not_null
+          - accepted_values:
+              arguments:
+                values: [2022, 2026]
+                quote: false
       - name: sq_candidato
         description: Sequencial do candidato no TSE (FK para dim_candidato).
         data_tests:
@@ -71,8 +79,11 @@ models:
       zero despesas), com atributos cadastrais e totais de gasto por plataforma.
     columns:
       - name: sq_candidato
-        description: Sequencial do candidato no TSE (chave).
+        description: Sequencial do candidato no TSE (chave; único por eleição).
         data_tests: [unique, not_null]
+      - name: ano_eleicao
+        description: Ano da eleição (2022 ou 2026).
+        data_tests: [not_null]
       - name: nr_candidato
         description: Número de urna.
       - name: nm_candidato
@@ -85,7 +96,7 @@ models:
         data_tests:
           - accepted_values:
               arguments:
-                values: ["Governador", "Senador", "Deputado Federal", "Deputado Estadual", "Deputado Distrital"]
+                values: ["Governador", "Vice-governador", "Senador", "Deputado Federal", "Deputado Estadual", "Deputado Distrital"]
       - name: sg_uf
         description: UF da eleição.
       - name: nr_partido

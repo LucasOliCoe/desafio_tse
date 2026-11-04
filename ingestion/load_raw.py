@@ -1,8 +1,8 @@
 """
-Ingestão das despesas contratadas por candidatos (TSE, Eleições 2026) no BigQuery.
+Ingestão das despesas contratadas por candidatos (TSE, Eleições 2022 e 2026) no BigQuery.
 
 Fluxo:
-  1. Garante que os CSVs das UFs escolhidas existem em data/ (se faltar algum,
+  1. Garante que os CSVs dos anos e UFs escolhidos existem em data/ (se faltar algum,
      baixa o zip do Portal de Dados Abertos do TSE e extrai só o necessário).
   2. Lê cada CSV (latin-1, separador ';') em blocos, mantém todas as colunas
      como texto (a tipagem é responsabilidade do dbt/staging) e grava um único
@@ -15,8 +15,8 @@ rodar o script N vezes produz sempre o mesmo resultado (sem duplicar linhas).
 Não usamos DML (DELETE/MERGE), que tem restrições no BigQuery Sandbox.
 
 Uso:
-    .venv\\Scripts\\python ingestion\\load_raw.py            # UFs do .env
-    .venv\\Scripts\\python ingestion\\load_raw.py --ufs DF,SP
+    .venv\\Scripts\\python ingestion\\load_raw.py                       # ANOS e UFS do .env
+    .venv\\Scripts\\python ingestion\\load_raw.py --anos 2026 --ufs DF,SP
 """
 from __future__ import annotations
 
@@ -38,28 +38,27 @@ from google.cloud import bigquery
 load_dotenv()
 
 ROOT = Path(__file__).resolve().parents[1]
-DATA_DIR = ROOT / "data" / "prestacao_de_contas_eleitorais_candidatos_2026"
-ZIP_URL = (
-    "https://cdn.tse.jus.br/estatistica/sead/odsele/prestacao_contas/"
-    "prestacao_de_contas_eleitorais_candidatos_2026.zip"
-)
-FILE_PATTERN = "despesas_contratadas_candidatos_2026_{uf}.csv"
+DATASET_NAME = "prestacao_de_contas_eleitorais_candidatos_{ano}"
+ZIP_URL = "https://cdn.tse.jus.br/estatistica/sead/odsele/prestacao_contas/" + DATASET_NAME + ".zip"
+FILE_PATTERN = "despesas_contratadas_candidatos_{ano}_{uf}.csv"
 TABLE_NAME = "despesas_contratadas_candidatos"
 CHUNK_SIZE = 200_000
 
 
-def ensure_files(ufs: list[str]) -> list[Path]:
-    """Retorna os caminhos dos CSVs; baixa o zip do TSE se algum estiver faltando."""
-    paths = [DATA_DIR / FILE_PATTERN.format(uf=uf) for uf in ufs]
+def ensure_files(ano: int, ufs: list[str]) -> list[Path]:
+    """Retorna os caminhos dos CSVs do ano; baixa o zip do TSE se algum estiver faltando."""
+    data_dir = ROOT / "data" / DATASET_NAME.format(ano=ano)
+    zip_url = ZIP_URL.format(ano=ano)
+    paths = [data_dir / FILE_PATTERN.format(ano=ano, uf=uf) for uf in ufs]
     missing = [p for p in paths if not p.exists()]
     if not missing:
-        print(f"[1/3] Usando CSVs locais em {DATA_DIR.relative_to(ROOT)}")
+        print(f"[1/3] {ano}: usando CSVs locais em {data_dir.relative_to(ROOT)}")
         return paths
 
-    print(f"[1/3] Faltam {len(missing)} arquivo(s); baixando {ZIP_URL}")
-    DATA_DIR.mkdir(parents=True, exist_ok=True)
-    zip_path = DATA_DIR.parent / "prestacao_de_contas_eleitorais_candidatos_2026.zip"
-    with requests.get(ZIP_URL, stream=True, timeout=60) as r:
+    print(f"[1/3] {ano}: faltam {len(missing)} arquivo(s); baixando {zip_url}")
+    data_dir.mkdir(parents=True, exist_ok=True)
+    zip_path = data_dir.parent / f"{DATASET_NAME.format(ano=ano)}.zip"
+    with requests.get(zip_url, stream=True, timeout=60) as r:
         r.raise_for_status()
         with open(zip_path, "wb") as fh:
             shutil.copyfileobj(r.raw, fh, length=1024 * 1024)
@@ -68,7 +67,7 @@ def ensure_files(ufs: list[str]) -> list[Path]:
     with zipfile.ZipFile(zip_path) as zf:
         for member in zf.namelist():
             if Path(member).name in wanted:
-                with zf.open(member) as src, open(DATA_DIR / Path(member).name, "wb") as dst:
+                with zf.open(member) as src, open(data_dir / Path(member).name, "wb") as dst:
                     shutil.copyfileobj(src, dst)
     zip_path.unlink()
 
@@ -78,15 +77,18 @@ def ensure_files(ufs: list[str]) -> list[Path]:
     return paths
 
 
-def build_parquet(paths: list[Path], ufs: list[str], out_path: Path) -> int:
-    """Converte os CSVs (latin-1) em um único Parquet UTF-8, tudo como STRING."""
+def build_parquet(files: list[tuple[Path, str]], out_path: Path) -> int:
+    """Converte os CSVs (latin-1) em um único Parquet UTF-8, tudo como STRING.
+
+    files: lista de (caminho do CSV, UF esperada).
+    """
     print("[2/3] Convertendo CSVs para Parquet (UTF-8)")
     loaded_at = datetime.now(timezone.utc)
     writer: pq.ParquetWriter | None = None
     schema: pa.Schema | None = None
     total = 0
 
-    for path, uf in zip(paths, ufs):
+    for path, uf in files:
         n_file = 0
         reader = pd.read_csv(
             path,
@@ -107,7 +109,7 @@ def build_parquet(paths: list[Path], ufs: list[str], out_path: Path) -> int:
                 writer = pq.ParquetWriter(out_path, schema)
             writer.write_table(table.cast(schema))
             n_file += len(chunk)
-        print(f"      {uf}: {n_file:>9,} linhas")
+        print(f"      {path.name}: {n_file:>9,} linhas")
         total += n_file
 
     if writer is not None:
@@ -145,13 +147,16 @@ def load_to_bigquery(parquet_path: Path, expected_rows: int) -> None:
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__.split("\n")[1])
     parser.add_argument("--ufs", default=os.getenv("UFS", "DF,SP,MG,BA,RS,AM"))
+    parser.add_argument("--anos", default=os.getenv("ANOS", "2022,2026"))
     args = parser.parse_args()
     ufs = [u.strip().upper() for u in args.ufs.split(",") if u.strip()]
+    anos = [int(a) for a in args.anos.split(",") if a.strip()]
 
-    paths = ensure_files(ufs)
+    # todos os anos vão num único Parquet + único WRITE_TRUNCATE (atômico e idempotente)
+    files = [(p, uf) for ano in anos for p, uf in zip(ensure_files(ano, ufs), ufs)]
     with tempfile.TemporaryDirectory() as tmp:
         parquet_path = Path(tmp) / "despesas.parquet"
-        total = build_parquet(paths, ufs, parquet_path)
+        total = build_parquet(files, parquet_path)
         load_to_bigquery(parquet_path, total)
     print("OK")
 

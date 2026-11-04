@@ -44,6 +44,7 @@ totais as (
 
 select
     c.sq_candidato,
+    c.ano_eleicao,
     c.nr_candidato,
     c.nm_candidato,
     c.cd_cargo,

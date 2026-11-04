@@ -46,7 +46,7 @@ models:
         data_tests:
           - accepted_values:
               arguments:
-                values: ["Governador", "Senador", "Deputado Federal", "Deputado Estadual", "Deputado Distrital"]
+                values: ["Governador", "Vice-governador", "Senador", "Deputado Federal", "Deputado Estadual", "Deputado Distrital"]
       - name: sg_uf
         description: UF da eleição.
         data_tests: [not_null]
@@ -126,8 +126,10 @@ models:
       zero despesas. Base da dim_candidato.
     columns:
       - name: sq_candidato
-        description: Sequencial do candidato no TSE.
+        description: Sequencial do candidato no TSE (único por eleição).
         data_tests: [unique, not_null]
+      - name: ano_eleicao
+        description: Ano da eleição.
       - name: nr_candidato
         description: Número de urna.
       - name: nm_candidato

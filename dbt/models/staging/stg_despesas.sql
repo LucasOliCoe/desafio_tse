@@ -78,9 +78,9 @@ final as (
 
     select
         concat(
-            sq_despesa, '-',
+            cast(ano_eleicao as string), '-', sq_despesa, '-',
             cast(row_number() over (
-                partition by sq_despesa
+                partition by ano_eleicao, sq_despesa
                 order by vr_despesa_contratada, nr_documento, dt_despesa, ds_despesa
             ) as string)
         )                                                      as despesa_linha_id,
