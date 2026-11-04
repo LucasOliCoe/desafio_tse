@@ -1,0 +1,139 @@
+version: 2
+
+models:
+  - name: stg_despesas
+    description: >
+      Despesas contratadas por candidatos, tipadas e com nomes em snake_case.
+      Uma linha por lançamento (grão da raw), sem as linhas de "prestação sem
+      despesa". Marcadores de nulo do TSE (#NULO, -1, -4) viram NULL.
+    columns:
+      - name: despesa_linha_id
+        description: Chave da linha (sq_despesa + sequencial), pois sq_despesa não é único.
+        data_tests: [unique, not_null]
+      - name: sq_despesa
+        description: Sequencial da despesa no TSE (pode repetir em despesas rateadas).
+        data_tests: [not_null]
+      - name: ano_eleicao
+        description: Ano da eleição.
+      - name: cd_eleicao
+        description: Código da eleição no TSE.
+      - name: ds_eleicao
+        description: Descrição da eleição.
+      - name: turno
+        description: Turno a que se refere a prestação de contas (1 ou 2).
+      - name: tipo_prestacao_contas
+        description: Tipo da prestação (Final, Parcial, Relatório Financeiro). Cada candidato tem um único tipo.
+      - name: dt_prestacao_contas
+        description: Data de entrega da prestação de contas.
+      - name: sq_prestador_contas
+        description: Sequencial do prestador de contas.
+      - name: sq_candidato
+        description: Sequencial do candidato no TSE.
+        data_tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('stg_candidatos')
+                field: sq_candidato
+      - name: nr_candidato
+        description: Número de urna do candidato.
+      - name: nm_candidato
+        description: Nome do candidato.
+      - name: cd_cargo
+        description: Código do cargo disputado.
+      - name: ds_cargo
+        description: Cargo disputado.
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: ["Governador", "Senador", "Deputado Federal", "Deputado Estadual", "Deputado Distrital"]
+      - name: sg_uf
+        description: UF da eleição.
+        data_tests: [not_null]
+      - name: sg_ue
+        description: Sigla da unidade eleitoral.
+      - name: nm_ue
+        description: Nome da unidade eleitoral.
+      - name: nr_partido
+        description: Número do partido.
+      - name: sg_partido
+        description: Sigla do partido.
+      - name: nm_partido
+        description: Nome do partido.
+      - name: tipo_fornecedor_declarado
+        description: Tipo de fornecedor como declarado ao TSE (pouco confiável; ver tipo_documento_fornecedor).
+      - name: cpf_cnpj_fornecedor
+        description: CPF (11 dígitos) ou CNPJ (14 dígitos) do fornecedor, só números e com zeros à esquerda. NULL quando não informado (ex. tarifas bancárias).
+        data_tests:
+          - valid_cpf_cnpj
+      - name: tipo_documento_fornecedor
+        description: CPF ou CNPJ, inferido pelo tamanho do documento.
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: ["CPF", "CNPJ"]
+      - name: nm_fornecedor
+        description: Nome do fornecedor informado pelo candidato (maiúsculas, espaços normalizados).
+      - name: nm_fornecedor_rfb
+        description: Nome do fornecedor na Receita Federal (maiúsculas, espaços normalizados).
+      - name: cd_cnae_fornecedor
+        description: CNAE do fornecedor.
+      - name: ds_cnae_fornecedor
+        description: Descrição do CNAE do fornecedor.
+      - name: sg_uf_fornecedor
+        description: UF do fornecedor.
+      - name: nm_municipio_fornecedor
+        description: Município do fornecedor.
+      - name: dt_despesa
+        description: Data da despesa.
+      - name: cd_origem_despesa
+        description: Código da categoria da despesa.
+      - name: ds_origem_despesa
+        description: Categoria da despesa (ex. "Despesa com Impulsionamento de Conteúdos").
+        data_tests: [not_null]
+      - name: ds_despesa
+        description: Descrição livre da despesa.
+      - name: ds_tipo_documento
+        description: Tipo do documento fiscal.
+      - name: nr_documento
+        description: Número do documento fiscal.
+      - name: vr_despesa_contratada
+        description: Valor contratado em R$.
+        data_tests: [not_null]
+      - name: arquivo_origem
+        description: CSV de origem.
+      - name: carregado_em
+        description: Timestamp UTC da carga na raw.
+
+  - name: stg_candidatos
+    description: >
+      Um registro por candidato que prestou contas, incluindo quem declarou
+      zero despesas. Base da dim_candidato.
+    columns:
+      - name: sq_candidato
+        description: Sequencial do candidato no TSE.
+        data_tests: [unique, not_null]
+      - name: nr_candidato
+        description: Número de urna.
+      - name: nm_candidato
+        description: Nome do candidato.
+      - name: cd_cargo
+        description: Código do cargo.
+      - name: ds_cargo
+        description: Cargo disputado.
+      - name: sg_uf
+        description: UF da eleição.
+      - name: nr_partido
+        description: Número do partido.
+      - name: sg_partido
+        description: Sigla do partido.
+      - name: nm_partido
+        description: Nome do partido.
+      - name: turno_maximo
+        description: Maior turno com prestação de contas (2 = foi ao segundo turno).
+      - name: tipo_prestacao_contas
+        description: Tipo da prestação de contas.
+      - name: dt_prestacao_contas
+        description: Data da prestação mais recente.
+      - name: declarou_despesas
+        description: TRUE se o candidato declarou ao menos uma despesa.
