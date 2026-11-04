@@ -92,8 +92,17 @@ models:
     description: >
       Lançamentos do stg_despesas com a plataforma final da despesa. Para
       intermediários de pagamento, a plataforma vem da descrição quando ela
-      cita uma; senão, usa a plataforma predominante do fornecedor.
+      cita uma; senão, usa a plataforma predominante do fornecedor. As
+      colunas herdadas têm a mesma definição documentada em stg_despesas.
     columns:
+      - name: plataforma_fornecedor
+        description: Plataforma atribuída ao fornecedor em int_fornecedores_classificados (antes do refinamento por descrição).
+      - name: confianca_fornecedor
+        description: Confiança da classificação do fornecedor.
+      - name: metodo_fornecedor
+        description: Método de classificação do fornecedor (llm, regra_pf, regra_fallback, regra_offline).
+      - name: eh_intermediario
+        description: TRUE se o fornecedor é intermediário de pagamento (DLOCAL, EBANX...).
       - name: despesa_linha_id
         description: Chave da linha (herdada do stg_despesas).
         data_tests: [unique, not_null]
