@@ -1,0 +1,117 @@
+version: 2
+
+models:
+  - name: fct_gasto_midia_digital
+    description: >
+      Gasto com mídia digital das campanhas de 2026 (DF, SP, MG, BA, RS, AM).
+      Grão: candidato x plataforma digital x categoria de despesa declarada.
+      Contém apenas plataformas digitais; o gasto Offline está em
+      dim_candidato.vr_despesa_total. Plataformas vêm do classificador LLM +
+      regras (ver int_fornecedores_classificados).
+    columns:
+      - name: gasto_id
+        description: Chave do registro (hash de sq_candidato + plataforma + categoria_despesa).
+        data_tests: [unique, not_null]
+      - name: sq_candidato
+        description: Sequencial do candidato no TSE (FK para dim_candidato).
+        data_tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('dim_candidato')
+                field: sq_candidato
+      - name: nm_candidato
+        description: Nome do candidato.
+      - name: ds_cargo
+        description: Cargo disputado (Governador, Senador, Deputado Federal, Estadual ou Distrital).
+        data_tests: [not_null]
+      - name: sg_partido
+        description: Sigla do partido do candidato.
+        data_tests: [not_null]
+      - name: sg_uf
+        description: UF da eleição.
+        data_tests: [not_null]
+      - name: plataforma
+        description: Plataforma de mídia digital (Meta, Google, TikTok, Kwai ou Outras digitais).
+        data_tests:
+          - not_null
+          - accepted_values:
+              arguments:
+                values: ["Meta", "Google", "TikTok", "Kwai", "Outras digitais"]
+      - name: categoria_despesa
+        description: Categoria de despesa declarada ao TSE (ds_origem_despesa), ex. "Despesa com Impulsionamento de Conteúdos".
+      - name: eh_impulsionamento
+        description: TRUE se a categoria declarada é impulsionamento de conteúdos.
+      - name: vr_gasto
+        description: Valor contratado em R$.
+        data_tests: [not_null]
+      - name: qtd_despesas
+        description: Quantidade de lançamentos de despesa agregados.
+      - name: qtd_fornecedores
+        description: Quantidade de fornecedores distintos.
+      - name: confianca_media
+        description: Confiança média da classificação de plataforma, ponderada pelo valor (0 a 1).
+        data_tests:
+          - confianca_entre_0_e_1
+      - name: vr_gasto_classificado_llm
+        description: Parte de vr_gasto cuja plataforma veio do LLM (diretamente ou via intermediário); o restante veio de regras.
+      - name: dt_primeira_despesa
+        description: Data da primeira despesa agregada.
+      - name: dt_ultima_despesa
+        description: Data da última despesa agregada.
+
+  - name: dim_candidato
+    description: >
+      Um registro por candidato que prestou contas (inclusive quem declarou
+      zero despesas), com atributos cadastrais e totais de gasto por plataforma.
+    columns:
+      - name: sq_candidato
+        description: Sequencial do candidato no TSE (chave).
+        data_tests: [unique, not_null]
+      - name: nr_candidato
+        description: Número de urna.
+      - name: nm_candidato
+        description: Nome do candidato.
+        data_tests: [not_null]
+      - name: cd_cargo
+        description: Código do cargo no TSE.
+      - name: ds_cargo
+        description: Cargo disputado.
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: ["Governador", "Senador", "Deputado Federal", "Deputado Estadual", "Deputado Distrital"]
+      - name: sg_uf
+        description: UF da eleição.
+      - name: nr_partido
+        description: Número do partido.
+      - name: sg_partido
+        description: Sigla do partido.
+      - name: nm_partido
+        description: Nome do partido.
+      - name: turno_maximo
+        description: Maior turno com prestação de contas (2 = foi ao segundo turno).
+      - name: tipo_prestacao_contas
+        description: Tipo da prestação de contas (Final, Parcial, Relatório Financeiro).
+      - name: dt_prestacao_contas
+        description: Data da prestação de contas mais recente.
+      - name: declarou_despesas
+        description: TRUE se o candidato declarou ao menos uma despesa.
+      - name: vr_despesa_total
+        description: Total de despesas contratadas em R$ (todas as plataformas, inclusive Offline).
+      - name: vr_gasto_digital
+        description: Total em mídia digital (Meta + Google + TikTok + Kwai + Outras digitais), em R$.
+      - name: vr_gasto_meta
+        description: Gasto atribuído à Meta (Facebook/Instagram), em R$.
+      - name: vr_gasto_google
+        description: Gasto atribuído ao Google/YouTube, em R$.
+      - name: vr_gasto_tiktok
+        description: Gasto atribuído ao TikTok, em R$.
+      - name: vr_gasto_kwai
+        description: Gasto atribuído ao Kwai, em R$.
+      - name: vr_gasto_outras_digitais
+        description: Gasto com agências, produtoras e outras plataformas digitais, em R$.
+      - name: pct_gasto_digital
+        description: vr_gasto_digital / vr_despesa_total (NULL se não há despesa).
+      - name: plataforma_digital_principal
+        description: Plataforma digital com maior gasto do candidato (NULL se não gastou em digital).
