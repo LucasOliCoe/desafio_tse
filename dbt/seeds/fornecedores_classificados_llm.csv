@@ -1,0 +1,1141 @@
+cpf_cnpj_fornecedor,nm_fornecedor,plataforma,confianca,eh_intermediario,justificativa,modelo,classificado_em
+13347016000117,FACEBOOK SERVICOS ONLINE DO BRASIL LTDA.,Meta,1.0,False,Nome Meta oficial,openai/gpt-oss-120b,2026-11-04T21:48:04+00:00
+25021356000132,DLOCAL BRASIL INSTITUICAO DE PAGAMENTO S.A.,Meta,0.9,True,Intermediário pagamento Meta,openai/gpt-oss-120b,2026-11-04T21:48:04+00:00
+67168797000101,DS GRAFICA LTDA,Offline,1.0,False,Impressão gráfica,openai/gpt-oss-120b,2026-11-04T21:48:04+00:00
+08142850000136,WBL GRAFICA E EDITORA LTDA,Offline,1.0,False,Serviços gráficos,openai/gpt-oss-120b,2026-11-04T21:48:04+00:00
+28573576000167,URISSANE COMUNICACAO LTDA,Offline,0.9,False,Produção rádio/TV,openai/gpt-oss-120b,2026-11-04T21:48:04+00:00
+24080493000185,EBANX PAGAMENTOS LTDA,Meta,0.9,True,Intermediário pagamento Meta,openai/gpt-oss-120b,2026-11-04T21:48:04+00:00
+05060706000324,SANTANA ASSOCIADOS MARKETING E PROPAGANDA LTDA,Outras digitais,0.8,False,Agência marketing mix,openai/gpt-oss-120b,2026-11-04T21:48:04+00:00
+51735365000103,BIGRAFICA EMBALAGENS LTDA,Offline,1.0,False,Impressão materiais,openai/gpt-oss-120b,2026-11-04T21:48:04+00:00
+05555136000181,CONDADO MARKETING LTDA,Offline,1.0,False,Produção audiovisual,openai/gpt-oss-120b,2026-11-04T21:48:04+00:00
+64752158000109,OKAN COMUNICACAO LTDA,Offline,1.0,False,Produção audiovisual,openai/gpt-oss-120b,2026-11-04T21:48:04+00:00
+51847516000107,VOLARE IMPRESSAO TEXTIL LTDA,Offline,1.0,False,Impressão tecido,openai/gpt-oss-120b,2026-11-04T21:48:04+00:00
+66183521000130,2026 COMUNICACAO SPE LTDA,Outras digitais,0.8,False,Agência publicidade,openai/gpt-oss-120b,2026-11-04T21:48:04+00:00
+34028316000103,EMPRESA BRASILEIRA DE CORREIOS E TELEGRAFOS,Offline,1.0,False,Serviços correios,openai/gpt-oss-120b,2026-11-04T21:48:04+00:00
+23024523000173,D. P. MALACHIAS - FILMES,Outras digitais,0.9,False,Marketing digital,openai/gpt-oss-120b,2026-11-04T21:48:04+00:00
+07027856000108,NOSCHANG ARTES GRAFICAS LTDA,Offline,1.0,False,Impressão e adesivos,openai/gpt-oss-120b,2026-11-04T21:48:04+00:00
+30007119000157,CONNECT FILMES - PRODUCAO DE FILMES E PUBLICIDADE LTDA,Offline,1.0,False,Produção audiovisual,openai/gpt-oss-120b,2026-11-04T21:48:04+00:00
+61997755000105,VALLILO GRAFICA E EDITORA LTDA,Offline,1.0,False,Impressão gráfica,openai/gpt-oss-120b,2026-11-04T21:48:04+00:00
+88804513000104,KADU MALHAS COMERCIO DE ROUPAS LTDA,Offline,1.0,False,Impressão e banners,openai/gpt-oss-120b,2026-11-04T21:48:04+00:00
+09649862000114,"IRMAOS SOUTELLO MENDONCA CONSULTORIA, COMUNICACAO E DESENVOLVIMENTO DE PROJETOS LTDA.",Outras digitais,0.9,False,Gestão redes sociais,openai/gpt-oss-120b,2026-11-04T21:48:04+00:00
+60496721000166,LRS COMUNICACAO E CONSULTORIA LTDA,Outras digitais,0.9,False,Comunicação campanha,openai/gpt-oss-120b,2026-11-04T21:48:04+00:00
+12419108000100,ARTES BH DIGITAL LTDA,Offline,1.0,False,Impressão banners,openai/gpt-oss-120b,2026-11-04T21:48:04+00:00
+68154614000161,ESTUDIO 90 PRODUCOES LTDA,Offline,1.0,False,Produção audiovisual,openai/gpt-oss-120b,2026-11-04T21:48:04+00:00
+13794184000150,COMSERGRAF COMERCIO E SERVICOS GRAFICOS LTDA,Offline,1.0,False,Impressão gráfica,openai/gpt-oss-120b,2026-11-04T21:48:04+00:00
+07723260000134,ALICERCE EDITORA LTDA,Offline,1.0,False,Impressão gráfica,openai/gpt-oss-120b,2026-11-04T21:48:04+00:00
+08220275000142,GRAFICA E EDITORA MOVIMENTO LTDA,Offline,0.9,False,Impressão dominante,openai/gpt-oss-120b,2026-11-04T21:48:04+00:00
+07544833000162,LUMIA COMUNICACAO LTDA,Offline,1.0,False,Mobilização e logística,openai/gpt-oss-120b,2026-11-04T21:48:04+00:00
+12841373000174,GRAFICA PAMPULHA LTDA.,Offline,1.0,False,Impressão gráfica,openai/gpt-oss-120b,2026-11-04T21:48:04+00:00
+94350113000160,JOKA SUBLIMACAO DIGITAL LTDA,Offline,1.0,False,Impressão banners,openai/gpt-oss-120b,2026-11-04T21:48:04+00:00
+41651099000179,GRAFICA E SINGS LTDA,Offline,1.0,False,Impressão e adesivos,openai/gpt-oss-120b,2026-11-04T21:48:04+00:00
+67565691000141,D26 COMUNICACAO SPE LTDA.,Outras digitais,0.8,False,Agência publicidade,openai/gpt-oss-120b,2026-11-04T21:48:04+00:00
+04000416000160,MAIANGA PRODUCOES CULTURAIS LTDA,Offline,0.99,False,Produção audiovisual TV/rádio,openai/gpt-oss-120b,2026-11-04T21:48:49+00:00
+13309316000101,"INDUSTRIA GRAFICA, COMUNICACAO VISUAL E CONFECCOES LTDA",Offline,0.99,False,Impressão e adesivos,openai/gpt-oss-120b,2026-11-04T21:48:49+00:00
+17887151000106,ERICA MARIA SANCHES CAMARGO,Offline,0.99,False,Materiais impressos e adesivos,openai/gpt-oss-120b,2026-11-04T21:48:49+00:00
+01692620000100,D ARTHY EDITORA E GRAFICA LTDA,Offline,0.99,False,Edição e impressão gráfica,openai/gpt-oss-120b,2026-11-04T21:48:49+00:00
+16625708000178,IDEIA ATIVA GRAFICA LTDA,Offline,0.99,False,Impressão de embalagens e adesivos,openai/gpt-oss-120b,2026-11-04T21:48:49+00:00
+09029247000105,GOL GRAFICA E EDITORA LTDA,Offline,0.99,False,Impressão de jornais e materiais,openai/gpt-oss-120b,2026-11-04T21:48:49+00:00
+64428337000187,GRAFICA E EDITORA EXPRESSA LTDA,Offline,0.99,False,Serviços de pré-impressão,openai/gpt-oss-120b,2026-11-04T21:48:49+00:00
+08710304000154,ASC COMUNICACOES E PRODUCOES LTDA,Offline,0.99,False,Produção audiovisual TV,openai/gpt-oss-120b,2026-11-04T21:48:49+00:00
+45022230000190,I9 PUBLICIDADE E PRODUCOES LTDA,Offline,0.99,False,"Agência de publicidade, gestão pessoal",openai/gpt-oss-120b,2026-11-04T21:48:49+00:00
+62773031000132,HAWAII GRAFICA E EDITORA LTDA,Offline,0.99,False,Impressão de materiais,openai/gpt-oss-120b,2026-11-04T21:48:49+00:00
+19023922000142,INFINITI PUBLICIDADE PROPAGANDA E SERVICOS GRAFICOS LTDA,Offline,0.99,False,Impressão e produção gráfica,openai/gpt-oss-120b,2026-11-04T21:48:49+00:00
+22507365000140,LETSROCKET COMUNICACAO DIGITAL LTDA,Outras digitais,0.99,False,Gestão de Meta Ads,openai/gpt-oss-120b,2026-11-04T21:48:49+00:00
+63777179000108,CRJ COMUNICACAO VISUAL LTDA,Offline,0.99,False,Impressão de banners e adesivos,openai/gpt-oss-120b,2026-11-04T21:48:49+00:00
+19048604000136,MOREIRA - CONCEITO EM COMUNICACAO LTDA,Offline,0.99,False,Produção TV/radio e marketing,openai/gpt-oss-120b,2026-11-04T21:48:49+00:00
+57700650000167,STUDIO ELETRONICO ASSESS E PROD DE CINEMA E TELEV LTDA,Offline,0.99,False,Produção audiovisual e estratégia,openai/gpt-oss-120b,2026-11-04T21:48:49+00:00
+49584646000152,CAPELLA FILMES LTDA,Offline,0.99,False,Aluguel equipamento produção,openai/gpt-oss-120b,2026-11-04T21:48:49+00:00
+04547429000154,QUARTETO FILMES PRODUCOES LTDA,Offline,0.99,False,Produção audiovisual TV e redes,openai/gpt-oss-120b,2026-11-04T21:48:49+00:00
+48942689000108,RTV FILMES LTDA,Outras digitais,0.99,False,Gestão tráfego e redes sociais,openai/gpt-oss-120b,2026-11-04T21:48:49+00:00
+68245066000185,V. U. PEREIRA IMPRESSAO E SINALIZACAO DIGITAL LTDA,Offline,0.99,False,Impressão de adesivos e bandeiras,openai/gpt-oss-120b,2026-11-04T21:48:49+00:00
+32667800000157,MCA PRODUCOES ARTISTICAS LTDA,Offline,0.99,False,Produção audiovisual e marketing,openai/gpt-oss-120b,2026-11-04T21:48:49+00:00
+17423050000184,"ENFIM PLUS COMUNICACAO VISUAL , COMERCIO E CONFECCOES GRAFICOS LTDA",Offline,0.99,False,Impressão de cartões e banners,openai/gpt-oss-120b,2026-11-04T21:48:49+00:00
+38001363000114,IDEALIS COMUNICACAO E PRODUCAO DE FILMES LTDA,Outras digitais,0.99,False,Marketing digital e redes sociais,openai/gpt-oss-120b,2026-11-04T21:48:49+00:00
+14717699000110,ARTES BRASIL COMUNICACAO VISUAL LTDA,Offline,0.99,False,Impressão de banners e adesivos,openai/gpt-oss-120b,2026-11-04T21:48:49+00:00
+67738741000145,CONECTA+ COMUNICACAO INTEGRADA LTDA,Offline,0.99,False,Consultoria e gestão de pessoal,openai/gpt-oss-120b,2026-11-04T21:48:49+00:00
+16875033000115,MAXIVOTO CONSULTORIA LTDA,Offline,0.99,False,Produção audiovisual e marketing,openai/gpt-oss-120b,2026-11-04T21:48:49+00:00
+42888115000104,A EDITORA LTDA,Offline,0.99,False,Impressão de jornais e adesivos,openai/gpt-oss-120b,2026-11-04T21:48:49+00:00
+68395347000114,WS GRAFICA E SERVICOS DIGITAIS LTDA,Offline,0.99,False,Impressão e adesivos diversos,openai/gpt-oss-120b,2026-11-04T21:48:49+00:00
+04386913000149,ELOS ESTUDIO E SERVICOS LTDA,Offline,0.99,False,Gravação e produção de áudio,openai/gpt-oss-120b,2026-11-04T21:48:49+00:00
+50894599000122,FOLHA COMUNICACAO VISUAL LTDA,Offline,0.99,False,Impressão de materiais gráficos,openai/gpt-oss-120b,2026-11-04T21:48:49+00:00
+53131986000103,UP GRAFICA COMUNICACAO VISUAL LTDA,Offline,0.99,False,Impressão de adesivos e banners,openai/gpt-oss-120b,2026-11-04T21:48:49+00:00
+13477302000105,PARTIDO DOS TRABALHADORES - BAHIA - BA - ESTADUAL,Offline,0.96,False,TV/radio produção,openai/gpt-oss-120b,2026-11-04T21:49:33+00:00
+68561051000126,GRAFICA NOBRE PUBLICIDADE E CONFECCAO LTDA,Offline,0.97,False,Impressão adesivos,openai/gpt-oss-120b,2026-11-04T21:49:33+00:00
+64085554000111,MR SERVICOS E EVENTOS LTDA,Offline,0.95,False,Eventos e produção audiovisual,openai/gpt-oss-120b,2026-11-04T21:49:33+00:00
+55149547000145,G2A2 COMERCIAL LTDA,Offline,0.96,False,Materiais impressos,openai/gpt-oss-120b,2026-11-04T21:49:33+00:00
+11091489000170,OTTO PRODUCOES LTDA,Offline,0.95,False,Produção TV/radio,openai/gpt-oss-120b,2026-11-04T21:49:33+00:00
+67937288000104,SAO BENTO CONSULTORIA LTDA,Offline,0.94,False,Consultoria de conteúdo,openai/gpt-oss-120b,2026-11-04T21:49:33+00:00
+33322586000160,FOCO VISUAL COMERCIO DE PRODUTOS PROMOCIONAIS LTDA,Offline,0.96,False,Impressão banners,openai/gpt-oss-120b,2026-11-04T21:49:33+00:00
+03623639000111,IMAGE COLOR EDITORA E SERVICOS LTDA,Offline,0.95,False,Impressão e jornais,openai/gpt-oss-120b,2026-11-04T21:49:33+00:00
+37980715000168,F.E.CANDIDO COMERCIO E SERVICOS,Offline,0.95,False,Banners impressos,openai/gpt-oss-120b,2026-11-04T21:49:33+00:00
+06144543000169,VICTORIANA PRODUCOES LTDA,Offline,0.95,False,Produção audiovisual,openai/gpt-oss-120b,2026-11-04T21:49:33+00:00
+67057655000177,HG M SERVICOS GRAFICOS LTDA,Offline,0.96,False,Serviços de impressão,openai/gpt-oss-120b,2026-11-04T21:49:33+00:00
+24930645000191,JOBGRAF SERVICOS GRAFICOS LTDA,Offline,0.96,False,Impressão adesivos,openai/gpt-oss-120b,2026-11-04T21:49:33+00:00
+37099622000129,DIEGO SILVA LOPES LTDA,Offline,0.96,False,Impressão materiais,openai/gpt-oss-120b,2026-11-04T21:49:33+00:00
+50076774000174,VOLMAR ERNESTO GOMES,Offline,0.96,False,Impressão folders,openai/gpt-oss-120b,2026-11-04T21:49:33+00:00
+11326221000170,"CHP MARKETING, CRIATIVIDADE E NEGOCIOS LTDA",Outras digitais,0.94,False,Agência redes sociais,openai/gpt-oss-120b,2026-11-04T21:49:33+00:00
+22206642000184,CONCEITTO PLUS MARKETING E COMERCIAL LTDA,Outras digitais,0.93,False,Agência marketing digital,openai/gpt-oss-120b,2026-11-04T21:49:33+00:00
+25188538000100,ESSENT INOVACAO CONTABIL LTDA,Offline,0.94,False,Serviços contábeis,openai/gpt-oss-120b,2026-11-04T21:49:33+00:00
+33589664000197,CIA DO FILME PRODUCOES AUDIOVISUAIS LTDA,Offline,0.94,False,Produção audiovisual,openai/gpt-oss-120b,2026-11-04T21:49:33+00:00
+04740026000127,GLM - GRAFICA E COPIADORA SCALLA LTDA,Offline,0.95,False,Gráfica e impressão,openai/gpt-oss-120b,2026-11-04T21:49:33+00:00
+12209884000178,PONTO 8 WEB COMUNICACAO LTDA,Offline,0.94,False,Produção TV/radio,openai/gpt-oss-120b,2026-11-04T21:49:33+00:00
+10316060000171,DIGITAL POST COMERCIO E SERVICOS DE POSTAGEM LTDA,Offline,0.93,False,Serviços postais,openai/gpt-oss-120b,2026-11-04T21:49:33+00:00
+15705697000173,EVAG COMUNICACAO E TECNOLOGIA LTDA.,Outras digitais,0.92,False,Desenvolvimento web,openai/gpt-oss-120b,2026-11-04T21:49:33+00:00
+46115394000124,HERNANI FILMES E MARQUETING DIGITAL LTDA,Outras digitais,0.92,False,Marketing digital e audiovisual,openai/gpt-oss-120b,2026-11-04T21:49:33+00:00
+03333174000164,CENTRAL PLOTAGENS LTDA,Offline,0.95,False,Impressão adesivos,openai/gpt-oss-120b,2026-11-04T21:49:33+00:00
+15666080000196,S.M. SOLUCOES GRAFICAS E PUBLICITARIAS LTDA,Offline,0.95,False,Impressão materiais gráficos,openai/gpt-oss-120b,2026-11-04T21:49:33+00:00
+45803589000102,C4 EMPREENDIMENTOS LTDA,Offline,0.94,False,Mobilização e locação,openai/gpt-oss-120b,2026-11-04T21:49:33+00:00
+47714201000114,COMUNIK MEGA PUBLICIDADE LTDA,Offline,0.95,False,Impressão adesivos,openai/gpt-oss-120b,2026-11-04T21:49:33+00:00
+58157193000179,FLAME AGENCY MARKETING DIGITAL LTDA,Outras digitais,0.91,False,Agência marketing digital,openai/gpt-oss-120b,2026-11-04T21:49:33+00:00
+12369956000144,OLT COMUNICACAO E MARKETING LTDA,Outras digitais,0.91,False,Agência produção e marketing,openai/gpt-oss-120b,2026-11-04T21:49:33+00:00
+03470235000135,ZOOM PUBLICIDADE EXTERIOR LTDA,Offline,0.95,False,Publicidade exterior física,openai/gpt-oss-120b,2026-11-04T21:49:33+00:00
+62458170000171,WSA SERVICOS E COMERCIO DE INFORMATICA LTDA,Offline,0.96,False,Impressão de materiais,openai/gpt-oss-120b,2026-11-04T21:50:37+00:00
+04007887000109,MALAGUETA FILMES LTDA,Offline,0.96,False,Produção TV/radio,openai/gpt-oss-120b,2026-11-04T21:50:37+00:00
+40225615000130,JOYO TECNOLOGIA BRASIL LTDA.,Kwai,0.99,False,Impulsionamento Kwai,openai/gpt-oss-120b,2026-11-04T21:50:37+00:00
+13586248000128,VITORIA DIGITAL LTDA,Offline,0.96,False,Materiais impressos,openai/gpt-oss-120b,2026-11-04T21:50:37+00:00
+52531642000110,GUSTAVO DA SILVA MOTA DOS SANTOS,Offline,0.95,False,Produção audiovisual,openai/gpt-oss-120b,2026-11-04T21:50:37+00:00
+30167066000131,SVM COPIAS E IMPRESSOS LTDA,Offline,0.96,False,Impressão de materiais,openai/gpt-oss-120b,2026-11-04T21:50:37+00:00
+39299179000165,MAGIC BEANS COMUNICACAO LTDA,Outras digitais,0.92,False,Comunicação digital WhatsApp,openai/gpt-oss-120b,2026-11-04T21:50:37+00:00
+14938065000197,CRITERIO COMUNICACAO LTDA,Outras digitais,0.92,False,Gestão estratégica digital,openai/gpt-oss-120b,2026-11-04T21:50:37+00:00
+09413342000108,PONTODIGITAL SERVICOS GRAFICOS LTDA,Offline,0.96,False,Impressão gráfica,openai/gpt-oss-120b,2026-11-04T21:50:37+00:00
+62315365000162,YOUNG LTDA,Offline,0.95,False,Pós‑produção audiovisual,openai/gpt-oss-120b,2026-11-04T21:50:37+00:00
+02704845000193,F G DE Q PIERRE SOBRINHO LTDA,Offline,0.96,False,Impressão de adesivos,openai/gpt-oss-120b,2026-11-04T21:50:37+00:00
+41221368000167,AZ DIGITAL MKT LTDA,Outras digitais,0.93,False,Marketing digital completo,openai/gpt-oss-120b,2026-11-04T21:50:37+00:00
+20944143000169,PAROLAH DESIGN E COMUNICACAO VISUAL LTDA,Outras digitais,0.9,False,Infraestrutura digital campanha,openai/gpt-oss-120b,2026-11-04T21:50:37+00:00
+15705958000155,PJ MIDIA DIGITAL PUBLICIDADE GRAFICA LTDA,Offline,0.96,False,Impressão de materiais,openai/gpt-oss-120b,2026-11-04T21:50:37+00:00
+27402084000146,ORO DIGITAL LTDA,Outras digitais,0.92,False,Comunicação e marketing eleitoral,openai/gpt-oss-120b,2026-11-04T21:50:37+00:00
+62017756000109,SAM MARC COMUNICACAO VISUAL LTDA,Offline,0.96,False,Impressão e banners,openai/gpt-oss-120b,2026-11-04T21:50:37+00:00
+16951665000110,RB GRAFICA DIGITAL LTDA,Offline,0.96,False,Impressão de cartas e bottons,openai/gpt-oss-120b,2026-11-04T21:50:37+00:00
+26042426000100,2E COMUNICACAO LTDA,Offline,0.9,False,Produção audiovisual para campanha,openai/gpt-oss-120b,2026-11-04T21:50:37+00:00
+32681867000146,DESING DIGITAL E ASSESSORIA LTDA,Outras digitais,0.91,False,Mídia digital e gestão plataforma,openai/gpt-oss-120b,2026-11-04T21:50:37+00:00
+36108404000140,PIXEL IMPRESSAO DIGITAL LTDA,Offline,0.96,False,Impressão digital de banners,openai/gpt-oss-120b,2026-11-04T21:50:37+00:00
+53060662000113,BB SERVICOS DE IMPRESSAO DIGITAL LTDA,Offline,0.96,False,Impressão de adesivos e placas,openai/gpt-oss-120b,2026-11-04T21:50:37+00:00
+04030180000105,BCR50 NEGOCIOS INTELIGENTES LTDA,Outras digitais,0.92,False,Marketing político digital,openai/gpt-oss-120b,2026-11-04T21:50:37+00:00
+35644963000102,RODRIGO PERPETUO DOS SANTOS LTDA,Offline,0.96,False,Impressão de adesivos e folhetos,openai/gpt-oss-120b,2026-11-04T21:50:37+00:00
+12058968000158,AGUIAR IMPRESSAO DIGITAL LTDA,Offline,0.96,False,Impressão de banners e adesivos,openai/gpt-oss-120b,2026-11-04T21:50:37+00:00
+38329411000106,MENDES E MOTTA PRODUCOES LTDA,Outras digitais,0.9,False,Impulsionamento sem plataforma identificada,openai/gpt-oss-120b,2026-11-04T21:50:37+00:00
+58902444000100,SHEILA DE ABREU BRUNAUTH,Offline,0.96,False,Impressão de windbanner,openai/gpt-oss-120b,2026-11-04T21:50:37+00:00
+92821701000100,RBS - ZERO HORA EDITORA JORNALISTICA S.A.,Offline,0.96,False,Produção de jornal e anúncios,openai/gpt-oss-120b,2026-11-04T21:50:37+00:00
+30907214000107,QUALITY PRINT A J LTDA,Offline,0.96,False,Impressão de materiais e banners,openai/gpt-oss-120b,2026-11-04T21:50:37+00:00
+58504059000105,CARCARA ESCRITORIO DIGITAL LTDA,Outras digitais,0.92,False,Comunicação digital campanha,openai/gpt-oss-120b,2026-11-04T21:50:37+00:00
+13913408000104,XR GLOBAL BRASIL LTDA,Outras digitais,0.92,False,Entrega digital de comerciais,openai/gpt-oss-120b,2026-11-04T21:50:37+00:00
+14437788000102,FLEX MARKETING DIRETO LTDA,Outras digitais,0.95,False,Gestão de anúncios Meta,openai/gpt-oss-120b,2026-11-04T21:50:58+00:00
+05656299000150,BROKOLIS DO BRASIL EDICAO E FINALIZACAO LTDA.,Offline,0.96,False,Produção audiovisual TV/radio,openai/gpt-oss-120b,2026-11-04T21:50:58+00:00
+19721291000135,CAMACORP - VISAO GRAFICA LTDA,Offline,0.97,False,Impressão de materiais,openai/gpt-oss-120b,2026-11-04T21:50:58+00:00
+18734866000191,INSEPTOS FILMES LTDA,Offline,0.95,False,Produção e locação equipamento TV,openai/gpt-oss-120b,2026-11-04T21:50:58+00:00
+25683890000104,ESPLANADA SERVICOS DE INTERNET LTDA,Outras digitais,0.9,False,Serviços de internet e comunicação,openai/gpt-oss-120b,2026-11-04T21:50:58+00:00
+51716446000158,M F CARNEIRO LEMOS PUBLICIDADE,Outras digitais,0.9,False,Agência publicidade e vídeo,openai/gpt-oss-120b,2026-11-04T21:50:58+00:00
+21532720000178,SLAPP COMUNICACAO LTDA,Outras digitais,0.9,False,Marketing digital campanha,openai/gpt-oss-120b,2026-11-04T21:50:58+00:00
+22373476000100,FILMAVIDEO LTDA,Offline,0.95,False,Produção audiovisual TV,openai/gpt-oss-120b,2026-11-04T21:50:58+00:00
+38709741000119,AKZA MEDIA FILMES LTDA,Outras digitais,0.85,False,Estratégia digital e captação,openai/gpt-oss-120b,2026-11-04T21:50:58+00:00
+59140494000152,MONET COMUNICACAO DIGITAL E MARKETING LTDA,Offline,0.9,False,Produção audiovisual,openai/gpt-oss-120b,2026-11-04T21:50:58+00:00
+11064302000140,DROPS COMUNICACAO AUDIOVISUAL LTDA,Outras digitais,0.85,False,Produção internet e audiovisual,openai/gpt-oss-120b,2026-11-04T21:50:58+00:00
+42337805000175,PORTES SERVICOS DE MARKETING DIRETO LTDA,Outras digitais,0.95,False,Gestão e publicação redes sociais,openai/gpt-oss-120b,2026-11-04T21:50:58+00:00
+19492756000123,G. WILDE SILVA DE OLIVEIRA,Outras digitais,0.9,False,Portal e propaganda,openai/gpt-oss-120b,2026-11-04T21:50:58+00:00
+49224093000127,MELT SOLUCOES DE MARKETING DIGITAL LTDA,Outras digitais,0.9,False,Consultoria marketing digital,openai/gpt-oss-120b,2026-11-04T21:50:58+00:00
+58958647000100,PLAY-IN DIGITAL LTDA,Outras digitais,0.95,False,Comunicação digital campanha,openai/gpt-oss-120b,2026-11-04T21:50:58+00:00
+63328044000165,ESTALUZ MARKETING E PROPAGANDA LTDA,Outras digitais,0.85,False,Marketing campanha eleitoral,openai/gpt-oss-120b,2026-11-04T21:50:58+00:00
+16605335000173,J L DE B BRITO PRODUCOES LTDA,Offline,0.95,False,Produção áudio/video TV/radio,openai/gpt-oss-120b,2026-11-04T21:50:58+00:00
+45891954000170,BIPE PUBLICIDADE LTDA,Outras digitais,0.9,False,Consultoria publicidade eleitoral,openai/gpt-oss-120b,2026-11-04T21:50:58+00:00
+41105114000183,RAGUS NEGOCIOS E SERVICOS ESTRUTURAIS LTDA,Offline,0.97,False,Impressão windbanner,openai/gpt-oss-120b,2026-11-04T21:50:58+00:00
+08303959000108,MAIS IMPRESSAO DECOR LTDA,Offline,0.97,False,Impressão materiais diversos,openai/gpt-oss-120b,2026-11-04T21:50:58+00:00
+13230334000101,"INCINE SERVICOS DE COMUNICACAO, PRODUCOES E MARKETING LTDA",Offline,0.9,False,Produção audiovisual e conteúdo,openai/gpt-oss-120b,2026-11-04T21:50:58+00:00
+15529119000123,ESTUDIO 9 PRODUCOES AUDIOVISUAIS LTDA,Offline,0.95,False,Gravação e produção áudio,openai/gpt-oss-120b,2026-11-04T21:50:58+00:00
+45877695000122,SVS COMUNICACAO VISUAL LTDA,Offline,0.97,False,Impressão panfletos e adesivos,openai/gpt-oss-120b,2026-11-04T21:50:58+00:00
+04284301000145,TW7 COMUNICACOES LTDA,Offline,0.96,False,Impressão banners e colinhas,openai/gpt-oss-120b,2026-11-04T21:50:58+00:00
+17849433000119,GRAFICA OLIVEIRA SANTANA LTDA.,Offline,0.97,False,Impressão gráfica diversa,openai/gpt-oss-120b,2026-11-04T21:50:58+00:00
+58127776000157,R P SERVICOS GRAFICOS E EVENTOS LTDA,Offline,0.96,False,Impressão e aluguel equipamentos evento,openai/gpt-oss-120b,2026-11-04T21:50:58+00:00
+56948343000137,SAVVY HUB DE NEGOCIOS LTDA,Outras digitais,0.93,False,Serviço marketing digital,openai/gpt-oss-120b,2026-11-04T21:50:58+00:00
+42179329000101,NETWORK SERVICOS DE COMUNICACAO E PRODUTORA DE FILMES LTDA,Outras digitais,0.85,False,Audiovisual para redes sociais,openai/gpt-oss-120b,2026-11-04T21:50:58+00:00
+37870663000177,RB SOLUCOES DIGITAIS LTDA,Outras digitais,0.95,False,Serviços digitais e tráfego pago,openai/gpt-oss-120b,2026-11-04T21:50:58+00:00
+08112785000104,EVERTON RADTKE DE RADTKE,Offline,0.96,False,Impressão wind banners,openai/gpt-oss-120b,2026-11-04T21:50:58+00:00
+04241587000181,ATIVAONLINE EDITORA E INDUSTRIA GRAFICA LTDA,Offline,0.99,False,Impressão gráfica,openai/gpt-oss-120b,2026-11-04T21:51:52+00:00
+47685939000109,FERREIRA COMUNICACAO VISUAL LTDA,Offline,0.99,False,Materiais impressos,openai/gpt-oss-120b,2026-11-04T21:51:52+00:00
+13347016000389,FACEBOOK SERVICOS ONLINE DO BRASIL LTDA.,Meta,1.0,False,Meta oficial,openai/gpt-oss-120b,2026-11-04T21:51:52+00:00
+51977864000107,BEST VISION COMUNICACAO VISUAL LTDA,Offline,0.98,False,Impressão e banners,openai/gpt-oss-120b,2026-11-04T21:51:52+00:00
+16504870000138,GRAFICA SILVA LARA LTDA,Offline,0.99,False,Gráfica e impressão,openai/gpt-oss-120b,2026-11-04T21:51:52+00:00
+57983960000136,UPSIZE PRODUGENCIA LTDA,Offline,0.85,False,Produção TV/radio e web,openai/gpt-oss-120b,2026-11-04T21:51:52+00:00
+25160423000108,OLIVA.AG MARKETING LTDA,Outras digitais,0.97,False,Marketing digital e redes,openai/gpt-oss-120b,2026-11-04T21:51:52+00:00
+24604904000194,GUARUSING COMUNICACAO VISUAL E FACHADAS LTDA,Offline,0.98,False,Impressos e adesivos,openai/gpt-oss-120b,2026-11-04T21:51:52+00:00
+04059685000100,GRAFTEC GRAFICA E EDITORA LTDA,Offline,0.99,False,Impressão de materiais,openai/gpt-oss-120b,2026-11-04T21:51:52+00:00
+46298651000100,DOIS MUNDOS MARKETING LTDA,Offline,0.96,False,Impressos + consultoria,openai/gpt-oss-120b,2026-11-04T21:51:52+00:00
+31812351000120,A G FURTADO SERVICOS LTDA,Offline,0.99,False,Impressão de santinhos,openai/gpt-oss-120b,2026-11-04T21:51:52+00:00
+28516978000120,MOVIE ME FILMES LTDA,Offline,0.99,False,Produção audiovisual,openai/gpt-oss-120b,2026-11-04T21:51:52+00:00
+66743508000198,M.I.P - MARKETING LTDA,Outras digitais,0.9,False,Audiovisual para redes,openai/gpt-oss-120b,2026-11-04T21:51:52+00:00
+47432708000185,"DELOS CONSULTORIA, COMUNICACAO, PUBLICIDADE E MARKETING DIGITAL LTDA",Outras digitais,0.85,False,Serviços digitais genéricos,openai/gpt-oss-120b,2026-11-04T21:51:52+00:00
+15113068000154,IZAR FILMES E PRODUCOES CINEMATOGRAFICAS LTDA.,Offline,0.99,False,Produção TV/radio,openai/gpt-oss-120b,2026-11-04T21:51:52+00:00
+13994239000176,MACACO GORDO PUBLICIDADE E SERVICOS LTDA,Offline,0.88,False,Produção vídeo e estúdio,openai/gpt-oss-120b,2026-11-04T21:51:52+00:00
+57508728000146,BLACKUP LTDA,Offline,0.95,False,Produção audiovisual,openai/gpt-oss-120b,2026-11-04T21:51:52+00:00
+10941636000191,PAROLLE COMUNICACAO E SERVICOS ESPECIALIZADOS LTDA,Outras digitais,0.9,False,Vídeo para redes sociais,openai/gpt-oss-120b,2026-11-04T21:51:52+00:00
+05634983000131,GRAND S IMAGEM DIGITAL LTDA,Offline,0.99,False,Impressão de banners,openai/gpt-oss-120b,2026-11-04T21:51:52+00:00
+60180773000129,AGENCIA SETTA LTDA,Outras digitais,0.96,False,Comunicação digital e tráfego pago,openai/gpt-oss-120b,2026-11-04T21:51:52+00:00
+17061465000155,DM FILMS ARTES VISUAIS LTDA,Offline,0.85,False,Serviços de produção audiovisual,openai/gpt-oss-120b,2026-11-04T21:51:52+00:00
+46168997000194,YOUR GRAPHIC BRASIL SERVICOS GRAFICOS LTDA,Offline,0.99,False,Impressão gráfica,openai/gpt-oss-120b,2026-11-04T21:51:52+00:00
+58543337000125,"FERMENTO MARKETING, INTELIGENCIA DE DADOS E TECNOLOGIA LTDA",Outras digitais,0.94,False,Marketing digital e design,openai/gpt-oss-120b,2026-11-04T21:51:52+00:00
+60579703000148,EMPRESA FOLHA DA MANHA S.A.,Offline,0.99,False,Publicação jornalística,openai/gpt-oss-120b,2026-11-04T21:51:52+00:00
+24940773000116,DESTAK IMPRESSAO DIGITAL LTDA,Offline,0.98,False,Impressão digital,openai/gpt-oss-120b,2026-11-04T21:51:52+00:00
+34930569000178,I9 SOLUCOES EM MARKETING E MIDIAS DIGITAIS LTDA,Outras digitais,0.95,False,Marketing e mídia digital,openai/gpt-oss-120b,2026-11-04T21:51:52+00:00
+20891657000101,F V PUBLICIDADE VISUAL LTDA,Offline,0.99,False,Impressão de materiais,openai/gpt-oss-120b,2026-11-04T21:51:52+00:00
+34125673000190,AGENCIA LIBERO DIGITAL MARKETING E TREINAMENTO LTDA,Outras digitais,0.97,False,Gestão de tráfego pago,openai/gpt-oss-120b,2026-11-04T21:51:52+00:00
+55897483000160,ATAR CONNECT LTDA,Outras digitais,0.96,False,Marketing digital político,openai/gpt-oss-120b,2026-11-04T21:51:52+00:00
+37978865000137,SCAN REVENDA IMPRESSAO DIGITAL LTDA,Offline,0.99,False,Impressão digital,openai/gpt-oss-120b,2026-11-04T21:51:52+00:00
+32817070000123,H T M MULTIMIDIA SERVICOS DE COMUNICACAO DIGITAL LTDA,Offline,0.96,False,"Produção audiovisual, impressão",openai/gpt-oss-120b,2026-11-04T21:52:30+00:00
+22999094000197,MIDIA MARKETING DIGITAL DO TRIANGULO LTDA,Outras digitais,0.94,False,Marketing digital sem plataforma específica,openai/gpt-oss-120b,2026-11-04T21:52:30+00:00
+50094277000107,FUTURE DIGITAL LTDA,Outras digitais,0.94,False,Agência de publicidade digital,openai/gpt-oss-120b,2026-11-04T21:52:30+00:00
+46720921000120,RGB EXPRESS LTDA,Offline,0.97,False,Impressão de vinil e folhetos,openai/gpt-oss-120b,2026-11-04T21:52:30+00:00
+07691829000127,FORMA CERTA GRAFICA DIGITAL LTDA,Offline,0.97,False,Gráfica e impressão de materiais,openai/gpt-oss-120b,2026-11-04T21:52:30+00:00
+58566808000110,BLICIE BALISA MARKETING DIGITAL LTDA,Outras digitais,0.93,False,Marketing digital e identidade visual,openai/gpt-oss-120b,2026-11-04T21:52:30+00:00
+51410605000191,1234 NEGOCIOS E REPRESENTACOES LTDA,Offline,0.96,False,Materiais impressos e locação,openai/gpt-oss-120b,2026-11-04T21:52:30+00:00
+20467765000143,LOCOMOTIVA PRODUCOES LTDA,Outras digitais,0.92,False,Consultoria e marketing digital,openai/gpt-oss-120b,2026-11-04T21:52:30+00:00
+13275606000181,OPA CONTEUDO LTDA,Outras digitais,0.92,False,Produção audiovisual e design digital,openai/gpt-oss-120b,2026-11-04T21:52:30+00:00
+49628534000156,GMS SERVICOS DE TECNOLOGIA LTDA,Outras digitais,0.91,False,Desenvolvimento de plataforma online,openai/gpt-oss-120b,2026-11-04T21:52:30+00:00
+37571001000104,I9 CONFECCAO DE BRINDES LTDA,Offline,0.96,False,Impressão de brindes e adesivos,openai/gpt-oss-120b,2026-11-04T21:52:30+00:00
+38224381000165,JP PRODUCOES DIRECAO E PRODUCOES CINEMATOGRAFICAS LTDA,Offline,0.95,False,Produção cinematográfica e vídeo,openai/gpt-oss-120b,2026-11-04T21:52:30+00:00
+40401268000150,TP SERVICOS LTDA,Offline,0.96,False,Impressão de banners e materiais,openai/gpt-oss-120b,2026-11-04T21:52:30+00:00
+62027857000152,MARCELO DA SILVA COLARES,Offline,0.96,False,Serviços de pré-impressão e impressão,openai/gpt-oss-120b,2026-11-04T21:52:30+00:00
+38347632000107,DFMKT COMUNICACAO E TECNOLOGIA LTDA,Outras digitais,0.93,False,Gestão e impulsionamento de campanhas digitais,openai/gpt-oss-120b,2026-11-04T21:52:30+00:00
+49925441000193,2HC CRIATIVIDADE E PRODUCOES LTDA,Outras digitais,0.92,False,Gestão de redes sociais e conteúdo digital,openai/gpt-oss-120b,2026-11-04T21:52:30+00:00
+03072087000109,FABIANO DA ROSA BONETTI,Outras digitais,0.91,False,Consultoria estratégica e gestão digital,openai/gpt-oss-120b,2026-11-04T21:52:30+00:00
+30246324000175,PRESS IMPRESSAO DIGITAL LTDA,Offline,0.95,False,Impressão de adesivos e materiais,openai/gpt-oss-120b,2026-11-04T21:52:30+00:00
+57552292000192,TAVEIRA L F AUDIOVISUAL LTDA,Outras digitais,0.92,False,Produção audiovisual para TV e redes,openai/gpt-oss-120b,2026-11-04T21:52:30+00:00
+56029381000196,PAZLANDIM COMERCIO E MOBILIDADE URBANA LTDA,Offline,0.95,False,Impressão de banners e adesivos,openai/gpt-oss-120b,2026-11-04T21:52:30+00:00
+43453750000121,BAILA POLITICS LTDA,Outras digitais,0.93,False,Marketing digital e comunicação eleitoral,openai/gpt-oss-120b,2026-11-04T21:52:30+00:00
+50099452000140,SEVEN IMPRESS PUBLICACOES E EDITORA LTDA,Offline,0.95,False,Impressão de banners e impulsionamento não identificado,openai/gpt-oss-120b,2026-11-04T21:52:30+00:00
+66057360000138,SUCESSO IMPRESSOES DIGITAIS LTDA,Offline,0.95,False,Impressão de panfletos e adesivos,openai/gpt-oss-120b,2026-11-04T21:52:30+00:00
+41555199000100,RUMON CONSULTORIA ESTRATEGICA LTDA,Outras digitais,0.92,False,Consultoria e marketing eleitoral digital,openai/gpt-oss-120b,2026-11-04T21:52:30+00:00
+05270800000146,GERP MERCADOLOGIA LTDA,Outras digitais,0.91,False,Serviços de pesquisa e dados online,openai/gpt-oss-120b,2026-11-04T21:52:30+00:00
+61533949000141,S/A O ESTADO DE S.PAULO,Offline,0.96,False,Publicidade em jornal impresso,openai/gpt-oss-120b,2026-11-04T21:52:30+00:00
+66014987000101,LUDENS MARKETING LTDA,Outras digitais,0.92,False,Produção audiovisual e conteúdo digital,openai/gpt-oss-120b,2026-11-04T21:52:30+00:00
+39158679000187,GUSTAVO ECCHER LTDA,Offline,0.96,False,Impressão de adesivos e vinil,openai/gpt-oss-120b,2026-11-04T21:52:30+00:00
+59963488000103,EMPRESA DE PUBLICIDADE RIO PRETO S.A.,Offline,0.96,False,Veiculação de anúncios em jornal,openai/gpt-oss-120b,2026-11-04T21:52:30+00:00
+33262515000119,MARCOS VINICIUS SILVA ANDRADE,Offline,0.96,False,Impressão de banners e materiais,openai/gpt-oss-120b,2026-11-04T21:52:30+00:00
+36440413000134,FLORADA COMUNICACAO DE IMPACTO LTDA,Meta,0.95,False,WhatsApp mobilização digital,openai/gpt-oss-120b,2026-11-04T21:53:13+00:00
+30912156000100,IONE APARECIDA DE SOUSA BESSA IMPRESSAO DIGITAL,Offline,0.98,False,Impressão de materiais,openai/gpt-oss-120b,2026-11-04T21:53:13+00:00
+41013131000190,ALEXANDRE SEGALINA DE CARVALHO AGENCIA DE PUBLICIDADE LTDA,Outras digitais,0.96,False,Gestão de tráfego pago,openai/gpt-oss-120b,2026-11-04T21:53:13+00:00
+55852827000115,FLAVIO DOMINGUES SOUZA,Offline,0.97,False,Confecção de banners físicos,openai/gpt-oss-120b,2026-11-04T21:53:13+00:00
+32845837000128,SOUL BR PARTICPACOES LTDA,Outras digitais,0.94,False,Marketing redes sociais e vídeo,openai/gpt-oss-120b,2026-11-04T21:53:13+00:00
+93102663000106,ANTONIO CARLOS DE LIMA,Offline,0.98,False,Impressão de folders e totens,openai/gpt-oss-120b,2026-11-04T21:53:13+00:00
+59765311000194,MATCHWORK LTDA,Outras digitais,0.93,False,Desenvolvimento de solução digital,openai/gpt-oss-120b,2026-11-04T21:53:13+00:00
+58976977000129,58.976.977 TULIO FEROLLA DURSO NETTO,Offline,0.96,False,Produção audiovisual,openai/gpt-oss-120b,2026-11-04T21:53:13+00:00
+14409675000101,RECOGRAF LTDA,Offline,0.97,False,Impressão de banners e colinhas,openai/gpt-oss-120b,2026-11-04T21:53:13+00:00
+31936402000126,KLEBER A ROMAO,Offline,0.96,False,Produção rádio e TV,openai/gpt-oss-120b,2026-11-04T21:53:13+00:00
+41734644000190,AGE COMPANY COMUNICACAO LTDA,Offline,0.96,False,Locação de estúdio e gravação,openai/gpt-oss-120b,2026-11-04T21:53:13+00:00
+49572657000112,L3 SERVICOS DE CONSULTORIA DIGITAL E MARKETING LTDA,Offline,0.95,False,Produção audiovisual campanha,openai/gpt-oss-120b,2026-11-04T21:53:13+00:00
+35249776000124,MC12 PRODUTORA LTDA,Offline,0.94,False,Serviços técnicos de comunicação eleitoral,openai/gpt-oss-120b,2026-11-04T21:53:13+00:00
+63777334000196,FSG PRODUCOES DE EVENTOS E ARTISTICAS LTDA,Outras digitais,0.95,False,Marketing digital e gestão de redes,openai/gpt-oss-120b,2026-11-04T21:53:13+00:00
+49580225000153,PLURAL AUDIO VISUAL LTDA,Offline,0.96,False,Produção de programas de rádio e TV,openai/gpt-oss-120b,2026-11-04T21:53:13+00:00
+42753412000142,HEAD 360 GRAUS SERVICOS DE MARKETING DIRETO LTDA,Outras digitais,0.95,False,Criação e gestão de conteúdo social,openai/gpt-oss-120b,2026-11-04T21:53:13+00:00
+30870118000131,CRIA PRODUCOES ARTISTICAS LTDA,Offline,0.95,False,Pós‑produção audiovisual,openai/gpt-oss-120b,2026-11-04T21:53:13+00:00
+14448218000118,MAYO EVENTOS LTDA,Offline,0.95,False,Produção de áudio e vídeo,openai/gpt-oss-120b,2026-11-04T21:53:13+00:00
+46558333000131,ELA MARKETING POLITICO CONSULTORIA LTDA,Outras digitais,0.94,False,Consultoria e planejamento de mídia,openai/gpt-oss-120b,2026-11-04T21:53:13+00:00
+25371717000170,DIGITAL SIGNS MIDIAS IMPRESSAS LTDA,Offline,0.97,False,Impressão de banners e materiais,openai/gpt-oss-120b,2026-11-04T21:53:13+00:00
+04274789000120,CASA DE CRIACAO COMUNICACAO E MARKETING LTDA,Offline,0.96,False,Estúdio completo para TV/rádio,openai/gpt-oss-120b,2026-11-04T21:53:13+00:00
+59222741000160,TR REPRESENTACAO E EVENTOS LTDA,Outras digitais,0.94,False,Impulsionamento e marketing digital,openai/gpt-oss-120b,2026-11-04T21:53:13+00:00
+12351849000199,DNEMARKETING ASSESSORIA DE IMPRENSA LTDA,Outras digitais,0.93,False,Assessoria imprensa e marketing online,openai/gpt-oss-120b,2026-11-04T21:53:13+00:00
+23533529000176,CRITICAL MASS COMUNICACAO DIGITAL LTDA.,Outras digitais,0.94,False,Comunicação digital para candidatura,openai/gpt-oss-120b,2026-11-04T21:53:13+00:00
+67203584000173,MPP PRIME SERVICOS LTDA,Outras digitais,0.92,False,Marketing digital + sonorização móvel,openai/gpt-oss-120b,2026-11-04T21:53:13+00:00
+61482895000132,FLSP LTDA,Outras digitais,0.91,False,Licença plataforma CIPE e inteligência,openai/gpt-oss-120b,2026-11-04T21:53:13+00:00
+90793076000104,GRAFICA TEKE LTDA,Offline,0.97,False,Impressão de folders e adesivos,openai/gpt-oss-120b,2026-11-04T21:53:13+00:00
+26343364000168,LINCOLN P. XAVIER,Outras digitais,0.93,False,Marketing eleitoral e produção audiovisual,openai/gpt-oss-120b,2026-11-04T21:53:13+00:00
+11204975000158,FONEMATECA - SERVICOS E EVENTOS LTDA,Offline,0.96,False,Serviços de locução profissional,openai/gpt-oss-120b,2026-11-04T21:53:13+00:00
+43574885000145,CRYSTAL COMUNICACAO E MARKETING LTDA,Offline,0.97,False,Confecção de material gráfico impresso,openai/gpt-oss-120b,2026-11-04T21:53:13+00:00
+46301739000134,SANGUE NOVO PRODUTORA LTDA,Offline,0.95,False,Produção audiovisual TV/radio,openai/gpt-oss-120b,2026-11-04T21:53:54+00:00
+17922086000102,CORREIO DIGITAL TECNOLOGIA LTDA,Offline,0.96,False,Impressão adesivos,openai/gpt-oss-120b,2026-11-04T21:53:54+00:00
+09536108000178,LIRICA COMUNICACAO LTDA,Offline,0.94,False,Agência publicidade tradicional,openai/gpt-oss-120b,2026-11-04T21:53:54+00:00
+13392325000109,BCA PRODUCAO E DISTRIBUICAO DE FILMES LTDA,Offline,0.95,False,Produção e entrega digital audiovisual,openai/gpt-oss-120b,2026-11-04T21:53:54+00:00
+58255960000182,OQUEI AGENCIA COMUNICACAO MARKETING E GESTAO LTDA,Offline,0.94,False,Audiovisual e material impresso,openai/gpt-oss-120b,2026-11-04T21:53:54+00:00
+64310834000186,W.P.M. PUBLICIDADE E REPRESENTACAO COMERCIAL LTDA,Offline,0.96,False,Impressão windbanner,openai/gpt-oss-120b,2026-11-04T21:53:54+00:00
+17683154000128,MASTER COMUNICACAO VISUAL LTDA,Offline,0.96,False,Impressão gráfica e banners,openai/gpt-oss-120b,2026-11-04T21:53:54+00:00
+29358412000180,KSULO AGENCIA DE PUBLICIDADE LTDA,Offline,0.94,False,Agência publicidade tradicional,openai/gpt-oss-120b,2026-11-04T21:53:54+00:00
+37206953000110,NEXUS AGENCY ATIVIDADE DE INTERMEDIACAO E AGENCIAMENTO DE SERVICOS E NEGOCIOS LTDA,Offline,0.94,False,Serviços de marketing político offline,openai/gpt-oss-120b,2026-11-04T21:53:54+00:00
+10620746000151,MS2 PRODUTORA LTDA,Offline,0.94,False,Produção fotográfica e cinematográfica,openai/gpt-oss-120b,2026-11-04T21:53:54+00:00
+57985222000128,IA PESQUISAS LTDA,Offline,0.93,False,Pesquisa de opinião pública,openai/gpt-oss-120b,2026-11-04T21:53:54+00:00
+07831706000144,SOUZA SERVICOS GRAFICOS LTDA,Offline,0.96,False,Serviços gráficos e impressão,openai/gpt-oss-120b,2026-11-04T21:53:54+00:00
+37909259000160,GRUPO IMPRESSO GRAFICA LTDA,Offline,0.96,False,Impressão revistas e folders,openai/gpt-oss-120b,2026-11-04T21:53:54+00:00
+10798630000107,TL VIDEO PRODUCOES LTDA,Offline,0.95,False,Produção vídeo e foto campanha,openai/gpt-oss-120b,2026-11-04T21:53:54+00:00
+46789036000105,BLACK SHEEP COMERCIO E SERVICOS PUBLICITARIOS LTDA,Offline,0.93,False,"Gestão redes sociais, mas agência tradicional",openai/gpt-oss-120b,2026-11-04T21:53:54+00:00
+15129312000177,VISUALIZE PROPAGANDA LTDA,Offline,0.95,False,Produção audiovisual campanha,openai/gpt-oss-120b,2026-11-04T21:53:54+00:00
+09122507000192,VISION COMUNICACAO EM IMPRESSAO DIGITAL LTDA,Offline,0.96,False,Impressão windbanner e materiais gráficos,openai/gpt-oss-120b,2026-11-04T21:53:54+00:00
+58616907000160,ODISSEU COMUNICACOES LTDA,Offline,0.95,False,"Inserção textos, edição vídeo offline",openai/gpt-oss-120b,2026-11-04T21:53:54+00:00
+43531914000191,VISUALIZE COMUNICACAO VISUAL E PROJETOS ESPECIAIS LTDA,Offline,0.96,False,Impressão panfletos e adesivos,openai/gpt-oss-120b,2026-11-04T21:53:54+00:00
+07487373000188,C.R.F.DE OLIVEIRA,Offline,0.96,False,Confecção materiais impressos,openai/gpt-oss-120b,2026-11-04T21:53:54+00:00
+46164872000196,PX DIGITAL LTDA,Offline,0.94,False,Serviços comunicação e marketing geral,openai/gpt-oss-120b,2026-11-04T21:53:54+00:00
+12904380000178,CORAGEM FILMES LTDA,Offline,0.95,False,Produção audiovisual campanha,openai/gpt-oss-120b,2026-11-04T21:53:54+00:00
+51112711000199,HUBCONECTA LTDA,Offline,0.94,False,Portal e hospedagem web offline,openai/gpt-oss-120b,2026-11-04T21:53:54+00:00
+11916562000104,NATFEL COMUNICACAO VISUAL LTDA,Offline,0.96,False,Impressão windbanner e materiais,openai/gpt-oss-120b,2026-11-04T21:53:54+00:00
+18614348000134,AMANGOLIN COMUNICACAO E ESTRATEGIA LTDA,Offline,0.93,False,Inteligência dados e estratégia digital offline,openai/gpt-oss-120b,2026-11-04T21:53:54+00:00
+11247686000136,SCAN IMPRESSAO DIGITAL LTDA,Offline,0.96,False,Impressão banners e materiais gráficos,openai/gpt-oss-120b,2026-11-04T21:53:54+00:00
+59705889000155,MVM CONSULTORIA CONTABIL E SERVICOS LTDA,Offline,0.95,False,"Consultoria contábil, não digital",openai/gpt-oss-120b,2026-11-04T21:53:54+00:00
+47060688000169,MPG DIGITAL PRINTING LTDA,Offline,0.96,False,Impressão folders e colinhas,openai/gpt-oss-120b,2026-11-04T21:53:54+00:00
+17185727000193,DUPODIUM TROFEUS SERVICOS LTDA,Offline,0.96,False,Produção materiais impressos e brindes,openai/gpt-oss-120b,2026-11-04T21:53:54+00:00
+42557257000199,NOBRE SERVICOS GRAFICOS CONFECCAO E PUBLICIDADE LTDA,Offline,0.96,False,Impressão e confecção de materiais,openai/gpt-oss-120b,2026-11-04T21:53:54+00:00
+61799182000105,TERTULIA COMUNICACAO LTDA,Outras digitais,0.95,False,Marketing digital sem plataforma específica,openai/gpt-oss-120b,2026-11-04T21:54:35+00:00
+35016034000159,ANDC MARKETING E PLANEJAMENTO LTDA,Outras digitais,0.95,False,Agência de marketing digital,openai/gpt-oss-120b,2026-11-04T21:54:35+00:00
+17837052000110,PRODCINE PRODUTORA AUDIOVISUAL LTDA,Offline,0.98,False,Produção audiovisual TV/radio,openai/gpt-oss-120b,2026-11-04T21:54:35+00:00
+04274939000103,SELMA B.J. CORREA,Offline,0.99,False,Impressão de adesivos,openai/gpt-oss-120b,2026-11-04T21:54:35+00:00
+34999113000164,E RIO PRETO COMUNICACAO E MARKETING DIGITAL LTDA,Offline,0.96,False,Produção audiovisual campanha,openai/gpt-oss-120b,2026-11-04T21:54:35+00:00
+08491439000176,AGENCIA KEEP PROMOCOES E EVENTOS LTDA,Outras digitais,0.97,False,Gestão de perfis redes sociais,openai/gpt-oss-120b,2026-11-04T21:54:35+00:00
+41429845000184,KARIN ANDREA ROWELL SERVICOS DE COMUNICACAO DIGITAL LTDA,Outras digitais,0.97,False,Gestão rede social e tráfego pago,openai/gpt-oss-120b,2026-11-04T21:54:35+00:00
+57057587000192,BOMTEMPO MARKETING LTDA,Outras digitais,0.96,False,Gestão de mídia paga,openai/gpt-oss-120b,2026-11-04T21:54:35+00:00
+64146143000199,"CONNECT CONSULTORIA EM AUTOMACAO, COMUNICACAO E MARKETING DIGITAL LTDA",Outras digitais,0.95,False,Gestão e produção digital política,openai/gpt-oss-120b,2026-11-04T21:54:35+00:00
+18409561000104,SD PRODUCOES CINEMATOGRAFICAS LTDA,Offline,0.98,False,Gravação e edição de vídeos eleitorais,openai/gpt-oss-120b,2026-11-04T21:54:35+00:00
+23244879000112,BDA IMPRESSAO DIGITAL E OFF SET LTDA,Offline,0.99,False,Serviços de impressão gráfica,openai/gpt-oss-120b,2026-11-04T21:54:35+00:00
+64782384000124,MTH AGENCY SERVICOS EMPRESARIAIS LTDA,Outras digitais,0.94,False,Impulsionamento sem plataforma definida,openai/gpt-oss-120b,2026-11-04T21:54:35+00:00
+42006710000179,FRAME COMUNICACAO DIGITAL LTDA,Outras digitais,0.95,False,Comunicação digital genérica,openai/gpt-oss-120b,2026-11-04T21:54:35+00:00
+20120888000103,RAIPRINT IMPRESSAO DIGITAL LTDA,Offline,0.99,False,Impressão de materiais,openai/gpt-oss-120b,2026-11-04T21:54:35+00:00
+65124909000105,PADRINHO PUBLICIDADE E PROPAGANDA LTDA,Offline,0.98,False,Produção de conteúdo TV/radio,openai/gpt-oss-120b,2026-11-04T21:54:35+00:00
+46144420000142,"M BOUTIQUE - PROJETOS, MARKETING E PUBLICIDADE LTDA",Outras digitais,0.96,False,Marketing e redes sociais,openai/gpt-oss-120b,2026-11-04T21:54:35+00:00
+15104965000100,LBRAZIL PRESTACAO DE SERVICOS DE COMUNICACAO E PUBLICIDADE LTDA,Offline,0.97,False,Produção de jingles e TV/radio,openai/gpt-oss-120b,2026-11-04T21:54:35+00:00
+91665570000156,GRUPO EDITORIAL SINOS SA,Offline,0.99,False,Anúncios em jornais impressos,openai/gpt-oss-120b,2026-11-04T21:54:35+00:00
+34641317000129,RAUL UBIRAJARA MACENA CARDOSO - HALLS MIDIA,Offline,0.98,False,Produção audiovisual eleitoral,openai/gpt-oss-120b,2026-11-04T21:54:35+00:00
+58197607000193,AHH PRODUCOES ARTISTICAS LTDA,Offline,0.96,False,Produção audiovisual e gestão redes,openai/gpt-oss-120b,2026-11-04T21:54:35+00:00
+54735624000186,IDEIA BRAZIL DIGITAL LTDA,Offline,0.99,False,Impressão de santinhos,openai/gpt-oss-120b,2026-11-04T21:54:35+00:00
+61698818000114,NUMBEAT ENTRETENIMENTO E PRODUCOES LTDA,Offline,0.98,False,Produção audiovisual de programa eleitoral,openai/gpt-oss-120b,2026-11-04T21:54:35+00:00
+63316136000125,BSB DISTRITO LTDA,Outras digitais,0.95,False,Marketing e tráfego pago,openai/gpt-oss-120b,2026-11-04T21:54:35+00:00
+32423065000136,DIGITAL LTDA,Offline,0.99,False,Impressão de bandeiras,openai/gpt-oss-120b,2026-11-04T21:54:35+00:00
+37707407000163,REPIQUE PUBLICIDADE E MARKETING LTDA,Outras digitais,0.95,False,Comunicação digital e redes sociais,openai/gpt-oss-120b,2026-11-04T21:54:35+00:00
+48992943000174,SCENARIO LTDA,Offline,0.97,False,Direção de cena produção audiovisual,openai/gpt-oss-120b,2026-11-04T21:54:35+00:00
+07606992000144,JESSE OLYMPIO BRANDAO PARANHOS DE AZEVEDO,Outras digitais,0.94,False,Propaganda e publicidade sem plataforma específica,openai/gpt-oss-120b,2026-11-04T21:54:35+00:00
+33536542000132,NP MIDIA COMUNICACAO LTDA,Offline,0.96,False,Produção audiovisual e conteúdo para redes,openai/gpt-oss-120b,2026-11-04T21:54:35+00:00
+08199054000130,LIMA CAJUHY COMUNICACAO VISUAL LTDA,Offline,0.99,False,Impressão de adesivos e placas,openai/gpt-oss-120b,2026-11-04T21:54:35+00:00
+18171455000135,JOAO PINTO RODRIGUES DA COSTA JUNIOR,Offline,0.97,False,Produção de filmes publicitários,openai/gpt-oss-120b,2026-11-04T21:54:35+00:00
+55254671000170,F MATOS COMUNICACAO DIGITAL LTDA,Outras digitais,0.9,False,Digital marketing agency,openai/gpt-oss-120b,2026-11-04T21:55:20+00:00
+29516888000100,FILMES PRODUCOES LTDA,Offline,0.9,False,Audiovisual production for TV/radio,openai/gpt-oss-120b,2026-11-04T21:55:20+00:00
+07104434000180,TRIANGULLO GRAFICA E EDITORA LTDA,Offline,0.9,False,Printing services,openai/gpt-oss-120b,2026-11-04T21:55:20+00:00
+43973744000103,BR ONLINE INDUSTRIA E COMERCIO LTDA,Offline,0.9,False,Printed banners,openai/gpt-oss-120b,2026-11-04T21:55:20+00:00
+50266704000189,ETALK CREATIVE LTDA,Outras digitais,0.9,False,Marketing and video production,openai/gpt-oss-120b,2026-11-04T21:55:20+00:00
+55044407000102,M A SEGURANCA DIGITAL E TREINAMENTOS LTDA,Outras digitais,0.9,False,Social media content and consulting,openai/gpt-oss-120b,2026-11-04T21:55:20+00:00
+48748721000100,REBOUCAS E REBOUCAS MIDIA DIGITAL LTDA,Offline,0.9,False,Printed advertising materials,openai/gpt-oss-120b,2026-11-04T21:55:20+00:00
+60759298000140,PROVEITTO SOLUCOES E TECNOLOGIA LTDA,Outras digitais,0.9,False,Digital campaign management,openai/gpt-oss-120b,2026-11-04T21:55:20+00:00
+09259403000124,ANCROLIS COMERCIO DO VESTUARIO LTDA,Offline,0.9,False,Printed wind banners,openai/gpt-oss-120b,2026-11-04T21:55:20+00:00
+53637481000107,TRES ILHAS COMUNICACAO VISUAL LTDA,Offline,0.9,False,Printed stickers,openai/gpt-oss-120b,2026-11-04T21:55:20+00:00
+27643648000132,OZ DIGITAL EDITORA LTDA,Outras digitais,0.9,False,Political marketing content,openai/gpt-oss-120b,2026-11-04T21:55:20+00:00
+09530484000155,A2N CONSULTORIA EM PRODUCAO DE AUDIO LTDA,Offline,0.9,False,Audio/video production,openai/gpt-oss-120b,2026-11-04T21:55:20+00:00
+53355549000165,DUCA DIGITAL S/A,Outras digitais,0.9,False,Content production and network analysis,openai/gpt-oss-120b,2026-11-04T21:55:20+00:00
+17437416000174,PULSE THREE MARKETING E AUDIOVISUAL LTDA,Offline,0.9,False,Audiovisual production for campaign,openai/gpt-oss-120b,2026-11-04T21:55:20+00:00
+08537010000172,THS IMPRESSAO DIGITAL LTDA,Offline,0.9,False,Printed banners and stickers,openai/gpt-oss-120b,2026-11-04T21:55:20+00:00
+12861941000107,AMBIDESTRIA DIGITAL LTDA,Offline,0.9,False,Post‑production and TV delivery,openai/gpt-oss-120b,2026-11-04T21:55:20+00:00
+11392708000151,ELLITE COMUNICACAO E MARKETING LTDA,Offline,0.9,False,Printed promotional items,openai/gpt-oss-120b,2026-11-04T21:55:20+00:00
+40280934000149,40.280.934 AYLTON YOSHIYUKI MATSUDA,Outras digitais,0.9,False,Digital campaign with traffic management,openai/gpt-oss-120b,2026-11-04T21:55:20+00:00
+49276242000100,TZG MARKETING LTDA,Outras digitais,0.9,False,Marketing and communication services,openai/gpt-oss-120b,2026-11-04T21:55:20+00:00
+44143742000141,TRIPPER COMUNICACAO E MARKETING LTDA,Outras digitais,0.9,False,Communication planning and events,openai/gpt-oss-120b,2026-11-04T21:55:20+00:00
+15929794000140,QUEVOA PRODUCAO CULTURAL LTDA,Offline,0.9,False,Audiovisual production for campaign,openai/gpt-oss-120b,2026-11-04T21:55:20+00:00
+93741312000137,DIOS VIEIRA MARKETING E PROPAGANDA LTDA,Offline,0.9,False,Print ads and some impulsionamento,openai/gpt-oss-120b,2026-11-04T21:55:20+00:00
+08039440000164,RB DIGITAL LTDA,Offline,0.9,False,Printed materials,openai/gpt-oss-120b,2026-11-04T21:55:20+00:00
+68319776000102,68.319.776 CAMILA REGINA JUSTINO,Offline,0.9,False,Printed wind banners,openai/gpt-oss-120b,2026-11-04T21:55:20+00:00
+21613327000109,PRINTTA DIGITAL LTDA,Outras digitais,0.9,False,Impulsionamento and printed material,openai/gpt-oss-120b,2026-11-04T21:55:20+00:00
+13219573000152,INFOCOPY INDUSTRIA GRAFICA LTDA,Offline,0.9,False,Printing services,openai/gpt-oss-120b,2026-11-04T21:55:20+00:00
+20664790000117,AMASV ZARPA TRANSMISSAO E ARMAZENAMENTO DE DADOS S.A.,Offline,0.9,False,Propaganda delivery to TV,openai/gpt-oss-120b,2026-11-04T21:55:20+00:00
+13453510000166,IDEIASCOM COMERCIO E SERVICOS DE COMUNICACAO E TECNOLOGIA LTDA,Outras digitais,0.9,False,Digital platform for campaign,openai/gpt-oss-120b,2026-11-04T21:55:20+00:00
+63098995000195,"ATUA GESTAO, PESQUISA E COMUNICACAO LTDA",Outras digitais,0.9,False,Communication strategy and audiovisual,openai/gpt-oss-120b,2026-11-04T21:55:20+00:00
+66033364000186,UMBUCAJA DIGITAL S/A,Outras digitais,0.9,False,Digital campaign operation,openai/gpt-oss-120b,2026-11-04T21:55:20+00:00
+23526448000149,POLITIMAX LTDA,Outras digitais,0.95,False,Agência de marketing digital,openai/gpt-oss-120b,2026-11-04T21:56:07+00:00
+68676093000102,POLLIS AGENCIA LTDA,Outras digitais,0.95,False,Agência com gestão de redes sociais,openai/gpt-oss-120b,2026-11-04T21:56:07+00:00
+57793106000107,GD PUBLICIDADE COMUNICACAO LTDA,Outras digitais,0.95,False,Comunicação e campanha digital,openai/gpt-oss-120b,2026-11-04T21:56:07+00:00
+55840510000169,ABANTOS SERVICOS E EVENTOS LTDA,Outras digitais,0.8,False,Produção audiovisual estratégica,openai/gpt-oss-120b,2026-11-04T21:56:07+00:00
+15787024000100,MEDIA STEAK PRODUCOES LTDA.,Offline,0.9,False,Produção TV/rádio tradicional,openai/gpt-oss-120b,2026-11-04T21:56:07+00:00
+66862693000130,MAESTRIA FILMES INTELIGENTES LTDA,Offline,0.9,False,Produção audiovisual para TV,openai/gpt-oss-120b,2026-11-04T21:56:07+00:00
+14123268000125,COLETIVO IMAGINARIO COMUNICACAO SOCIAL LTDA,Offline,0.9,False,Produção para televisão,openai/gpt-oss-120b,2026-11-04T21:56:07+00:00
+55900219000139,NASCIMENTO MARKETING DIGITAL LTDA,Outras digitais,0.95,False,Consultoria marketing digital,openai/gpt-oss-120b,2026-11-04T21:56:07+00:00
+45016677000156,MTZ LTDA,Outras digitais,0.7,False,Licenciamento plataforma digital SaaS,openai/gpt-oss-120b,2026-11-04T21:56:07+00:00
+13856360000131,ZENOBIO GUIDINE DE ANDRADE,Offline,0.99,False,Impressão de materiais,openai/gpt-oss-120b,2026-11-04T21:56:07+00:00
+15224889000168,LANSALLES LTDA,Outras digitais,0.95,False,Marketing político online,openai/gpt-oss-120b,2026-11-04T21:56:07+00:00
+35724220000142,FABIANO DE ANDRADE BASTOS,Outras digitais,0.95,False,Assessoria comunicação digital,openai/gpt-oss-120b,2026-11-04T21:56:07+00:00
+40027713000163,JULIANE ALBUQUERQUE DE ARAUJO,Outras digitais,0.8,False,Eventos + arte digital,openai/gpt-oss-120b,2026-11-04T21:56:07+00:00
+63243814000177,B2M COMUNICACAO LTDA,Outras digitais,0.95,False,Gestão de tráfego pago,openai/gpt-oss-120b,2026-11-04T21:56:07+00:00
+07088620000173,F2 MAIS LTDA,Outras digitais,0.8,False,Conteúdo para redes sociais,openai/gpt-oss-120b,2026-11-04T21:56:07+00:00
+39586155000197,QUEROAPOIAR.COM.BR LTDA,Outras digitais,0.7,False,Plataforma de arrecadação digital,openai/gpt-oss-120b,2026-11-04T21:56:07+00:00
+05611453000178,MAIS PUBLICIDADE BRASIL LTDA,Offline,0.99,False,Impressão de banners e adesivos,openai/gpt-oss-120b,2026-11-04T21:56:07+00:00
+28250481000102,MOOSE MIDIA PRODUCOES E PROPAGANDA LTDA,Outras digitais,0.85,False,Produção digital de campanha,openai/gpt-oss-120b,2026-11-04T21:56:07+00:00
+46894338000216,PRINT QUALITY SERVICOS E COMERCIO LTDA,Offline,0.99,False,Serviços gráficos e impressão,openai/gpt-oss-120b,2026-11-04T21:56:07+00:00
+12305752000140,JN PROPAGANDA E COMUNICACAO LTDA,Outras digitais,0.85,False,Vídeo para redes sociais e TikTok,openai/gpt-oss-120b,2026-11-04T21:56:07+00:00
+52439240000190,PIRACEMA FILMES LTDA,Offline,0.9,False,Produção audiovisual tradicional,openai/gpt-oss-120b,2026-11-04T21:56:07+00:00
+30067022000130,A. S. B. SIMOES SERVICOS EM COMUNICACAO E SINALIZACAO VISUAL,Offline,0.99,False,Impressão de windbanner e panfletos,openai/gpt-oss-120b,2026-11-04T21:56:07+00:00
+07636560000186,GRAFICA IGIGRAF LTDA,Offline,0.99,False,Impressão de revistas,openai/gpt-oss-120b,2026-11-04T21:56:07+00:00
+58938059000105,OPTIMIDIA ESTRATEGIAS DIGITAIS LTDA,Outras digitais,0.95,False,Gestão e impulsionamento de tráfego,openai/gpt-oss-120b,2026-11-04T21:56:07+00:00
+57731402000183,IMG ENTRETENIMENTO LTDA,Outras digitais,0.85,False,Gestão de tráfego e peças digitais,openai/gpt-oss-120b,2026-11-04T21:56:07+00:00
+58216633000111,GRAFICA N. S. APARECIDA LTDA,Offline,0.99,False,Impressão de colinhas e materiais,openai/gpt-oss-120b,2026-11-04T21:56:07+00:00
+06556008000115,C GALATI LTDA,Offline,0.99,False,Impressão de flyers e adesivos,openai/gpt-oss-120b,2026-11-04T21:56:07+00:00
+39362117000150,RENATA OLIVIO MORASCA POSSEBON,Offline,0.99,False,Impressão de folders,openai/gpt-oss-120b,2026-11-04T21:56:07+00:00
+51953241000196,UMA PETITE LTDA.,Outras digitais,0.75,False,Edição e animação para campanha digital,openai/gpt-oss-120b,2026-11-04T21:56:07+00:00
+58504067000143,TREZE LAB - LABORATORIO DIGITAL LTDA,Outras digitais,0.95,False,Serviço de comunicação digital,openai/gpt-oss-120b,2026-11-04T21:56:07+00:00
+58895246000159,IMPACTA COMUNICACAO E MIDIAS DIGITAIS LTDA,Outras digitais,0.95,False,Agência de gestão e criação digital,openai/gpt-oss-120b,2026-11-04T21:56:48+00:00
+07865616000174,B. R. M. COSTA DE LIMA E CIA LTDA,Offline,0.9,False,Produção de vídeo para TV/radio,openai/gpt-oss-120b,2026-11-04T21:56:48+00:00
+37184201000104,HEAVY AGENCIA LTDA,Outras digitais,0.9,False,Gestão de mídia digital e tráfego pago,openai/gpt-oss-120b,2026-11-04T21:56:48+00:00
+34947020000196,34.947.020 WENDHEL LUIS DE SOUZA CANDIDO,Outras digitais,0.9,False,Gestão de redes sociais e conteúdo digital,openai/gpt-oss-120b,2026-11-04T21:56:48+00:00
+40695326000103,MAXIMO ACELERADORA DE PRODUTOS DIGITAIS LTDA,Outras digitais,0.9,False,Tráfego pago e planejamento estratégico,openai/gpt-oss-120b,2026-11-04T21:56:48+00:00
+09596641000125,TAMARA DIGITAL LTDA,Offline,0.95,False,Confecção de peças físicas (bandeiras),openai/gpt-oss-120b,2026-11-04T21:56:48+00:00
+33507362000122,SOTERO GRAFICA LTDA,Offline,0.98,False,Impressão de materiais gráficos,openai/gpt-oss-120b,2026-11-04T21:56:48+00:00
+18092182000133,CASAGRANDE PLOTAGEM LTDA,Offline,0.95,False,Impressão e adesivos físicos,openai/gpt-oss-120b,2026-11-04T21:56:48+00:00
+17376797000129,JORNAL REPERCUSSAO LTDA,Offline,0.98,False,Anúncios em jornal impresso,openai/gpt-oss-120b,2026-11-04T21:56:48+00:00
+37561520000183,LEONARDO DE SOUSA E SILVA PRODUCOES CINEMATOGRAFICA LTDA,Offline,0.9,False,Produção cinematográfica/TV,openai/gpt-oss-120b,2026-11-04T21:56:48+00:00
+97547573000171,BLOOR ESTRATEGIA DIGITAL LTDA,Outras digitais,0.9,False,Consultoria e gestão digital,openai/gpt-oss-120b,2026-11-04T21:56:48+00:00
+37972787000163,MOOVIE 237 PRODUTORA AUDIOVISUAL LTDA,Offline,0.85,False,Produção audiovisual e edição,openai/gpt-oss-120b,2026-11-04T21:56:48+00:00
+74357625000141,D M FOTOLITO GRAFICA E EDITORA LTDA,Offline,0.98,False,Serviços de pré-impressão e impressão,openai/gpt-oss-120b,2026-11-04T21:56:48+00:00
+18952837000104,IMAGEM PUBLICA - SERVICOS DE COMUNICACAO LTDA,Outras digitais,0.9,False,Publicidade online e gestão de tráfego,openai/gpt-oss-120b,2026-11-04T21:56:48+00:00
+39986808000125,39.986.808 JESSICA TAIS HORN,Outras digitais,0.9,False,"Marketing, design e produção de conteúdo",openai/gpt-oss-120b,2026-11-04T21:56:48+00:00
+37619311000143,MARIA CLARA MONTAGNANA E. LIMA,Outras digitais,0.9,False,Gestão de mídia paga em plataformas digitais,openai/gpt-oss-120b,2026-11-04T21:56:48+00:00
+53542258000186,GRAFICA PONTO 3 LTDA,Offline,0.98,False,Impressão de materiais gráficos,openai/gpt-oss-120b,2026-11-04T21:56:48+00:00
+20682095000188,MULTIDAO COMUNICACAO E PRODUCAO LTDA,Offline,0.85,False,Produção audiovisual para campanha,openai/gpt-oss-120b,2026-11-04T21:56:48+00:00
+13050967000120,ALTERNATIVA MIDIA E GESTAO LTDA,Outras digitais,0.9,False,Gestão de redes sociais e conteúdo digital,openai/gpt-oss-120b,2026-11-04T21:56:48+00:00
+62453696000169,COSMO PUBLICIDADE E PROPAGANDA LTDA,Offline,0.85,False,Produção de vídeos publicitários,openai/gpt-oss-120b,2026-11-04T21:56:48+00:00
+48059766000178,FR PUBLICIDADE LTDA,Offline,0.98,False,Impressão de windbanners,openai/gpt-oss-120b,2026-11-04T21:56:48+00:00
+43624926000160,AGENCIA MEST LTDA,Outras digitais,0.9,False,Impulsionamento e tráfego pago,openai/gpt-oss-120b,2026-11-04T21:56:48+00:00
+66601414000184,IMPULSO MIDIA COMUNICACAO LTDA,Offline,0.95,False,Instalação e retirada de windbanners,openai/gpt-oss-120b,2026-11-04T21:56:48+00:00
+62964391000111,GALVAO COMUNICA LTDA,Offline,0.85,False,Consultoria e produção audiovisual,openai/gpt-oss-120b,2026-11-04T21:56:48+00:00
+59255120000182,STUDIO CAMBIA COMUNICACAO LTDA,Outras digitais,0.9,False,Comunicação digital e gestão de redes,openai/gpt-oss-120b,2026-11-04T21:56:48+00:00
+38256696000194,HEKO DIGITAL LTDA,Offline,0.95,False,Produção de windbanners e adesivos,openai/gpt-oss-120b,2026-11-04T21:56:48+00:00
+04280850000141,JORNAL A HORA LTDA,Offline,0.98,False,Anúncios em jornal impresso,openai/gpt-oss-120b,2026-11-04T21:56:48+00:00
+20709379000110,ATROS COMUNICACAO VISUAL LTDA,Offline,0.95,False,Impressão de adesivos,openai/gpt-oss-120b,2026-11-04T21:56:48+00:00
+54051211000182,F C PARTICIPACOES M A DIGITAL LTDA,Outras digitais,0.9,False,Inteligência e estratégia de campanha,openai/gpt-oss-120b,2026-11-04T21:56:48+00:00
+06149187000176,FABRICIO SOARES DA SILVA,Offline,0.96,False,Impressão de banners e bandeiras,openai/gpt-oss-120b,2026-11-04T21:56:48+00:00
+67764127000158,ARANDU COMUNICACAO E ESTRATEGIA INSTITUCIONAL LTDA,Outras digitais,0.95,False,Agência de marketing digital,openai/gpt-oss-120b,2026-11-04T21:57:35+00:00
+66867738000169,META CORPORATE SOLUTIONS LTDA,Meta,0.99,False,"Nome Meta, impulsionamento internet",openai/gpt-oss-120b,2026-11-04T21:57:35+00:00
+29295424000102,VIZZE COMUNICACAO INTEGRADA E SERVICOS LTDA,Outras digitais,0.94,False,"Gestão de mídia paga, estratégia digital",openai/gpt-oss-120b,2026-11-04T21:57:35+00:00
+43585214000180,F35 SOLUCOES CONSULTORIAS E REPRESENTACOES LTDA,Outras digitais,0.92,False,Criação material e redes sociais,openai/gpt-oss-120b,2026-11-04T21:57:35+00:00
+33285209000106,BASE LAB CONSULTORIA POLITICA LTDA,Outras digitais,0.93,False,Gestão de tráfego e produção digital,openai/gpt-oss-120b,2026-11-04T21:57:35+00:00
+15261163000103,GRAFICA E EDITORA PRINT SERVICE LTDA,Offline,0.99,False,Impressão de materiais gráficos,openai/gpt-oss-120b,2026-11-04T21:57:35+00:00
+04267117000197,WDERVANIA COSTA DE ASSIS E CELESTINO,Offline,0.99,False,Impressão de adesivos,openai/gpt-oss-120b,2026-11-04T21:57:35+00:00
+10202206000158,VETOR COMUNICACAO VISUAL E MATERIAL GRAFICO LTDA,Offline,0.99,False,Produção de panfletos e adesivos,openai/gpt-oss-120b,2026-11-04T21:57:35+00:00
+35794035000124,NOVA DIGITAL PRINT COMUNICACAO VISUAL LTDA,Offline,0.99,False,Banners e bandeiras impressos,openai/gpt-oss-120b,2026-11-04T21:57:35+00:00
+35439268000109,K F C COMERCIO E SERVICOS LTDA,Offline,0.99,False,Impressão de adesivos e materiais,openai/gpt-oss-120b,2026-11-04T21:57:35+00:00
+09171924000125,FCINCO SOLUCOES EM IMPRESSOES LTDA,Offline,0.99,False,Impressão de materiais diversos,openai/gpt-oss-120b,2026-11-04T21:57:35+00:00
+34814037000175,SERTAO COMUNICACAO LTDA,Offline,0.94,False,Materiais gráficos e jingles impressos,openai/gpt-oss-120b,2026-11-04T21:57:35+00:00
+47279190000191,UAI MIDIAS COMUNICACOES E MARKETING DIGITAL LTDA,Outras digitais,0.95,False,Agência de publicidade digital,openai/gpt-oss-120b,2026-11-04T21:57:35+00:00
+68492672000103,ACADEMIA DE NEGOCIOS LTDA,Outras digitais,0.94,False,Comunicação digital e inteligência,openai/gpt-oss-120b,2026-11-04T21:57:35+00:00
+51824914000108,ADVISORY PLANEJAMENTO E GESTAO LTDA,Outras digitais,0.92,False,Vídeos para redes sociais,openai/gpt-oss-120b,2026-11-04T21:57:35+00:00
+47153311000154,DELTA INNOVATION DESENVOLVIMENTO DE SISTEMAS INTELIGENTES LTDA,Offline,0.93,False,Produção audiovisual para TV,openai/gpt-oss-120b,2026-11-04T21:57:35+00:00
+41321591000186,ALGORI COMPANY LTDA,Outras digitais,0.96,False,Gestão de tráfego Meta Ads,openai/gpt-oss-120b,2026-11-04T21:57:35+00:00
+17444008000140,GMR CONSULTORIA EM PUBLICIDADE LTDA,Outras digitais,0.91,False,Direção de arte e marketing digital,openai/gpt-oss-120b,2026-11-04T21:57:35+00:00
+49700039000100,ISIS R. DE V. MARTINS,Outras digitais,0.93,False,Estratégia digital e redes sociais,openai/gpt-oss-120b,2026-11-04T21:57:35+00:00
+67859912000194,SISTER CENOGRAFIA E COMUNICACAO VISUAL LTDA,Offline,0.99,False,Impressão de materiais e adesivos,openai/gpt-oss-120b,2026-11-04T21:57:35+00:00
+09239301000147,LUIZ C. DA FONSECA,Offline,0.99,False,Produção de placas e adesivos,openai/gpt-oss-120b,2026-11-04T21:57:35+00:00
+29140095000120,YURI DE G N B DE ALMEIDA COMUNICACAO DIGITAL,Offline,0.9,False,Produção de TV e monitoramento digital,openai/gpt-oss-120b,2026-11-04T21:57:35+00:00
+42324675000136,ALGORITMUX LTDA.,Outras digitais,0.94,False,Comunicação digital e estratégia,openai/gpt-oss-120b,2026-11-04T21:57:35+00:00
+44085776000127,DIGIDOOR IMPRESSAO DIGITAL LTDA,Offline,0.99,False,Impressão digital de banners,openai/gpt-oss-120b,2026-11-04T21:57:35+00:00
+22613238000125,LUCIO U.F DE MACEDO LTDA,Outras digitais,0.95,False,Marketing político digital e tráfego pago,openai/gpt-oss-120b,2026-11-04T21:57:35+00:00
+35722775000155,RICARDO CELSO SERVICOS DIGITAIS,Outras digitais,0.96,False,Impulsionamento e gestão de tráfego,openai/gpt-oss-120b,2026-11-04T21:57:35+00:00
+47703374000137,DOC ME PRODUCOES DE COMUNICACAO LTDA,Outras digitais,0.92,False,Produção de vídeos e conteúdo digital,openai/gpt-oss-120b,2026-11-04T21:57:35+00:00
+17951160000119,MULTIMIDIA VIDEOS E MARKETING LTDA,Offline,0.94,False,Produção audiovisual para campanha,openai/gpt-oss-120b,2026-11-04T21:57:35+00:00
+15393381000193,RICARDO BEIRAO DOS SANTOS LTDA,Offline,0.99,False,Impressão de cartões e adesivos,openai/gpt-oss-120b,2026-11-04T21:57:35+00:00
+38212045000100,LUZ COMPANY PRODUCOES E MARKETING LTDA,Outras digitais,0.93,False,Gestão de comunicação digital,openai/gpt-oss-120b,2026-11-04T21:57:35+00:00
+46458064000131,EXPERT COMUNICACAO E CONTEUDO LTDA,Offline,0.95,False,Produção audiovisual para campanha,openai/gpt-oss-120b,2026-11-04T21:58:18+00:00
+38799679000101,TROPA GESTAO LTDA,Outras digitais,0.95,False,Tráfego pago e gestão redes sociais,openai/gpt-oss-120b,2026-11-04T21:58:18+00:00
+40982113000154,40.982.113 CONRADO VENTURELLI FADINE,Offline,0.95,False,Gravação e pós‑produção de vídeos,openai/gpt-oss-120b,2026-11-04T21:58:18+00:00
+13561102000128,BIG FISH COMUNICACOES E PRODUCOES DE FILMES LTDA,Offline,0.95,False,Produção audiovisual para campanha,openai/gpt-oss-120b,2026-11-04T21:58:18+00:00
+46223406000134,MMM BRASIL PUBLICIDADE LTDA,Outras digitais,0.95,False,Planejamento geral de marketing digital,openai/gpt-oss-120b,2026-11-04T21:58:18+00:00
+33112946000107,GIGA COMUNICACAO E SOLUCOES INTERATIVAS LTDA,Outras digitais,0.95,False,Planejamento e impulsionamento digital,openai/gpt-oss-120b,2026-11-04T21:58:18+00:00
+02468490000180,AWB MKT DIGITAL - AGENCIA WEB BAHIA LTDA,Outras digitais,0.95,False,Gestão de redes sociais e design digital,openai/gpt-oss-120b,2026-11-04T21:58:18+00:00
+49089707000105,PLAY DIGITAL MARKETING LTDA,Outras digitais,0.95,False,Coordenação de marketing e publicidade eleitoral,openai/gpt-oss-120b,2026-11-04T21:58:18+00:00
+42682665000172,TIGRE BRANCO PRODUCOES ARTISTICAS LTDA,Offline,0.95,False,Produção audiovisual para campanha,openai/gpt-oss-120b,2026-11-04T21:58:18+00:00
+09342949000144,FICCAO LOCACOES E GRAVACOES DE VIDEOS LTDA,Offline,0.95,False,Produção de áudio e vídeo para campanha,openai/gpt-oss-120b,2026-11-04T21:58:18+00:00
+13100379000153,T. SAAD FILMES E VIDEOS LTDA,Outras digitais,0.95,False,Gestão e produção digital de conteúdo,openai/gpt-oss-120b,2026-11-04T21:58:18+00:00
+10989205000103,CACCICCIO COMUNICACAO E PUBLICIDADE LTDA,Offline,0.95,False,Redação e direção criativa para TV/radio,openai/gpt-oss-120b,2026-11-04T21:58:18+00:00
+57574965000105,CORAL ESTUDIO DE MOTION E ANIMACAO LTDA,Offline,0.95,False,Criação de fotos e vídeos para campanha,openai/gpt-oss-120b,2026-11-04T21:58:18+00:00
+44376669000158,K LOPES DE ASSIS,Offline,0.95,False,Serviços administrativos e digitalização,openai/gpt-oss-120b,2026-11-04T21:58:18+00:00
+10475920000110,S2 EDITORA E COMUNICACAO LTDA,Outras digitais,0.95,False,Serviços de marketing digital,openai/gpt-oss-120b,2026-11-04T21:58:18+00:00
+52627184000118,JOAQUIM GOMES VIDAL,Offline,0.95,False,Produção completa de vídeos e pesquisa eleitoral,openai/gpt-oss-120b,2026-11-04T21:58:18+00:00
+14302498000151,ENRIQUE ROBLEDO,Outras digitais,0.95,False,Gestão e criação de conteúdo digital,openai/gpt-oss-120b,2026-11-04T21:58:18+00:00
+68714959000122,ELEITA DIGITAL LTDA,Outras digitais,0.95,False,Marketing digital e gestão de mídia,openai/gpt-oss-120b,2026-11-04T21:58:18+00:00
+37321061000160,INFLUX CONSULTORIA LTDA,Outras digitais,0.95,False,Marketing político digital,openai/gpt-oss-120b,2026-11-04T21:58:18+00:00
+09583743000106,MANTRA PRODUCOES AUDIOVISUAIS LTDA,Offline,0.95,False,Produção audiovisual e set de filmagem,openai/gpt-oss-120b,2026-11-04T21:58:18+00:00
+32355748000101,LUIZ HENRIQUE GODOY DA COSTA,Offline,0.95,False,"Publicidade, materiais impressos e equipe de campo",openai/gpt-oss-120b,2026-11-04T21:58:18+00:00
+22337376000129,AGENCIA DRPS LTDA,Outras digitais,0.95,False,Coordenação de campanha e gestão de tráfego,openai/gpt-oss-120b,2026-11-04T21:58:18+00:00
+31285857000129,RAO COMUNICACAO E MARKETING LTDA,Outras digitais,0.95,False,Planejamento integrado e criação para redes sociais,openai/gpt-oss-120b,2026-11-04T21:58:18+00:00
+13376458000191,CORTES GRAFICA DIGITAL LTDA,Offline,0.95,False,Impressão de santinhos e materiais gráficos,openai/gpt-oss-120b,2026-11-04T21:58:18+00:00
+07273545000110,HIGH EMPREENDIMENTOS LTDA,Offline,0.95,False,"Impressão offset, bandeiras e adesivos",openai/gpt-oss-120b,2026-11-04T21:58:18+00:00
+01424664000140,PRINT SOLUTION GRAFICA EDITORIAL LTDA,Offline,0.95,False,Impressão de flyers e material gráfico,openai/gpt-oss-120b,2026-11-04T21:58:18+00:00
+28299027000146,ALPHASETE GIRO ONLINE LTDA,Offline,0.95,False,Publicidade em jornais e revistas,openai/gpt-oss-120b,2026-11-04T21:58:18+00:00
+63694860000192,ISSA SHOP LTDA,Outras digitais,0.95,False,Serviços de marketing digital,openai/gpt-oss-120b,2026-11-04T21:58:18+00:00
+49432695000170,GC CUNHA COMUNICACAO LTDA,Outras digitais,0.95,False,Gestão de redes sociais e comunicação política,openai/gpt-oss-120b,2026-11-04T21:58:18+00:00
+17293463000191,DROP COMUNICACAO GRAFICA LTDA,Offline,0.95,False,Impressão de adesivos e materiais gráficos,openai/gpt-oss-120b,2026-11-04T21:58:18+00:00
+61838373000120,IMPERIAL COMUNICACAO E SERVICOS LTDA,Offline,0.99,False,Impressão de banners e adesivos,openai/gpt-oss-120b,2026-11-04T21:58:58+00:00
+34354975000130,CALIANDRA DIGITAL LTDA,Outras digitais,0.95,False,Planejamento e criação de campanha política,openai/gpt-oss-120b,2026-11-04T21:58:58+00:00
+26501165000130,PPO COMUNICACAO E PUBLICIDADE LTDA,Outras digitais,0.94,False,Agência com criação de páginas e mídia,openai/gpt-oss-120b,2026-11-04T21:58:58+00:00
+49682170000192,M. G. MAIA LTDA,Outras digitais,0.96,False,Conteúdo para redes sociais e vídeos digitais,openai/gpt-oss-120b,2026-11-04T21:58:58+00:00
+14232555000173,APIS3 START MARKETING DIGITAL LTDA,Outras digitais,0.95,False,"Consultoria, design e videomaker",openai/gpt-oss-120b,2026-11-04T21:58:58+00:00
+65081747000167,JR GRAPHIKS LTDA,Offline,0.98,False,Edição de jornais e anúncios impressos,openai/gpt-oss-120b,2026-11-04T21:58:58+00:00
+18679031000186,ARMAZEM SOLUCOES EM IMPRESSAO OFFSET DIGITAL E COMUNICACAO VISUAL LTDA,Offline,0.98,False,Impressão de folders e materiais gráficos,openai/gpt-oss-120b,2026-11-04T21:58:58+00:00
+47709915000134,ALIANCA VISUAL LTDA,Offline,0.98,False,Produção de banners e adesivos físicos,openai/gpt-oss-120b,2026-11-04T21:58:58+00:00
+53709808000109,EXPRESSO DIGITAL BH LTDA,Offline,0.97,False,Impressão de banners e placas,openai/gpt-oss-120b,2026-11-04T21:58:58+00:00
+32605729000188,TOADA PRODUCAO CULTURAL E COMUNICACAO LTDA,Offline,0.96,False,Produção de peças gráficas e eventos,openai/gpt-oss-120b,2026-11-04T21:58:58+00:00
+00970770000167,GRAPH SOLUCOES EM COMUNICACAO LTDA,Offline,0.98,False,Impressão de adesivos e materiais gráficos,openai/gpt-oss-120b,2026-11-04T21:58:58+00:00
+62495570000157,"DENTCOMM MARKETING, TECNOLOGIA Y PERFORMANCE LTDA",Meta,0.97,False,Impulsionamento na Meta Ads,openai/gpt-oss-120b,2026-11-04T21:58:58+00:00
+17656065000192,LISE CENTER LTDA,Offline,0.98,False,Impressão de vinil e santinhos,openai/gpt-oss-120b,2026-11-04T21:58:58+00:00
+39239526000164,HOLLYDAY DIGITAL LTDA,Offline,0.98,False,Impressão de cartões e colinhas,openai/gpt-oss-120b,2026-11-04T21:58:58+00:00
+27096842000145,NASA PRODUCOES LTDA,Offline,0.96,False,Produção audiovisual para TV,openai/gpt-oss-120b,2026-11-04T21:58:58+00:00
+22863213000180,HOMEBOX COMUNICACAO COMERCIO VAREJISTA DE EQUIPAMENTOS E SERVICOS GRAFICOS LTDA,Outras digitais,0.94,False,Gestão e produção digital de campanha,openai/gpt-oss-120b,2026-11-04T21:58:58+00:00
+49476463000113,CATALISE ASSESSORIA EM MARKETING E VENDAS LTDA,Outras digitais,0.93,False,Tráfego pago e gestão de redes sociais,openai/gpt-oss-120b,2026-11-04T21:58:58+00:00
+24597578000135,MARTIRES COMERCIO E SERVICOS GRAFICOS LTDA,Offline,0.97,False,Impressão de banners e panfletos,openai/gpt-oss-120b,2026-11-04T21:58:58+00:00
+02077599000197,GRAFICA E PAPELARIA GIOMAR LTDA,Offline,0.99,False,Serviços gráficos e impressão offset,openai/gpt-oss-120b,2026-11-04T21:58:58+00:00
+23883737000103,COMEX DIGITAL GRAFICA LTDA,Offline,0.98,False,"Impressão de banners, placas e adesivos",openai/gpt-oss-120b,2026-11-04T21:58:58+00:00
+43510214000110,GHM CONSULTORIA GILT STORE LTDA,Outras digitais,0.92,False,Consultoria e disparo via WhatsApp,openai/gpt-oss-120b,2026-11-04T21:58:58+00:00
+58247492000102,TRIBUNA JORNAL EDITORA LTDA,Offline,0.99,False,Impressão de material gráfico e jornais,openai/gpt-oss-120b,2026-11-04T21:58:58+00:00
+33459231000117,RIO GRANDE COMUNICACAO S/S LTDA,Offline,0.96,False,Produção de vídeos para TV,openai/gpt-oss-120b,2026-11-04T21:58:58+00:00
+18385734000100,DUETTO PRODUCOES ARTISTICAS LTDA.,Offline,0.95,False,Produção audiovisual e gravação de som,openai/gpt-oss-120b,2026-11-04T21:58:58+00:00
+52202693000107,O L MUSIC LTDA,Outras digitais,0.91,False,Gestão de redes sociais,openai/gpt-oss-120b,2026-11-04T21:58:58+00:00
+13023844000108,13.023.844 FABRICIO ARAUJO MEDEIROS SILVA,Outras digitais,0.93,False,Filmagem e edição para redes sociais,openai/gpt-oss-120b,2026-11-04T21:58:58+00:00
+41535462000190,PRINT FAST MIDIA E PRODUCOES LTDA,Offline,0.95,False,Produção audiovisual geral,openai/gpt-oss-120b,2026-11-04T21:58:58+00:00
+57361142000100,DROMO MARKETING DIGITAL LTDA,Outras digitais,0.92,False,Marketing e produção audiovisual digital,openai/gpt-oss-120b,2026-11-04T21:58:58+00:00
+62729589000110,MAIKON DOUGLAS SOUSA DOS SANTOS,Outras digitais,0.9,False,Portal e otimização de mídia,openai/gpt-oss-120b,2026-11-04T21:58:58+00:00
+53672386000144,BARRETO AMARAL GESTAO E INOVACAO LTDA,Outras digitais,0.91,False,Comunicação digital e impulsionamento,openai/gpt-oss-120b,2026-11-04T21:58:58+00:00
+30020343000189,MATEMARKETING OSTENSIVO LTDA,Outras digitais,0.95,False,Agência de marketing digital,openai/gpt-oss-120b,2026-11-04T21:59:42+00:00
+11324041000150,PANAMERICA COMUNICACOES LTDA,Offline,0.97,False,Impressão e distribuição de material,openai/gpt-oss-120b,2026-11-04T21:59:42+00:00
+26608068000141,OUTLINE IMPRESSAO DIGITAL LTDA,Offline,0.97,False,Impressão de adesivos,openai/gpt-oss-120b,2026-11-04T21:59:42+00:00
+48021360000104,SISTER COMUNICACAO VISUAL LTDA,Offline,0.97,False,Impressão de materiais,openai/gpt-oss-120b,2026-11-04T21:59:42+00:00
+05401439000140,INVENTY STAMP LTDA,Offline,0.96,False,Confecção de banners físicos,openai/gpt-oss-120b,2026-11-04T21:59:42+00:00
+34925683000100,"M S PRODUCOES, SERVICOS E ASSISTENCIA LTDA",Offline,0.96,False,Produção audiovisual tradicional,openai/gpt-oss-120b,2026-11-04T21:59:42+00:00
+68518267000109,"2P COMUNICACAO, MIDIA E PRODUCAO LTDA",Offline,0.96,False,Consultoria e produção tradicional,openai/gpt-oss-120b,2026-11-04T21:59:42+00:00
+16587380000142,GSN JORNALISMO E PUBLICIDADE LTDA,Offline,0.97,False,Anúncios em jornais impressos,openai/gpt-oss-120b,2026-11-04T21:59:42+00:00
+00617395000176,ROZNIESKI COMUNICACAO VISUAL LTDA,Offline,0.96,False,Produção de adesivos e lonas,openai/gpt-oss-120b,2026-11-04T21:59:42+00:00
+31475942000150,LUIZ CARLOS MAIA JUNIOR PRODUCOES,Offline,0.96,False,Cobertura audiovisual de eventos,openai/gpt-oss-120b,2026-11-04T21:59:42+00:00
+28172982000118,TAGUAGRAFICA E IMPRESSAO DIGITAL LTDA,Offline,0.97,False,Impressão de panfletos,openai/gpt-oss-120b,2026-11-04T21:59:42+00:00
+07179812000195,FERNANDO DE ARAUJO SILVA PUBLICIDADE,Offline,0.97,False,Anúncios em jornal impresso,openai/gpt-oss-120b,2026-11-04T21:59:42+00:00
+20651476000108,7TRES7 SOLUCOES E TECNOLOGIA LTDA,Outras digitais,0.94,False,Serviços de impulsionamento e inteligência,openai/gpt-oss-120b,2026-11-04T21:59:42+00:00
+51146292000106,YAN FELIPE DE MORAES SILVA,Outras digitais,0.94,False,Gestão de redes e site,openai/gpt-oss-120b,2026-11-04T21:59:42+00:00
+32129984000100,SOUL AGENCIA DIGITAL LTDA,Outras digitais,0.94,False,Agência de marketing político,openai/gpt-oss-120b,2026-11-04T21:59:42+00:00
+29525384000148,YEBA SOLUCOES LTDA,Outras digitais,0.94,False,Consultoria e suporte digital,openai/gpt-oss-120b,2026-11-04T21:59:42+00:00
+60906486000153,AGENCIA IMPULSIONAR LTDA,Outras digitais,0.94,False,Gestão de tráfego pago e impulsionamento,openai/gpt-oss-120b,2026-11-04T21:59:42+00:00
+33279732000111,WILSON DA SILVA BARBOSA,Outras digitais,0.94,False,Assessoria de comunicação digital,openai/gpt-oss-120b,2026-11-04T21:59:42+00:00
+18741266000150,BULB PRODUTORA LTDA,Offline,0.96,False,Produção de TV tradicional,openai/gpt-oss-120b,2026-11-04T21:59:42+00:00
+54068898000169,DIGITAL PRINT COMUNICACAO VISUAL LTDA,Offline,0.96,False,Serviços de pré-impressão e adesivos,openai/gpt-oss-120b,2026-11-04T21:59:42+00:00
+04160332000194,COMUNIQUE S/C LTDA,Outras digitais,0.94,False,Criação digital para redes e impressão,openai/gpt-oss-120b,2026-11-04T21:59:42+00:00
+27859199000164,SB JORNAIS REGIONAIS LTDA,Offline,0.97,False,Anúncios em jornais e impressão,openai/gpt-oss-120b,2026-11-04T21:59:42+00:00
+50994399000141,"ZENIT DIGITAL CONSULTORIA, PUBLICIDADE E EVENTOS LTDA",Outras digitais,0.94,False,Consultoria de marketing digital,openai/gpt-oss-120b,2026-11-04T21:59:42+00:00
+65345436000168,AGENCIA FACTUM SOLUCOES EM MARKETING E PUBLICIDADE LTDA,Outras digitais,0.94,False,Gestão de tráfego e marketing digital,openai/gpt-oss-120b,2026-11-04T21:59:42+00:00
+29269744000198,OPEN MINDS COMUNICACAO LTDA,Outras digitais,0.94,False,Gestão de redes sociais,openai/gpt-oss-120b,2026-11-04T21:59:42+00:00
+29209241000127,PRO CAPITAL GESTAO PRODUCOES LTDA,Offline,0.96,False,Produção audiovisual tradicional,openai/gpt-oss-120b,2026-11-04T21:59:42+00:00
+01887325000109,JT CRIACOES E PRODUCOES ARTISTICAS LTDA,Outras digitais,0.94,False,Produção de vídeos para redes sociais,openai/gpt-oss-120b,2026-11-04T21:59:42+00:00
+30977036000190,"TA3 COMUNICACAO, EVENTOS E PRODUCOES LTDA",Outras digitais,0.94,False,Plataforma de gestão e impulsionamento,openai/gpt-oss-120b,2026-11-04T21:59:42+00:00
+43103879000100,DANIELLI GOMES PLANEJAMENTO CRIATIVO LTDA,Outras digitais,0.94,False,Criação de peças publicitárias digitais,openai/gpt-oss-120b,2026-11-04T21:59:42+00:00
+33457709000170,K. DE S. MACHADO SERVICOS,Offline,0.96,False,Produção audiovisual tradicional,openai/gpt-oss-120b,2026-11-04T21:59:42+00:00
+92821701002153,RBS - ZERO HORA EDITORA JORNALISTICA S.A.,Offline,0.96,False,"Editora, impressão de jornal",openai/gpt-oss-120b,2026-11-04T22:00:24+00:00
+23877280000116,MILCORES IMPRESSAO DIGITAL E SERIGRAFIA LTDA,Offline,0.96,False,Impressão e serigrafia,openai/gpt-oss-120b,2026-11-04T22:00:24+00:00
+08347602000121,GRAFICA DIGITAL EXPRESS LTDA,Offline,0.96,False,Gráfica digital,openai/gpt-oss-120b,2026-11-04T22:00:24+00:00
+30917687000195,MDA-ARTES GRAFICAS LTDA,Offline,0.96,False,Impressão de banners,openai/gpt-oss-120b,2026-11-04T22:00:24+00:00
+19712947000153,PORTO SERVICOS DE COMUNICACAO LTDA,Outras digitais,0.92,False,Marketing digital e redes sociais,openai/gpt-oss-120b,2026-11-04T22:00:24+00:00
+37796670000176,PRODUTORA DE CONTEUDO CONTEUDO PLAY LTDA,Outras digitais,0.9,False,Produção de conteúdo digital,openai/gpt-oss-120b,2026-11-04T22:00:24+00:00
+57246858000158,MZ4 SERVICOS DIGITAIS LTDA,Outras digitais,0.92,False,Tráfego pago e criativos digitais,openai/gpt-oss-120b,2026-11-04T22:00:24+00:00
+01777965000158,V.D.R BORDADOS DE MARILIA LTDA,Offline,0.96,False,Banners e tecidos impressos,openai/gpt-oss-120b,2026-11-04T22:00:24+00:00
+19853479000137,D.M.PERES IMPRESSOES DIGITAIS,Offline,0.96,False,Impressões e adesivos,openai/gpt-oss-120b,2026-11-04T22:00:24+00:00
+44262765000175,IMPRINT COMUNICACAO VISUAL LTDA,Offline,0.96,False,Bandeiras e adesivos impressos,openai/gpt-oss-120b,2026-11-04T22:00:24+00:00
+33696197000102,PASSUS PUBLICIDADE LTDA,Outras digitais,0.92,False,Veiculação nas redes sociais,openai/gpt-oss-120b,2026-11-04T22:00:24+00:00
+35829565000160,LIFE DESIGN PUBLICIDADE LTDA,Outras digitais,0.92,False,Gestão e tráfego pago nas redes,openai/gpt-oss-120b,2026-11-04T22:00:24+00:00
+54509000000140,MURIART LTDA,Outras digitais,0.88,False,Vídeos para redes sociais,openai/gpt-oss-120b,2026-11-04T22:00:24+00:00
+43618444000106,SINAL IMPRESSAO DIGITAL LTDA,Offline,0.96,False,Impressão de cartões e banners,openai/gpt-oss-120b,2026-11-04T22:00:24+00:00
+26559648000196,RENATO CAMPOS COSTA,Outras digitais,0.9,False,"Vídeos, web e redes sociais",openai/gpt-oss-120b,2026-11-04T22:00:24+00:00
+42595012000156,42.595.012 PEDRO HENRIQUE CAMPOS PUGNO CUZZUOL VIEIRA,Offline,0.96,False,Edição e pós‑produção de materiais gráficos,openai/gpt-oss-120b,2026-11-04T22:00:24+00:00
+26764917000156,LIONS GO PLATAFORMA DE SERVICOS EMPRESARIAIS LTDA,Outras digitais,0.88,False,Assessoria e estratégia digital,openai/gpt-oss-120b,2026-11-04T22:00:24+00:00
+16768278000143,GRAFICA MARIANO SERVICOS E IMPRESSAO LTDA,Offline,0.96,False,Impressão de folders e adesivos,openai/gpt-oss-120b,2026-11-04T22:00:24+00:00
+17513644000186,MARIA JOSE FERREIRA UNIFORMES,Offline,0.96,False,Banners e bandeiras impressas,openai/gpt-oss-120b,2026-11-04T22:00:24+00:00
+33667568000110,E B BATISTA,Outras digitais,0.9,False,Produção audiovisual para campanha,openai/gpt-oss-120b,2026-11-04T22:00:24+00:00
+24616069000102,THIAGO DOS SANTOS GOULART,Outras digitais,0.92,False,Audiovisual e design para redes,openai/gpt-oss-120b,2026-11-04T22:00:24+00:00
+64141498000195,QORUN DIGITAL LTDA,Outras digitais,0.9,False,Estratégia digital,openai/gpt-oss-120b,2026-11-04T22:00:24+00:00
+61572614000132,MOBI MOBILIZACAO E MARKETING INTELIGENTE LTDA,Outras digitais,0.9,False,Ambiente digital de mobilização,openai/gpt-oss-120b,2026-11-04T22:00:24+00:00
+58411436000153,WHOLLY MARKETING E PUBLICIDADE DIGITAL LTDA,Outras digitais,0.88,False,Marketing direto digital,openai/gpt-oss-120b,2026-11-04T22:00:24+00:00
+17365002000187,E M A SERVICOS TECNICOS DE COMUNICACAO E INFORMATICA LTDA,Outras digitais,0.9,False,Consultoria em publicidade digital,openai/gpt-oss-120b,2026-11-04T22:00:24+00:00
+46311000000103,R5 COMUNICACAO E MARKETING LTDA,Outras digitais,0.92,False,Impulsionamento em redes sociais,openai/gpt-oss-120b,2026-11-04T22:00:24+00:00
+67846335000104,BRAVA DESIGN E COMUNICACAO LTDA,Outras digitais,0.92,False,Conteúdo digital e Meta,openai/gpt-oss-120b,2026-11-04T22:00:24+00:00
+27866781000158,PULSAR COMUNICACAO LTDA,Outras digitais,0.92,False,Marketing político digital,openai/gpt-oss-120b,2026-11-04T22:00:24+00:00
+38726170000120,ALMEIDA GALVAO ASSOCIADOS LTDA,Outras digitais,0.9,False,Clipping e monitoramento digital,openai/gpt-oss-120b,2026-11-04T22:00:24+00:00
+24436882000109,HOUSE DIGITAL LTDA,Offline,0.96,False,Flayers e adesivos impressos,openai/gpt-oss-120b,2026-11-04T22:00:24+00:00
+96499132000189,VS PUBLICIDADE LTDA,Offline,0.99,False,Impressão jornalística,openai/gpt-oss-120b,2026-11-04T22:01:07+00:00
+55764184000158,EDITORA A HORA DO SUL LTDA,Offline,0.99,False,Edição de jornais,openai/gpt-oss-120b,2026-11-04T22:01:07+00:00
+32972296000107,STEP ADS - TRAFEGO PAGO LTDA,Outras digitais,0.98,False,Gestão de tráfego pago,openai/gpt-oss-120b,2026-11-04T22:01:07+00:00
+24858717000137,EXPRINT COMUNICACAO VISUAL LTDA,Offline,0.99,False,Adesivos e material impresso,openai/gpt-oss-120b,2026-11-04T22:01:07+00:00
+62939754000169,EPLACE COPIADORA E IMPRESSAO AGIL LTDA,Offline,0.99,False,Impressão de banners e lonas,openai/gpt-oss-120b,2026-11-04T22:01:07+00:00
+08243880000139,LM PROPAGANDA LTDA.,Outras digitais,0.97,False,Criação e impulsionamento digital,openai/gpt-oss-120b,2026-11-04T22:01:07+00:00
+22675097000175,CASCIO MKT E PROMOCAO DE VENDAS LTDA,Offline,0.96,False,Produção de rádio/TV,openai/gpt-oss-120b,2026-11-04T22:01:07+00:00
+40492345000124,AMAZON TECHINFO SOLUTIONS LTDA,Outras digitais,0.96,False,Gestão redes sociais e produção digital,openai/gpt-oss-120b,2026-11-04T22:01:07+00:00
+49038489000180,M F DA SILVA JUNIOR - PUBLICIDADE,Offline,0.99,False,Carro de som e consultoria,openai/gpt-oss-120b,2026-11-04T22:01:07+00:00
+15350287000157,DECSIGNER COMUNICACAO VISUAL E PRE-IMPRESSAO LTDA,Outras digitais,0.95,False,Marketing digital e gestão de redes,openai/gpt-oss-120b,2026-11-04T22:01:07+00:00
+13236697000146,EBANX BRASIL INSTITUICAO DE PAGAMENTO LTDA,Outras digitais,0.94,True,"Intermediário pagamento, plataformas múltiplas",openai/gpt-oss-120b,2026-11-04T22:01:07+00:00
+15162051000197,15.162.051 ELIEL FERREIRA DE JESUS,Offline,0.99,False,Impressão de banners e carro de som,openai/gpt-oss-120b,2026-11-04T22:01:07+00:00
+92757798000139,EMPRESA JORNALISTICA CALDAS JUNIOR LTDA,Offline,0.99,False,Publicidade em jornal impresso,openai/gpt-oss-120b,2026-11-04T22:01:07+00:00
+45677863000136,O2 SOLUCOES LTDA,Outras digitais,0.95,False,Criação digital e gestão de anúncios,openai/gpt-oss-120b,2026-11-04T22:01:07+00:00
+27350415000141,INOVE ACELERADORA TREINAMENTO E DESENVOLVIMENTO LTDA,Outras digitais,0.94,False,Gestão de marca e presença online,openai/gpt-oss-120b,2026-11-04T22:01:07+00:00
+45539958000193,"AGENCIA 8M DE COMUNICACAO, MARKETING E CONSULTORIA POLITICA LTDA",Outras digitais,0.96,False,Consultoria e comunicação digital,openai/gpt-oss-120b,2026-11-04T22:01:07+00:00
+31752724000115,GABRIEL SILVA LEMOS FERREIRA DESIGN GRAFICO,Outras digitais,0.95,False,Criação de peças para redes sociais,openai/gpt-oss-120b,2026-11-04T22:01:07+00:00
+46582138000147,IMPRIMA COMUNICACAO VISUAL E SERVICOS GRAFICOS E PERSONALIZADOS LTDA,Offline,0.99,False,Impressão de materiais e adesivos,openai/gpt-oss-120b,2026-11-04T22:01:07+00:00
+47367871000101,SERRAPIA COMUNICACOES LTDA,Outras digitais,0.96,False,Marketing digital e gestão de redes,openai/gpt-oss-120b,2026-11-04T22:01:07+00:00
+47680891000138,GRUPO ANDRADE CUNHA COMUNICACAO DIGITAL LTDA,Outras digitais,0.96,False,Gestão de tráfego e marketing direto,openai/gpt-oss-120b,2026-11-04T22:01:07+00:00
+68286364000113,GROWTH VISION ACCELERATION ASSURENCE QUALITY LTDA,Outras digitais,0.94,False,Desenvolvimento e hospedagem de sistema,openai/gpt-oss-120b,2026-11-04T22:01:07+00:00
+47930677000192,LENON HENRIQUE NUNES DA SILVA AGENCIA DE PUBLICIDADE LTDA,Outras digitais,0.95,False,Criação de artes para redes sociais,openai/gpt-oss-120b,2026-11-04T22:01:07+00:00
+11888977000103,ARIETE SERVICOS DE INFORMACAO NA INTERNET LTDA,Outras digitais,0.95,False,Comunicação digital e produção de conteúdo,openai/gpt-oss-120b,2026-11-04T22:01:07+00:00
+60935972000108,TP COMUNICACAO DIGITAL,Outras digitais,0.95,False,Serviço de marketing eleitoral,openai/gpt-oss-120b,2026-11-04T22:01:07+00:00
+46221027000105,AGENCIA KR DIGITAL LTDA,Outras digitais,0.94,False,Produção audiovisual e design,openai/gpt-oss-120b,2026-11-04T22:01:07+00:00
+43468815000102,HARMONIKA MEDIAWORKS LTDA,Offline,0.99,False,Produção audiovisual para TV/radio,openai/gpt-oss-120b,2026-11-04T22:01:07+00:00
+20059140000142,NOVA BOCAINA COMUNICACOES LTDA.,Offline,0.99,False,Produção de spots de rádio,openai/gpt-oss-120b,2026-11-04T22:01:07+00:00
+36741043000175,CARLOS ALBERTO COSTA SOUZA,Offline,0.99,False,Produção audiovisual publicitária,openai/gpt-oss-120b,2026-11-04T22:01:07+00:00
+21414472000160,M M CALAFIORI PRODUCOES LTDA,Outras digitais,0.95,False,Produção audiovisual e conteúdo digital,openai/gpt-oss-120b,2026-11-04T22:01:07+00:00
+63731874000139,ACB MARKETING LTDA,Outras digitais,0.95,False,"Estratégia, conteúdo e gestão de redes",openai/gpt-oss-120b,2026-11-04T22:01:07+00:00
+13076697000126,WARLEY VANDER FREITAS DA SILVA,Outras digitais,0.95,False,Marketing digital sem plataforma específica,openai/gpt-oss-120b,2026-11-04T22:01:46+00:00
+22034871000169,CAIO OLIVEIRA CRIATIVIDADE LTDA,Offline,0.97,False,Edição de material gráfico impresso,openai/gpt-oss-120b,2026-11-04T22:01:46+00:00
+45876498000199,LIN MARKETING DIGITAL LTDA,Outras digitais,0.96,False,Desenvolvimento e manutenção de site,openai/gpt-oss-120b,2026-11-04T22:01:46+00:00
+67639705000124,CARREIRA INTEGRACAO E TECNOLOGIA LTDA,Outras digitais,0.94,False,Consultoria empresarial digital,openai/gpt-oss-120b,2026-11-04T22:01:46+00:00
+71466288000132,FUNDACAO UBALDINO DO AMARAL,Offline,0.98,False,Publicidade em jornal impresso,openai/gpt-oss-120b,2026-11-04T22:01:46+00:00
+06072693000104,BRASIL DIGITAL LTDA,Offline,0.97,False,Adesivos impressos digitais,openai/gpt-oss-120b,2026-11-04T22:01:46+00:00
+17464254000163,GIGA PROJETOS LTDA,Offline,0.96,False,Composição e impressão gráfica,openai/gpt-oss-120b,2026-11-04T22:01:46+00:00
+09012044000106,STUDIO VISION II PRE-IMPRESSAO DIGITAL LTDA.,Offline,0.96,False,Banners e materiais impressos,openai/gpt-oss-120b,2026-11-04T22:01:46+00:00
+68931131000126,C GAVIOLI CRAVEIRO NOGUEIRA LTDA,Outras digitais,0.95,False,Marketing completo para redes sociais,openai/gpt-oss-120b,2026-11-04T22:01:46+00:00
+60394848000174,INTERPRESS COMUNICACOES EDITORIAIS LTDA.,Offline,0.98,False,Anúncios em jornal impresso,openai/gpt-oss-120b,2026-11-04T22:01:46+00:00
+37571107000108,JOAO PAULO NUNES BORGES,Outras digitais,0.94,False,Consultoria e gestão de redes sociais,openai/gpt-oss-120b,2026-11-04T22:01:46+00:00
+56005830000166,CONECTA CONSULTORIA E NEGOCIOS LTDA,Outras digitais,0.94,False,Estratégia de publicidade digital,openai/gpt-oss-120b,2026-11-04T22:01:46+00:00
+57214616000182,AGENCIA COMUNICA WEB LTDA,Outras digitais,0.93,False,Produção audiovisual e marketing digital,openai/gpt-oss-120b,2026-11-04T22:01:46+00:00
+48072817000100,TAILIZE SCHEFFER CAMARGO,Outras digitais,0.93,False,Gestão de redes sociais e propaganda digital,openai/gpt-oss-120b,2026-11-04T22:01:46+00:00
+27771851000194,MAGNUM AGENCIA LTDA,Outras digitais,0.93,False,Criação de conteúdo digital,openai/gpt-oss-120b,2026-11-04T22:01:46+00:00
+35490095000153,GRAFICA E EDITORA UNIAO LTDA,Offline,0.97,False,Impressão de panfletos e materiais,openai/gpt-oss-120b,2026-11-04T22:01:46+00:00
+41748960000111,JAPAN MIDIA PUBLICIDADE E MARKETING LTDA,Offline,0.96,False,Produção de banners e material impresso,openai/gpt-oss-120b,2026-11-04T22:01:46+00:00
+37654716000112,K7 ASSESSORIA EM MARKETING DIGITAL E PUBLICIDADE LTDA,Outras digitais,0.94,False,Empresa de marketing digital,openai/gpt-oss-120b,2026-11-04T22:01:46+00:00
+21608383000155,HUMANIZZA TREINAMENTOS E PESQUISAS LTDA,Outras digitais,0.92,False,Pesquisas eleitorais e impulsionamento digital,openai/gpt-oss-120b,2026-11-04T22:01:46+00:00
+07194985000182,BAUNCE CENTRAL DE AUDIO E SERVICOS LTDA,Offline,0.95,False,Produção de jingles e áudio para TV/rádio,openai/gpt-oss-120b,2026-11-04T22:01:46+00:00
+16950441000194,MARCIO CARVALHO FIGUEREDO,Outras digitais,0.92,False,Desenvolvimento de identidade visual digital,openai/gpt-oss-120b,2026-11-04T22:01:46+00:00
+09168032000175,MI DIGITAL LTDA.,Offline,0.96,False,Impressão de adesivos e materiais físicos,openai/gpt-oss-120b,2026-11-04T22:01:46+00:00
+08335652000199,LAPA MUSICA LTDA,Offline,0.95,False,Pós‑produção de áudio/vídeo para TV/rádio,openai/gpt-oss-120b,2026-11-04T22:01:46+00:00
+46344023000114,PRODUTORA GAMOND LTDA,Outras digitais,0.93,False,Audiovisual e tráfego pago digital,openai/gpt-oss-120b,2026-11-04T22:01:46+00:00
+32480687000104,RESULTADO VIRTUAL LTDA,Outras digitais,0.92,False,Marketing e produção audiovisual digital,openai/gpt-oss-120b,2026-11-04T22:01:46+00:00
+45019267000169,ANA LUIZA DORNELAS DE CARVALHO,Outras digitais,0.91,False,Gestão de impulsionamento digital,openai/gpt-oss-120b,2026-11-04T22:01:46+00:00
+34394634000198,G L SEABRA FILMES,Offline,0.94,False,Produção de filmes publicitários,openai/gpt-oss-120b,2026-11-04T22:01:46+00:00
+40854545000180,NAPOLI MARKETING DIGITAL LTDA,Outras digitais,0.93,False,Gestão de redes sociais e produção de conteúdo,openai/gpt-oss-120b,2026-11-04T22:01:46+00:00
+64387967000150,64.387.967 RUBENS ALEXANDRO TEIXEIRA FERNANDES FILHO,Outras digitais,0.91,False,Comunicação visual e conteúdo digital,openai/gpt-oss-120b,2026-11-04T22:01:46+00:00
+69000886000170,CARICIA OLIVEIRA CONSULTORIA EM PUBLICIDADE LTDA,Outras digitais,0.91,False,Serviços de head digital,openai/gpt-oss-120b,2026-11-04T22:01:46+00:00
+68806994000171,MD MARKETING DIGITAL LTDA,Outras digitais,0.96,False,Gestão de mídia digital,openai/gpt-oss-120b,2026-11-04T22:02:25+00:00
+06371544000146,WALKERS COMUNICACAO VISUAL LIMITADA,Offline,0.97,False,Adesivos e impressão,openai/gpt-oss-120b,2026-11-04T22:02:25+00:00
+42506852000103,BMB MARKETING LTDA,Offline,0.96,False,Produção de vídeo para TV/radio,openai/gpt-oss-120b,2026-11-04T22:02:25+00:00
+95424834000130,GAZETA DO SUL S/A - EM RECUPERACAO JUDICIAL,Offline,0.98,False,Publicidade em jornal impresso,openai/gpt-oss-120b,2026-11-04T22:02:25+00:00
+52358399000180,EWERTON LUIS SOUZA DA SILVA,Offline,0.95,False,Pós‑produção de vídeo,openai/gpt-oss-120b,2026-11-04T22:02:25+00:00
+41113854000161,TF COMUNICACAO E SOLUCOES LTDA,Outras digitais,0.95,False,"Agência, redes sociais, vídeos",openai/gpt-oss-120b,2026-11-04T22:02:25+00:00
+63596333000145,R B LOCACOES E ALUGUEIS LTDA,Offline,0.94,False,Locação e produção audiovisual,openai/gpt-oss-120b,2026-11-04T22:02:25+00:00
+62288062000106,KINETIQ COMUNICACAO LTDA,Outras digitais,0.96,False,Pesquisa e marketing digital,openai/gpt-oss-120b,2026-11-04T22:02:25+00:00
+68560043000165,SERRANO MARKETING LTDA,Outras digitais,0.94,False,Comunicação e marketing digital,openai/gpt-oss-120b,2026-11-04T22:02:25+00:00
+34489104000123,F CON SERVICOS E COMERCIO DE EQUIPAMENTOS LTDA,Outras digitais,0.95,False,"Gestão de redes sociais, vídeo",openai/gpt-oss-120b,2026-11-04T22:02:25+00:00
+54581618000111,JSM INDUSTRIA E SERVICOS LTDA,Offline,0.96,False,Bandeiras e adesivos impressos,openai/gpt-oss-120b,2026-11-04T22:02:25+00:00
+53928068000100,53.928.068 WILLIAN GABRIEL MOTERANI,Outras digitais,0.94,False,"Marketing digital, fotografia, videomaker",openai/gpt-oss-120b,2026-11-04T22:02:25+00:00
+32125966000141,ARENA DIGITAL TECNOLOGIA DA INFORMACAO LTDA,Outras digitais,0.96,False,Gestão de tráfego pago,openai/gpt-oss-120b,2026-11-04T22:02:25+00:00
+04315888000102,"SINFOR - ASSESSORIA, COMUNICACAO E MARKETING ITURAMA LTDA",Outras digitais,0.94,False,Criação de peças publicitárias,openai/gpt-oss-120b,2026-11-04T22:02:25+00:00
+56365624000167,AL DIGITAL LTDA,Outras digitais,0.95,False,Gestão e otimização de tráfego pago,openai/gpt-oss-120b,2026-11-04T22:02:25+00:00
+61341821000186,CLUTCH NEGOCIOS ENTRETENIMENTO PROPAGANDA E MARKETING LTDA,Outras digitais,0.95,False,Gestão de mídias sociais e tráfego,openai/gpt-oss-120b,2026-11-04T22:02:25+00:00
+51718446000197,ASPECTO CONSULTORIA E MARKETING LTDA,Outras digitais,0.93,False,Consultoria e marketing político,openai/gpt-oss-120b,2026-11-04T22:02:25+00:00
+46361875000110,ARGUMENTO 3 LTDA,Offline,0.94,False,Produção e edição de vídeos para redes,openai/gpt-oss-120b,2026-11-04T22:02:25+00:00
+45509943000182,BLACK WATER PROPAGANDA LTDA,Outras digitais,0.93,False,Comunicação digital eleitoral,openai/gpt-oss-120b,2026-11-04T22:02:25+00:00
+45000886000101,VT8 MARKETING DIGITAL LTDA,Outras digitais,0.94,False,Estratégia e gestão de mídia digital,openai/gpt-oss-120b,2026-11-04T22:02:25+00:00
+24091590000173,DATA POVO INSTITUTO DE PESQUISAS MARKETING E CONSULTORIA LTDA,Outras digitais,0.92,False,Marketing e comunicação digital,openai/gpt-oss-120b,2026-11-04T22:02:25+00:00
+62296749000185,AGORALAB SOLUCOES DIGITAIS LTDA,Outras digitais,0.91,False,Assessoria de comunicação digital,openai/gpt-oss-120b,2026-11-04T22:02:25+00:00
+11419718000133,F. F. FUNARI,Offline,0.96,False,Impressão de banners e windbanner,openai/gpt-oss-120b,2026-11-04T22:02:25+00:00
+33604295000164,NOVA GUIA PUBLICIDADE LTDA,Outras digitais,0.94,False,Criação de conteúdo para redes e audiovisual,openai/gpt-oss-120b,2026-11-04T22:02:25+00:00
+49263755000178,CONQUISTA COMUNICACAO E MARKETING LTDA,Outras digitais,0.95,False,"Comunicação, publicidade e audiovisual",openai/gpt-oss-120b,2026-11-04T22:02:25+00:00
+26589631000181,TEIA PERFORMANCE E INTELIGENCIA DIGITAL LTDA,Outras digitais,0.92,False,Serviços de publicidade e comunicação,openai/gpt-oss-120b,2026-11-04T22:02:25+00:00
+28615380000198,MIDIA MKT MARKETING DIGITAL LTDA,Outras digitais,0.93,False,Marketing político e produção audiovisual,openai/gpt-oss-120b,2026-11-04T22:02:25+00:00
+11114475000125,5 IDENTIFICACAO VISUAL COMERCIO E SERVICO PARA PUBLICIDADE LTDA,Offline,0.95,False,Impressão digital em tecido e filme,openai/gpt-oss-120b,2026-11-04T22:02:25+00:00
+17651624000171,FELIPE H. HUTTER,Offline,0.94,False,Direção de fotografia para campanha,openai/gpt-oss-120b,2026-11-04T22:02:25+00:00
+26175961000120,J L DE ALMEIDA PEREIRA FINALIZACAO EM AUDIO E VIDEO,Offline,0.94,False,Color grading e produção de rádio,openai/gpt-oss-120b,2026-11-04T22:02:25+00:00
+34047033000109,BLISS PRODUTORA DE AUDIO LTDA,Offline,0.95,False,Produção de jingles para rádio/TV,openai/gpt-oss-120b,2026-11-04T22:03:05+00:00
+48114026000197,ALISSON THIAGO NASCIMENTO DE ARAUJO,Offline,0.8,False,Design gráfico costuma ser material impresso,openai/gpt-oss-120b,2026-11-04T22:03:05+00:00
+47066374000173,EDUARDO RANGEL DE ARAUJO LTDA,Outras digitais,0.95,False,Gestão de tráfego pago e marketing digital,openai/gpt-oss-120b,2026-11-04T22:03:05+00:00
+13342109000159,CASSIO BUREAU E EDITORA LTDA,Offline,0.98,False,Impressão de santinhos e cartões,openai/gpt-oss-120b,2026-11-04T22:03:05+00:00
+06199207000113,ULTRACOPY DIGITAL LTDA,Offline,0.98,False,Adesivos e vinil impresso,openai/gpt-oss-120b,2026-11-04T22:03:05+00:00
+37152566000149,GEOVANA ARAGAO FERREIRA,Outras digitais,0.95,False,Gestão de tráfego pago político,openai/gpt-oss-120b,2026-11-04T22:03:05+00:00
+28550324000112,ROTA 3 AGENCIA PUBLICIDADE LTDA,Outras digitais,0.9,False,Agência com marketing digital incluído,openai/gpt-oss-120b,2026-11-04T22:03:05+00:00
+47323000000196,RICCO COMPANY PRODUTORA LTDA,Outras digitais,0.85,False,Criação de site e conteúdo digital,openai/gpt-oss-120b,2026-11-04T22:03:05+00:00
+51084843000154,DIGITAL SOM STUDIO LTDA,Offline,0.97,False,Bandeiras físicas com cabo,openai/gpt-oss-120b,2026-11-04T22:03:05+00:00
+31126180000186,FILIPE NUNES DE BARROS,Offline,0.9,False,Direção de montagem para produção audiovisual,openai/gpt-oss-120b,2026-11-04T22:03:05+00:00
+39250922000192,39.250.922 CLAUDIO ALBERTO GONCALVES MARQUES,Outras digitais,0.95,False,Serviços de comunicação e marketing digital,openai/gpt-oss-120b,2026-11-04T22:03:05+00:00
+55052150000130,FERNANDA SIMOES RIBEIRO LTDA,Outras digitais,0.95,False,Gestão de redes sociais e marketing político,openai/gpt-oss-120b,2026-11-04T22:03:05+00:00
+60577499000126,RODRIGO DE FREITAS GALVAO,Offline,0.9,False,Direção de cena e câmera para TV,openai/gpt-oss-120b,2026-11-04T22:03:05+00:00
+43357653000135,PHILIPPS FILMES LTDA.,Offline,0.9,False,Produção de vídeos para campanha,openai/gpt-oss-120b,2026-11-04T22:03:05+00:00
+67057540000182,67.057.540 ALAN LEAL SANTANA,Outras digitais,0.8,False,Impulsionamento sem plataforma identificada,openai/gpt-oss-120b,2026-11-04T22:03:05+00:00
+67093975000182,PIETRO PARRONCHI DESENVOLVIMENTO DE SOFTWARES LTDA,Outras digitais,0.95,False,Análise de dados e monitoramento digital,openai/gpt-oss-120b,2026-11-04T22:03:05+00:00
+47700183000111,VITORIA TERRA COMUNICACOES LTDA,Outras digitais,0.9,False,Estratégia e comunicação digital,openai/gpt-oss-120b,2026-11-04T22:03:05+00:00
+64674722000104,I7 ESTAMPARIA DIGITAL LTDA,Offline,0.95,False,Impressão de banners e adesivos físicos,openai/gpt-oss-120b,2026-11-04T22:03:05+00:00
+01384043000180,MLC PRODUCAO AUDIOVISUAL LTDA,Offline,0.9,False,Coordenação de produção audiovisual,openai/gpt-oss-120b,2026-11-04T22:03:05+00:00
+57060589000130,VELC INTELIGENCIA ESTRATEGICA LTDA,Outras digitais,0.85,False,Marketing estratégico e digital,openai/gpt-oss-120b,2026-11-04T22:03:05+00:00
+07185741000133,SOLUTIONS MAXIMOS - SERVICOS E COMERCIO DE INFORMATICA LTDA,Outras digitais,0.95,False,Desenvolvimento web e sistemas digitais,openai/gpt-oss-120b,2026-11-04T22:03:05+00:00
+44189721000167,PH PUBLICIDADE E CONSULTORIA LTDA,Outras digitais,0.95,False,Gerenciamento de redes sociais,openai/gpt-oss-120b,2026-11-04T22:03:05+00:00
+51083171000162,51.083.171 DIEISON KLEEMANN,Offline,0.9,False,Gravação e edição de vídeos para campanha,openai/gpt-oss-120b,2026-11-04T22:03:05+00:00
+29678987000180,AGN7 COMUNICACAO LTDA,Outras digitais,0.95,False,Construção e manutenção de site,openai/gpt-oss-120b,2026-11-04T22:03:05+00:00
+49885039000122,DIGITAL IMPRESS GRAFICA RAPIDA PAPELARIA E COMERCIO VISUAL LTDA,Offline,0.97,False,Produção de wind banners e adesivos,openai/gpt-oss-120b,2026-11-04T22:03:05+00:00
+10410225000170,JULLY STOCK TEXTIL LTDA,Offline,0.95,False,Faixas e bandeiras de pano impressas,openai/gpt-oss-120b,2026-11-04T22:03:05+00:00
+22018083000189,F5 GRAFICA DIGITAL LTDA,Offline,0.97,False,Gráfica digital para materiais impressos,openai/gpt-oss-120b,2026-11-04T22:03:05+00:00
+62947826000110,62.947.826 JEFFERSON LUIZ ROSADO MACIEL,Offline,0.97,False,Panfletos e materiais gráficos impressos,openai/gpt-oss-120b,2026-11-04T22:03:05+00:00
+16598216000130,FERNANDA APARECIDA SILVA -,Offline,0.97,False,Adesivos físicos para campanha,openai/gpt-oss-120b,2026-11-04T22:03:05+00:00
+05787805000140,GRUPO 1 DE JORNAIS EDICOES E PUBLICACOES LTDA,Offline,0.98,False,Anúncios em jornais e revistas,openai/gpt-oss-120b,2026-11-04T22:03:05+00:00
+37362298000190,RQT - ASSESSORIA EM MARKETING DE PERFORMANCE LTDA,Outras digitais,0.96,False,Gestão de tráfego e publicidade digital,openai/gpt-oss-120b,2026-11-04T22:03:48+00:00
+62669796000127,INSTITUTO DO TEXTO CURSOS E PRODUCOES DIGITAL LTDA,Outras digitais,0.95,False,Marketing e comunicação digital,openai/gpt-oss-120b,2026-11-04T22:03:48+00:00
+30712023000190,G M FIGUEIREDO DA AMAZONIA LTDA,Offline,0.98,False,Impressão e adesivos físicos,openai/gpt-oss-120b,2026-11-04T22:03:48+00:00
+46391186000158,ARTISTICOS E CIA LTDA,Offline,0.97,False,"Produção de vídeos animados, material impresso",openai/gpt-oss-120b,2026-11-04T22:03:48+00:00
+47871302000107,VEKTORA ESTRATEGIA COMUNICACAO E MARKETING LTDA,Outras digitais,0.95,False,Conteúdo para redes sociais,openai/gpt-oss-120b,2026-11-04T22:03:48+00:00
+37033217000108,GEDERSON CUNHA GARCIA,Outras digitais,0.94,False,Design gráfico e gestão de redes sociais,openai/gpt-oss-120b,2026-11-04T22:03:48+00:00
+58005151000112,58.005.151 TALIA STELZER NICOLINI RAMOS,Outras digitais,0.94,False,Produção audiovisual e fotos digitais,openai/gpt-oss-120b,2026-11-04T22:03:48+00:00
+32758041000138,RAPHAEL MACEDO ZILLI,Outras digitais,0.93,False,Marketing digital e propaganda online,openai/gpt-oss-120b,2026-11-04T22:03:48+00:00
+25297731000171,J ROGERIO CAMARGO,Offline,0.96,False,Produção de vídeo para rádio/TV,openai/gpt-oss-120b,2026-11-04T22:03:48+00:00
+62303975000146,PUBLICA ON COMUNICACAO LTDA,Outras digitais,0.94,False,Gestão de tráfego e conteúdo digital,openai/gpt-oss-120b,2026-11-04T22:03:48+00:00
+08744133000184,ONZE MARKETING E DESIGN LTDA,Outras digitais,0.94,False,Identidade visual e produção audiovisual,openai/gpt-oss-120b,2026-11-04T22:03:48+00:00
+63921057000143,63.921.057 LUIS ALBERTO DE OLIVEIRA BATISTA,Outras digitais,0.93,False,Serviços fotográficos para campanha,openai/gpt-oss-120b,2026-11-04T22:03:48+00:00
+61593361000183,61.593.361 JOAO PAULO GALHARDO BRUM,Outras digitais,0.93,False,Serviços fotográficos digitais,openai/gpt-oss-120b,2026-11-04T22:03:48+00:00
+03200737000146,XYZ HUMAN-CENTERED DESIGN LTDA,Outras digitais,0.92,False,Animações gráficas para redes,openai/gpt-oss-120b,2026-11-04T22:03:48+00:00
+02924406000196,TRES COMUNICACAO E MARKETING LTDA,Outras digitais,0.92,False,Marketing e produção audiovisual digital,openai/gpt-oss-120b,2026-11-04T22:03:48+00:00
+54298726000181,TORA NEKO PUBLICIDADE LTDA,Offline,0.97,False,Publicidade em jornal impresso,openai/gpt-oss-120b,2026-11-04T22:03:48+00:00
+45752016000199,BLUEFIN MARKETING LTDA,Outras digitais,0.95,False,Gestão de tráfego pago,openai/gpt-oss-120b,2026-11-04T22:03:48+00:00
+37558317000158,XAVIER MARKETING E PUBLICIDADE DIGITAL LTDA,Outras digitais,0.95,False,Gestão de tráfego pago para campanha,openai/gpt-oss-120b,2026-11-04T22:03:48+00:00
+60416217000109,ESTUDIO WHIZZ AUDIOVISUAL LTDA,Outras digitais,0.94,False,Produção audiovisual e conteúdo digital,openai/gpt-oss-120b,2026-11-04T22:03:48+00:00
+35755101000157,CAJUINA PRODUCOES E MIDIA DIGITAL LTDA,Outras digitais,0.94,False,Conteúdo audiovisual e identidade visual digital,openai/gpt-oss-120b,2026-11-04T22:03:48+00:00
+37578662000153,BERGAMINI COMUNICACAO ENGENHARIA E SERVICOS LTDA,Offline,0.98,False,Confecção de adesivos e materiais impressos,openai/gpt-oss-120b,2026-11-04T22:03:48+00:00
+09477882000155,EDIS PRODUCOE AUDIO VISUAIS LTDA,Outras digitais,0.93,False,Produção de vídeos e tráfego orgânico,openai/gpt-oss-120b,2026-11-04T22:03:48+00:00
+35152534000118,CM FERREIRA PROPAGANDA E ASSESSORIA,Outras digitais,0.94,False,Consultoria e gestão de tráfego pago,openai/gpt-oss-120b,2026-11-04T22:03:48+00:00
+52976091000107,DEU BOOM LTDA,Outras digitais,0.93,False,Marketing e redes sociais,openai/gpt-oss-120b,2026-11-04T22:03:48+00:00
+36678211000125,MARCOS VINICIUS MANTOVANI E SILVA,Outras digitais,0.92,False,Desenvolvimento de site e plataforma web,openai/gpt-oss-120b,2026-11-04T22:03:48+00:00
+46607513000166,MARKETIVITY PUBLICIDADE LTDA,Outras digitais,0.94,False,Marketing e impulsionamento Facebook,openai/gpt-oss-120b,2026-11-04T22:03:48+00:00
+11293447000112,PONTO COMUNICACAO LTDA,Outras digitais,0.93,False,Produção audiovisual e posts redes sociais,openai/gpt-oss-120b,2026-11-04T22:03:48+00:00
+17949224000147,DOUGLAS CRUZ RODRIGUES,Offline,0.97,False,Produção de adesivos físicos,openai/gpt-oss-120b,2026-11-04T22:03:48+00:00
+66862474000150,VIRTUAL MARKETING DIGITAL LTDA,Outras digitais,0.93,False,Agência de publicidade e marketing digital,openai/gpt-oss-120b,2026-11-04T22:03:48+00:00
+58396238000168,CONNECTVIEW LTDA,Outras digitais,0.93,False,Serviços técnicos de produção audiovisual,openai/gpt-oss-120b,2026-11-04T22:03:48+00:00
+38446349000124,PAEL MARKETING COMUNICACAO E PROPAGANDA LTDA,Outras digitais,0.9,False,Marketing digital e gestão de campanha,openai/gpt-oss-120b,2026-11-04T22:04:29+00:00
+56251071000111,DALCIN COMUNICACAO LTDA,Outras digitais,0.85,False,Audiovisual para redes sociais,openai/gpt-oss-120b,2026-11-04T22:04:29+00:00
+27082992000108,PEDRO HENRIQUE B. CLEZAR,Offline,0.9,False,"Direção de fotografia, produção vídeo",openai/gpt-oss-120b,2026-11-04T22:04:29+00:00
+03907860000100,JORNAL DE BAIRRO EM BAIRRO EDITORA SILVA SILVA LTDA,Offline,0.95,False,Anúncios em jornal impresso,openai/gpt-oss-120b,2026-11-04T22:04:29+00:00
+94560406000172,ANNAJU GRAFICA LTDA,Offline,0.95,False,"Impressos, flyers, colinhas",openai/gpt-oss-120b,2026-11-04T22:04:29+00:00
+40871366000150,EBP PRODUCOES E MARKETING LTDA,Outras digitais,0.9,False,Gestão digital de campanha,openai/gpt-oss-120b,2026-11-04T22:04:29+00:00
+60891600000119,MOOVE COMPANY LTDA,Outras digitais,0.95,False,Impulsionamento e tráfego pago,openai/gpt-oss-120b,2026-11-04T22:04:29+00:00
+23695891000143,GP COMUNICACAO VISUAL E GRAFICA LTDA,Offline,0.9,False,Materiais impressos e banners,openai/gpt-oss-120b,2026-11-04T22:04:29+00:00
+43639001000193,AGENCIA PORTAL DO CASTELO DE COMUNICACAO LTDA,Outras digitais,0.85,False,"Gestão e produção digital, portal",openai/gpt-oss-120b,2026-11-04T22:04:29+00:00
+10813527000199,UDOOR LOCACAO DE PROPAGANDA DIGITAL LTDA,Outras digitais,0.85,False,Publicidade digital e veiculação,openai/gpt-oss-120b,2026-11-04T22:04:29+00:00
+37331906000107,YELLOW PUBLICIDADE LTDA,Offline,0.8,False,Produção de vídeo para TV/radio,openai/gpt-oss-120b,2026-11-04T22:04:29+00:00
+34026625000144,AVANTE PROMOCOES E PUBLICIDADES LTDA,Offline,0.8,False,Carros de som e produção audiovisual,openai/gpt-oss-120b,2026-11-04T22:04:29+00:00
+60916404000151,BLUE OCEAN AGENCIA DE MARKETING DIGITAL LTDA,Outras digitais,0.7,False,"Infoproduto, marketing digital",openai/gpt-oss-120b,2026-11-04T22:04:29+00:00
+41704566000181,M. DOS SANTOS RAMOS PUBLICIDADE,Offline,0.8,False,Marketing político e produção audiovisual,openai/gpt-oss-120b,2026-11-04T22:04:29+00:00
+15353835000100,ESTEIRA FILMES E ANIMACOES LTDA,Offline,0.85,False,Motion e serviços gráficos eleitorais,openai/gpt-oss-120b,2026-11-04T22:04:29+00:00
+00141206000131,CONTORNO AUDIO E VIDEO LTDA,Offline,0.85,False,Edição de vídeo e filme,openai/gpt-oss-120b,2026-11-04T22:04:29+00:00
+45504716000164,ZERO AGENCY LTDA,Outras digitais,0.9,False,Edição/administração de mídia digital,openai/gpt-oss-120b,2026-11-04T22:04:29+00:00
+44878624000181,44.878.624 KAIO MIGUEL RUIZ,Offline,0.85,False,Fotografia e cinematografia profissional,openai/gpt-oss-120b,2026-11-04T22:04:29+00:00
+39606923000127,SYGATEC DE UBA LTDA,Outras digitais,0.7,False,Licença de software de edição e planejamento,openai/gpt-oss-120b,2026-11-04T22:04:29+00:00
+37940221000150,TORANJA - CULTURA E COMUNICACAO LTDA,Outras digitais,0.85,False,Assessoria nas redes sociais e materiais digitais,openai/gpt-oss-120b,2026-11-04T22:04:29+00:00
+03131469000158,METRAN E BARROS LTDA,Offline,0.95,False,"Banners, adesivos e impressão digital",openai/gpt-oss-120b,2026-11-04T22:04:29+00:00
+38011492000193,CONNECTSE MARKETING E COMUNICACAO LTDA,Outras digitais,0.85,False,Militância de rua e marketing digital,openai/gpt-oss-120b,2026-11-04T22:04:29+00:00
+41197900000158,VEGA GRAFICA DIGITAL LTDA,Offline,0.9,False,Banners e adesivos impressos,openai/gpt-oss-120b,2026-11-04T22:04:29+00:00
+08007848000154,ADILSON KEMS CRUZ,Offline,0.95,False,Produção e impressão em jornal,openai/gpt-oss-120b,2026-11-04T22:04:29+00:00
+35575974000188,N N DE C GUEDES COMUNICACAO E MARKETING LTDA,Outras digitais,0.85,False,"Comunicação, marketing digital e audiovisual",openai/gpt-oss-120b,2026-11-04T22:04:29+00:00
+37625754000147,P. D. R. RAMOS COMUNICACAO LTDA,Offline,0.85,False,Produção de vídeos e fotos,openai/gpt-oss-120b,2026-11-04T22:04:29+00:00
+46088426000140,LAW LIBERTY MARKETING JURIDICO LTDA,Outras digitais,0.95,False,Marketing digital e tráfego pago,openai/gpt-oss-120b,2026-11-04T22:04:29+00:00
+65018617000180,JOAO ADEMIR FLORES LTDA,Offline,0.9,False,Impressão de adesivos e materiais,openai/gpt-oss-120b,2026-11-04T22:04:29+00:00
+43640738000126,MAURICIO ROLEDO RUBIRA - RBR AGENCIA DE PUBLICIDADE,Outras digitais,0.9,False,Produção e impulsionamento de vídeos nas redes,openai/gpt-oss-120b,2026-11-04T22:04:29+00:00
+12209210000173,12.209.210 WILLIAM DA SILVA SANTANA,Offline,0.95,False,Wind banners e materiais impressos,openai/gpt-oss-120b,2026-11-04T22:04:29+00:00
+05890821000164,EMPRESA JORNALISTICA E EDITORA GAZETA DE PIRACICABA LTDA,Offline,0.96,False,Impressão jornalística,openai/gpt-oss-120b,2026-11-04T22:05:11+00:00
+65698630000127,NOTERA MEDIA LTDA,Outras digitais,0.95,False,Análise de redes sociais,openai/gpt-oss-120b,2026-11-04T22:05:11+00:00
+01924095000100,EDITORA JORNALISTICA O DIARIO LTDA,Offline,0.96,False,Publicidade em jornal impresso,openai/gpt-oss-120b,2026-11-04T22:05:11+00:00
+36706363000194,LFG ALTA COMUNICACAO VISUAL LTDA,Offline,0.95,False,Banners e adesivos impressos,openai/gpt-oss-120b,2026-11-04T22:05:11+00:00
+52789580000141,BRENNO GUERRA PRODUCOES AUDIOVISUAIS LTDA,Offline,0.95,False,Pós‑produção audiovisual,openai/gpt-oss-120b,2026-11-04T22:05:11+00:00
+66161168000197,66.161.168 ALEXSANDRO DOS SANTOS GONCALVES,Offline,0.94,False,Captação e edição para redes sociais (offline),openai/gpt-oss-120b,2026-11-04T22:05:11+00:00
+57513232000160,GERARTE VIRA FILMES PRODUCOES LTDA,Offline,0.94,False,Veiculação de vídeos campanha,openai/gpt-oss-120b,2026-11-04T22:05:11+00:00
+65589180000134,AGENCIA DE MARKETING DIGITAL DOSE DUPLA LTDA,Outras digitais,0.96,False,Marketing digital e gestão de conteúdo,openai/gpt-oss-120b,2026-11-04T22:05:11+00:00
+53844693000165,JOSE HELIO SALES FEITOSA JUNIOR LTDA,Outras digitais,0.94,False,Gamificação online,openai/gpt-oss-120b,2026-11-04T22:05:11+00:00
+55470936000178,55.470.936 NAYARA CARVALHO DE SOUZA,Outras digitais,0.94,False,Estratégia digital e inteligência de redes,openai/gpt-oss-120b,2026-11-04T22:05:11+00:00
+47098648000106,ANNELISE UDVARY DE CASTRO,Outras digitais,0.94,False,Plataforma online Reborn AI,openai/gpt-oss-120b,2026-11-04T22:05:11+00:00
+23904309000101,L MZ COMUNICACAO E MARKETING LTDA,Outras digitais,0.95,False,Serviços gerais de marketing digital,openai/gpt-oss-120b,2026-11-04T22:05:11+00:00
+68391206000123,68.391.206 BRUNO GOBBO DE OLIVEIRA,Outras digitais,0.95,False,Marketing digital para redes sociais,openai/gpt-oss-120b,2026-11-04T22:05:11+00:00
+41772746000109,BERNARD ALVES MATHIAS,Outras digitais,0.95,False,Serviços de mídia digital,openai/gpt-oss-120b,2026-11-04T22:05:11+00:00
+48570232000101,START PRODUCOES LTDA,Offline,0.95,False,Materiais impressos e adesivos,openai/gpt-oss-120b,2026-11-04T22:05:11+00:00
+59527809000119,O WILLIAN DO MARKETING DIGITAL LTDA,Offline,0.94,False,Produção audiovisual e marketing digital (offline),openai/gpt-oss-120b,2026-11-04T22:05:11+00:00
+64931022000158,JUNTE MAIS AGENCIA DE MARKETING LTDA,Outras digitais,0.95,False,Gestão de redes sociais,openai/gpt-oss-120b,2026-11-04T22:05:11+00:00
+53449485000161,CELEST PRO PRODUCOES CINLEB LTDA,Outras digitais,0.94,False,Conteúdos e podcasts para redes sociais,openai/gpt-oss-120b,2026-11-04T22:05:11+00:00
+38427987000106,JORNAL GAZETA DE RIO PRETO LTDA,Offline,0.96,False,Anúncio em jornal impresso,openai/gpt-oss-120b,2026-11-04T22:05:11+00:00
+14475715000105,FABIOLA AGUILAR RIBEIRO,Outras digitais,0.94,False,WhatsApp e e‑mail massivo,openai/gpt-oss-120b,2026-11-04T22:05:11+00:00
+11327880000121,LCW COMUNICACAO VISUAL LTDA,Offline,0.95,False,Banners e adesivos físicos,openai/gpt-oss-120b,2026-11-04T22:05:11+00:00
+36598965000175,ENTRE ASPAS COMUNICACAO LTDA,Outras digitais,0.94,False,Assessoria comunicação digital,openai/gpt-oss-120b,2026-11-04T22:05:11+00:00
+10495183000117,AUGUSTO CESAR VIEIRA,Offline,0.95,False,Impressos e adesivos físicos,openai/gpt-oss-120b,2026-11-04T22:05:11+00:00
+35036467000176,35.036.467 GRAZZIELA PAGANINI,Offline,0.95,False,Materiais promocionais impressos,openai/gpt-oss-120b,2026-11-04T22:05:11+00:00
+26122128000111,WHIZZ- COMUNICACAO CRIATIVA LTDA,Outras digitais,0.94,False,Agência com serviços digitais e gráficos,openai/gpt-oss-120b,2026-11-04T22:05:11+00:00
+22437109000123,ARIDO FILMES LTDA,Offline,0.94,False,Produção audiovisual criativa,openai/gpt-oss-120b,2026-11-04T22:05:11+00:00
+60502026000160,TREE COMPANY SERVICOS DIGITAIS E CONSULTORIA LTDA,Outras digitais,0.95,False,Gestão e publicidade digital,openai/gpt-oss-120b,2026-11-04T22:05:11+00:00
+15139895000117,PORTAL E EDITORA MAIS EXPRESSAO LTDA,Offline,0.95,False,Inserções em jornal impresso,openai/gpt-oss-120b,2026-11-04T22:05:11+00:00
+03552001000137,JJK VIDEO LTDA,Offline,0.94,False,Captação e edição audiovisual,openai/gpt-oss-120b,2026-11-04T22:05:11+00:00
+57547282000169,CHROMA FILMS E PRODUCOES LTDA,Outras digitais,0.94,False,Impulsionamento sem plataforma identificada,openai/gpt-oss-120b,2026-11-04T22:05:11+00:00
+00565031000190,MARBSON MANOEL DE OLIVEIRA,Offline,0.96,False,Impressão de materiais,openai/gpt-oss-120b,2026-11-04T22:05:54+00:00
+28636805000145,LAYON HENRIQUE CORREA COMUNICACAO,Offline,0.96,False,Impressão de adesivos,openai/gpt-oss-120b,2026-11-04T22:05:54+00:00
+50868798000166,ABACAXI ATELIE AUDIOVISUAL PRODUTORA LTDA,Offline,0.95,False,Produção audiovisual TV/radio,openai/gpt-oss-120b,2026-11-04T22:05:54+00:00
+32015668000107,7M PROPAGANDA LTDA,Offline,0.96,False,Impressão de materiais,openai/gpt-oss-120b,2026-11-04T22:05:54+00:00
+32965471000120,MARIELLE HELENNE DE OLIVEIRA FERNANDES,Outras digitais,0.94,False,Marketing digital e design,openai/gpt-oss-120b,2026-11-04T22:05:54+00:00
+59849907000172,KS FESTAS E EVENTOS LTDA,Offline,0.95,False,Impressão de materiais,openai/gpt-oss-120b,2026-11-04T22:05:54+00:00
+33396373000182,DOTE LTDA,Outras digitais,0.93,False,Mobilização digital,openai/gpt-oss-120b,2026-11-04T22:05:54+00:00
+55356784000187,55.356.784 ANA FLAVIA VILELA DE CASTRO,Outras digitais,0.94,False,Gestão de redes sociais,openai/gpt-oss-120b,2026-11-04T22:05:54+00:00
+27949309000189,AGENCIA WABI LTDA,Outras digitais,0.93,False,Produção audiovisual e tráfego pago,openai/gpt-oss-120b,2026-11-04T22:05:54+00:00
+27314811000113,CULTIVE COMUNICACAO E DADOS DIGITAIS INTEGRADA LTDA,Offline,0.92,False,Produção de jingles e comunicação,openai/gpt-oss-120b,2026-11-04T22:05:54+00:00
+41530764000176,41.530.764 LUIS GERALDO RIBEIRO,Offline,0.95,False,Captação e produção audiovisual,openai/gpt-oss-120b,2026-11-04T22:05:54+00:00
+36087515000118,36.087.515 HUXLEI GONCALVES DE CASSIO,Offline,0.95,False,Produção de vídeos,openai/gpt-oss-120b,2026-11-04T22:05:54+00:00
+34740210000138,YOUR WAY DIGITAL LTDA,Outras digitais,0.94,False,Desenvolvimento web,openai/gpt-oss-120b,2026-11-04T22:05:54+00:00
+04239158000170,SAGA PUBLICIDADE LTDA,Outras digitais,0.94,False,Agência de publicidade,openai/gpt-oss-120b,2026-11-04T22:05:54+00:00
+58454450000134,ANALYTICA PUBLICIDADE LTDA,Outras digitais,0.94,False,Gestão de tráfego pago,openai/gpt-oss-120b,2026-11-04T22:05:54+00:00
+59224481000161,RD SOLUCOES EM PUBLICIDADE LTDA,Offline,0.91,False,Propaganda e publicidade geral,openai/gpt-oss-120b,2026-11-04T22:05:54+00:00
+32252078000190,PARLA COMUNICACAO DIGITAL ASSESSORIA DE IMPRENSA E CONSULTORIA LTDA,Outras digitais,0.93,False,Comunicação e marketing digital,openai/gpt-oss-120b,2026-11-04T22:05:54+00:00
+39647473000110,NPG ASSESSORIA E TREINAMENTOS LTDA,Outras digitais,0.93,False,Gestão de tráfego pago,openai/gpt-oss-120b,2026-11-04T22:05:54+00:00
+59747540000186,DOCA 66 CINEMATOGRAFIA LTDA,Outras digitais,0.93,False,Marketing digital e produção vídeo,openai/gpt-oss-120b,2026-11-04T22:05:54+00:00
+66350688000148,LATINA PRODUTORA DIGITAL LTDA,Outras digitais,0.93,False,Marketing e criação digital,openai/gpt-oss-120b,2026-11-04T22:05:54+00:00
+29335396000100,FLIP SERVICOS LTDA,Offline,0.95,False,Direção de programas TV/radio,openai/gpt-oss-120b,2026-11-04T22:05:54+00:00
+62390789000191,62.390.789 ICARO GUSTAVO MELO FALCON,Offline,0.95,False,Produção audiovisual,openai/gpt-oss-120b,2026-11-04T22:05:54+00:00
+48110847000155,55 ANALISES LTDA,Outras digitais,0.92,False,Estratégia digital e eventos,openai/gpt-oss-120b,2026-11-04T22:05:54+00:00
+28389568000165,SAMARA ALVES MARCELAO EDICOES,Offline,0.95,False,Produção audiovisual campanha,openai/gpt-oss-120b,2026-11-04T22:05:54+00:00
+54578441000102,54.578.441 HELLEN SOPEZACK RODRIGUES,Offline,0.95,False,Produção audiovisual,openai/gpt-oss-120b,2026-11-04T22:05:54+00:00
+10803637000170,J. FRANCISCO S. DE ARAUJO,Offline,0.95,False,Produção audiovisual e jingle,openai/gpt-oss-120b,2026-11-04T22:05:54+00:00
+62317477000152,VIVA AI SERVICES BRASIL LTDA,Outras digitais,0.9,False,Impulsionamento sem plataforma identificada,openai/gpt-oss-120b,2026-11-04T22:05:54+00:00
+54477397000136,NICOMIDIA EMPREENDIMENTOS LTDA,Outras digitais,0.92,False,Locução e conteúdo digital,openai/gpt-oss-120b,2026-11-04T22:05:54+00:00
+49023379000144,SWELL MARKETING E COMUNICACAO LTDA,Outras digitais,0.94,False,Gestão Meta Ads e marketing digital,openai/gpt-oss-120b,2026-11-04T22:05:54+00:00
+42817773000105,PV MIDIAS LTDA,Outras digitais,0.94,False,Gestão de tráfego pago,openai/gpt-oss-120b,2026-11-04T22:05:54+00:00
+09157537000134,IPIRA NEGOCIOS LTDA,Offline,1.0,False,Produção TV offline,openai/gpt-oss-120b,2026-11-04T22:06:33+00:00
+58531053000119,ALTHUS GESTAO EMPRESARIAL LTDA,Offline,1.0,False,"Apoio administrativo, não digital",openai/gpt-oss-120b,2026-11-04T22:06:33+00:00
+32538744000150,ADVANCE MKT E AUTOMACAO LTDA,Offline,1.0,False,Vídeo e TV produção offline,openai/gpt-oss-120b,2026-11-04T22:06:33+00:00
+61262950000189,NOVA CENTROGRAF GRAFICA OFFSET E DIGITAL LTDA,Offline,1.0,False,Gráfica e impressão,openai/gpt-oss-120b,2026-11-04T22:06:33+00:00
+13261160000136,PUBLICIDADE EM DIA LTDA,Offline,1.0,False,Publicação em jornal,openai/gpt-oss-120b,2026-11-04T22:06:33+00:00
+21631760000177,LUMEN COMERCIO E SERVICOS LTDA,Offline,1.0,False,Adesivos e impressão,openai/gpt-oss-120b,2026-11-04T22:06:33+00:00
+62393854000132,62.393.854 JULIA BUENO PERES,Offline,1.0,False,Audiovisual produção offline,openai/gpt-oss-120b,2026-11-04T22:06:33+00:00
+00001172000180,SA CORREIO BRAZILIENSE,Offline,1.0,False,Publicidade em jornal,openai/gpt-oss-120b,2026-11-04T22:06:33+00:00
+87905998000151,JORGE ELEMAR BRUXEL,Offline,1.0,False,Anúncio em jornal impresso,openai/gpt-oss-120b,2026-11-04T22:06:33+00:00
+47001658000181,VIVIANE DA SILVA GONCALVES,Offline,1.0,False,Impressos e material gráfico,openai/gpt-oss-120b,2026-11-04T22:06:33+00:00
+01611611000139,GRAFICA LIDER TRES PASSOS LTDA,Offline,1.0,False,Gráfica e impressão,openai/gpt-oss-120b,2026-11-04T22:06:33+00:00
+61131305000127,GDP SOLUCOES FISCAIS E EVENTOS LTDA,Offline,1.0,False,Consultoria e publicidade offline,openai/gpt-oss-120b,2026-11-04T22:06:33+00:00
+22713141000194,GMZ MOKE MARKETING DIGITAL LTDA,Offline,1.0,False,Marketing digital sem plataforma identificada,openai/gpt-oss-120b,2026-11-04T22:06:33+00:00
+22449042000147,ESSENCIAL COMUNICACAO VISUAL E ESTAMPARIA LTDA,Offline,1.0,False,Impressão digital de adesivos,openai/gpt-oss-120b,2026-11-04T22:06:33+00:00
+64251268000189,EITA VISUAL LTDA,Offline,1.0,False,Impressão de adesivos,openai/gpt-oss-120b,2026-11-04T22:06:33+00:00
+40613518000115,EMPURRAO DIGITAL LTDA,Offline,1.0,False,"Agência publicidade, sem plataforma específica",openai/gpt-oss-120b,2026-11-04T22:06:33+00:00
+62757212000175,62.757.212 ALAN DE OLIVEIRA PEREIRA,Offline,1.0,False,Produção e edição de vídeos offline,openai/gpt-oss-120b,2026-11-04T22:06:33+00:00
+26224967000140,EDINEIA DE MIRANDA ALVES - TWOUP MIDIA,Offline,1.0,False,"Desenvolvimento web, sem plataforma específica",openai/gpt-oss-120b,2026-11-04T22:06:33+00:00
+44104053000128,44.104.053 ADRIEL VANDERLEI FERREIRA,Offline,1.0,False,Produção audiovisual e jingles offline,openai/gpt-oss-120b,2026-11-04T22:06:33+00:00
+20311822000109,RADIOLA COMUNICACAO E ASSESSORIA LTDA,Offline,1.0,False,"Gestão redes sociais, mas sem plataforma identificada",openai/gpt-oss-120b,2026-11-04T22:06:33+00:00
+28617960000114,ECE COPIADORA E SUPRIMENTOS LTDA,Offline,1.0,False,Impressão de adesivos e materiais,openai/gpt-oss-120b,2026-11-04T22:06:33+00:00
+13301412000103,SINAL IMPRESSAO DIGITAL LTDA,Offline,1.0,False,Materiais impressos e adesivos,openai/gpt-oss-120b,2026-11-04T22:06:33+00:00
+25630963000108,INGRADIL INDUSTRIA GRAFICA DIGITAL LTDA,Offline,1.0,False,Impressão e adesivos offline,openai/gpt-oss-120b,2026-11-04T22:06:33+00:00
+12563204000110,INTERMIDIA COMUNICACAO VISUAL LTDA,Offline,1.0,False,Adesivos perfurados impressão digital,openai/gpt-oss-120b,2026-11-04T22:06:33+00:00
+15050191000173,CARLOS CHANDERLAN MARTINS SANTOS,Offline,1.0,False,Impressão massiva de materiais,openai/gpt-oss-120b,2026-11-04T22:06:33+00:00
+35315844000106,HOW COMUNICACAO DESIGN PERFORMANCE LTDA,Offline,1.0,False,"Agência publicidade, conteúdo digital genérico",openai/gpt-oss-120b,2026-11-04T22:06:33+00:00
+46142962000186,DAN - TERRITORIO DE CRIACAO LTDA,Offline,1.0,False,Coordenação audiovisual offline,openai/gpt-oss-120b,2026-11-04T22:06:33+00:00
+55788613000127,55.788.613 FELIPE BASSO MAGALHAES,Offline,1.0,False,Produção audiovisual e serviços terceiros,openai/gpt-oss-120b,2026-11-04T22:06:33+00:00
+37809718000133,KING JAMES LTDA,Offline,1.0,False,Direção de fotografia offline,openai/gpt-oss-120b,2026-11-04T22:06:33+00:00
+66628227000194,CHAPADA FILMES LTDA,Offline,1.0,False,Operador câmera e drone offline,openai/gpt-oss-120b,2026-11-04T22:06:33+00:00
+42606075000160,P. C. B. RANGEL,Offline,0.95,False,Impressão e adesivos,openai/gpt-oss-120b,2026-11-04T22:07:12+00:00
+34950637000160,SAMPA CREATIVE STUDIO LTDA,Outras digitais,0.95,False,Gestão Facebook Ads,openai/gpt-oss-120b,2026-11-04T22:07:12+00:00
+50637838000169,BORTOLAMI FILMES LTDA,Offline,0.95,False,Produção audiovisual,openai/gpt-oss-120b,2026-11-04T22:07:12+00:00
+43273488000133,43.273.488 HANNA DA CRUZ SOUZA,Offline,0.95,False,Produção de vídeos,openai/gpt-oss-120b,2026-11-04T22:07:12+00:00
+11522114000118,MANGUE LAB STUDIO MULTIMIDIA LTDA,Outras digitais,0.95,False,Consultoria e tráfego pago,openai/gpt-oss-120b,2026-11-04T22:07:12+00:00
+64374602000191,64.374.602 RODRIGO CONCEICAO DE OLIVEIRA,Offline,0.95,False,Produção TV,openai/gpt-oss-120b,2026-11-04T22:07:12+00:00
+55582295000143,COMMUNICA VIDEO E MARKETING LTDA,Offline,0.95,False,Audiovisual e marketing direto,openai/gpt-oss-120b,2026-11-04T22:07:12+00:00
+42118078000155,LEME ENTERPRISE ANCHOR BRASIL LTDA,Outras digitais,0.95,False,Tráfego pago e peças gráficas,openai/gpt-oss-120b,2026-11-04T22:07:12+00:00
+45657425000106,KING AGENCIA DE MARKETING E CONSULTORIA LTDA,Outras digitais,0.95,False,Marketing político digital,openai/gpt-oss-120b,2026-11-04T22:07:12+00:00
+52369560000111,LD PRODUCAO E COMUNICACAO LTDA,Outras digitais,0.95,False,Social media e conteúdo digital,openai/gpt-oss-120b,2026-11-04T22:07:12+00:00
+47249762000190,VISION PRODUCOES E SERVICOS LTDA,Offline,0.95,False,Serviços de câmera,openai/gpt-oss-120b,2026-11-04T22:07:12+00:00
+53520842000130,NF COMUNICACAO DIGITAL LTDA,Offline,0.95,False,Produção audiovisual,openai/gpt-oss-120b,2026-11-04T22:07:12+00:00
+64821297000139,64.821.297 GUILHERME MUNHOZ DA SILVA,Outras digitais,0.95,False,"Edição de vídeos, impulsionamento",openai/gpt-oss-120b,2026-11-04T22:07:12+00:00
+17260067000168,BRIVIDO PRODUTORA AUDIOVISUAL LTDA,Offline,0.95,False,Produção audiovisual,openai/gpt-oss-120b,2026-11-04T22:07:12+00:00
+54721601000112,54.721.601 GUILHERME JOSE DE ALMEIDA NETO,Offline,0.95,False,Produção audiovisual,openai/gpt-oss-120b,2026-11-04T22:07:12+00:00
+68296632000188,DI PAOLO LAB CREATIVE LTDA,Offline,0.95,False,Consultoria de moda,openai/gpt-oss-120b,2026-11-04T22:07:12+00:00
+18474096000195,BANDARRA PRODUCOES LTDA,Outras digitais,0.95,False,Audiovisual para internet,openai/gpt-oss-120b,2026-11-04T22:07:12+00:00
+51660324000197,WO CONSULTORIA EM GESTAO EMPRESARIAL - LTDA,Offline,0.95,False,Impressão de materiais,openai/gpt-oss-120b,2026-11-04T22:07:12+00:00
+51474872000122,GAZETA DE LIMEIRA LTDA,Offline,0.95,False,Publicidade em jornal,openai/gpt-oss-120b,2026-11-04T22:07:12+00:00
+06304064000162,BILLOTA JORNAIS LTDA,Offline,0.95,False,Impressão e anúncios jornalísticos,openai/gpt-oss-120b,2026-11-04T22:07:12+00:00
+30828794000147,FOLHA DE PIRACICABA LTDA,Offline,0.95,False,Anúncios em jornal,openai/gpt-oss-120b,2026-11-04T22:07:12+00:00
+44869466000101,AGENCIA89 COMUNICACAO ESTRATEGICA LTDA,Offline,0.95,False,Serviços de fotografia,openai/gpt-oss-120b,2026-11-04T22:07:12+00:00
+46180248000182,EXATAMENTE ISSO DECORACAO E SOLUCOES VISUAIS LTDA,Offline,0.95,False,Impressão de lonas e vinil,openai/gpt-oss-120b,2026-11-04T22:07:12+00:00
+63819209000100,MANO DO CEU AGENCIA DE MARKETING LTDA,Outras digitais,0.95,False,Design e gestão de redes sociais,openai/gpt-oss-120b,2026-11-04T22:07:12+00:00
+30505467000154,A E ARAUJO DE ALMEIDA PUBLICIDADE LTDA,Outras digitais,0.95,False,Gestão de redes e marketing digital,openai/gpt-oss-120b,2026-11-04T22:07:12+00:00
+09074852000106,THAIS FERNANDES,Offline,0.95,False,Direção de cena audiovisual,openai/gpt-oss-120b,2026-11-04T22:07:12+00:00
+68298847000138,VIBES COMUNICA LTDA,Offline,0.95,False,Gestão de produção audiovisual,openai/gpt-oss-120b,2026-11-04T22:07:12+00:00
+59939808000181,59.939.808 TIAGO LUCENA DA SILVA,Outras digitais,0.95,False,"Identidade visual, vídeos, tráfego pago",openai/gpt-oss-120b,2026-11-04T22:07:12+00:00
+60136457000150,DOIS 7 COMUNICACAO LTDA,Outras digitais,0.95,False,Publicidade digital e impressa,openai/gpt-oss-120b,2026-11-04T22:07:12+00:00
+68298489000163,68.298.489 RAPHAELA MAIA BARBOSA COUTO,Outras digitais,0.95,False,Gestão de redes sociais campanha,openai/gpt-oss-120b,2026-11-04T22:07:12+00:00
+16790980000103,ALUGAFLEX VEICULOS LTDA,Offline,0.95,False,"Locação de veículos, produção audiovisual",openai/gpt-oss-120b,2026-11-04T22:07:52+00:00
+52101952000103,BADARO COELHO LTDA,Outras digitais,0.93,False,"Agência de publicidade, social media",openai/gpt-oss-120b,2026-11-04T22:07:52+00:00
+68428163000103,ALEXANDRE DOS SANTOS PRATES LTDA,Outras digitais,0.92,False,"Tráfego pago, marketing digital",openai/gpt-oss-120b,2026-11-04T22:07:52+00:00
+38949248000176,AGENCIA BW PUBLICIDADE LTDA,Outras digitais,0.94,False,"Marketing digital, gestão de tráfego",openai/gpt-oss-120b,2026-11-04T22:07:52+00:00
+29352488000106,ANA PAULA RODRIGUES DOS ANJOS,Offline,0.9,False,Organização de eventos políticos,openai/gpt-oss-120b,2026-11-04T22:07:52+00:00
+65244588000174,65.244.588 GABRIELA SOUZA DO NASCIMENTO,Offline,0.91,False,"Pós‑produção audiovisual, peças publicitárias",openai/gpt-oss-120b,2026-11-04T22:07:52+00:00
+09388850000426,PINION TECNOLOGIA S.A.,Outras digitais,0.88,False,Coleta de dados em redes sociais,openai/gpt-oss-120b,2026-11-04T22:07:52+00:00
+09157519000152,MENDES E SOUZA COMERCIO E SERVICOS LTDA,Offline,0.96,False,Impressos e adesivos físicos,openai/gpt-oss-120b,2026-11-04T22:07:52+00:00
+25052348000153,BETA GROUP COMERCIO DE EQUIPAMENTOS E SERVICOS LTDA,Offline,0.95,False,Materiais impressos e banners,openai/gpt-oss-120b,2026-11-04T22:07:52+00:00
+20487988000172,CREATIVE FULL SERVICE LTDA,Outras digitais,0.94,False,Gestão de relacionamento via WhatsApp,openai/gpt-oss-120b,2026-11-04T22:07:52+00:00
+41653993000188,CREATIVE HOME L.E.M. LTDA,Offline,0.9,False,Produção audiovisual para rádio/TV,openai/gpt-oss-120b,2026-11-04T22:07:52+00:00
+66373125000175,VORTEX DIGITAL HOLDING LTDA,Outras digitais,0.92,False,"Comunicação digital, estratégia online",openai/gpt-oss-120b,2026-11-04T22:07:52+00:00
+20838168000188,AGENCIA KM2 PUBLICIDADE MARKETING PRODUCOES E EVENTOS LTDA,Outras digitais,0.93,False,"Agência de publicidade, marketing digital",openai/gpt-oss-120b,2026-11-04T22:07:52+00:00
+48677911000184,WEBPRINT IMPRESSAO DIGITAL LTDA,Offline,0.96,False,Impressão digital de materiais,openai/gpt-oss-120b,2026-11-04T22:07:52+00:00
+08151751000110,ART 100 LIMITES TOLDOS LTDA.,Offline,0.95,False,Fabricação de adesivos físicos,openai/gpt-oss-120b,2026-11-04T22:07:52+00:00
+53945953000199,53.945.953 LUCAS MACHADO,Outras digitais,0.91,False,"Gestão de redes sociais, comunicação digital",openai/gpt-oss-120b,2026-11-04T22:07:52+00:00
+60804683000161,CONTBE CONTABILIDADE ONLINE LTDA,Offline,0.97,False,"Serviços contábeis, não digital",openai/gpt-oss-120b,2026-11-04T22:07:52+00:00
+41604053000107,MAIKON CIDRYAN FELIPE CLEMENTE DA SILVA,Outras digitais,0.9,False,"Marketing, gestão de tráfego pago",openai/gpt-oss-120b,2026-11-04T22:07:52+00:00
+89294706000117,RADIO UIRAPURU LTDA,Offline,0.96,False,Veiculação de comerciais em rádio,openai/gpt-oss-120b,2026-11-04T22:07:52+00:00
+50852855000119,HF PRODUCAO DIGITAL LTDA,Outras digitais,0.89,False,"Marketing digital, inserção de materiais online",openai/gpt-oss-120b,2026-11-04T22:07:52+00:00
+43275352000162,SOUL GRAFICA COMUNICACAO VISUAL LTDA,Offline,0.96,False,Impressão de jornais e adesivos,openai/gpt-oss-120b,2026-11-04T22:07:52+00:00
+60799893000109,60.799.893 JULIA MORAES MATHIAS,Offline,0.9,False,"Edição de vídeos para redes sociais, mas produção audiovisual",openai/gpt-oss-120b,2026-11-04T22:07:52+00:00
+27327328000173,RADAR DE GUARULHOS EMPRESA JORNALISTICA LTDA,Offline,0.97,False,Propaganda em jornais impressos,openai/gpt-oss-120b,2026-11-04T22:07:52+00:00
+68001415000113,D15 SERVICOS ESPECIALIZADOS LTDA,Outras digitais,0.92,False,"Social media, tráfego pago",openai/gpt-oss-120b,2026-11-04T22:07:52+00:00
+45931019000190,GRAFICA MORENART LTDA,Offline,0.96,False,Impressão de materiais e adesivos,openai/gpt-oss-120b,2026-11-04T22:07:52+00:00
+48526096000152,48.526.096 EITY MACHADO IWAMURA,Outras digitais,0.88,False,"Gestão de redes sociais, tráfego pago",openai/gpt-oss-120b,2026-11-04T22:07:52+00:00
+33157217000169,FAIRPLAY FILMES E PRODUCOES LTDA,Offline,0.9,False,Filmagem e eventos de campanha,openai/gpt-oss-120b,2026-11-04T22:07:52+00:00
+49604012000114,CERTAS IDEIAS GRAFICA E COMUNICACAO VISUAL LTDA,Offline,0.95,False,Impressão de adesivos e materiais gráficos,openai/gpt-oss-120b,2026-11-04T22:07:52+00:00
+46685010000109,GABRIEL HENRIQUE BARBOSA,Offline,0.94,False,Propaganda e distribuição de panfletos,openai/gpt-oss-120b,2026-11-04T22:07:52+00:00
+64544993000145,64.544.993 LETICIA BIANCA ANTONIA OLIVEIRA CANELA,Outras digitais,0.85,False,Impulsionamento digital sem plataforma específica,openai/gpt-oss-120b,2026-11-04T22:07:52+00:00
+37449032000189,PEDRO HENRIQUE AMORAS GOULARTE AGENCIA DE PUBLICIDADE LTDA,Outras digitais,0.96,False,Agência cria sites e conteúdo digital,openai/gpt-oss-120b,2026-11-04T22:08:35+00:00
+67629088000186,LORE MONTEIRO - CONSULTORIA ESTRATEGICA LTDA,Outras digitais,0.96,False,Gestão e produção digital para redes,openai/gpt-oss-120b,2026-11-04T22:08:35+00:00
+57745906000152,DIGITAL PRO AGENCIA DE MARKETING LTDA,Outras digitais,0.95,False,Serviços gerais de comunicação e marketing,openai/gpt-oss-120b,2026-11-04T22:08:35+00:00
+41509655000177,I. E. L. DAMASCENO DE SOUZA LTDA,Offline,0.94,False,Produção de rádio/TV tradicional,openai/gpt-oss-120b,2026-11-04T22:08:35+00:00
+37089444000155,CARLOS ALBERTO DE MATOS MARTINS LTDA,Outras digitais,0.95,False,Marketing digital para campanha,openai/gpt-oss-120b,2026-11-04T22:08:35+00:00
+35824292000161,SET DE IDEIAS AGENCIA DE PUBLICIDADE LTDA,Outras digitais,0.96,False,Gestão de redes sociais e audiovisual,openai/gpt-oss-120b,2026-11-04T22:08:35+00:00
+61224377000119,61.224.377 CAMILO FROES SOUTO MAIOR,Offline,0.93,False,Produção audiovisual para rádio/TV,openai/gpt-oss-120b,2026-11-04T22:08:35+00:00
+27663089000122,A. CARDOSO DIAS,Outras digitais,0.95,False,Mídia digital descrita,openai/gpt-oss-120b,2026-11-04T22:08:35+00:00
+12837401000180,SOFA VERDE FILMES LTDA,Offline,0.94,False,Assistência de direção para TV,openai/gpt-oss-120b,2026-11-04T22:08:35+00:00
+14207788000116,MOSQUETEIROS FILMES LTDA,Offline,0.94,False,Edição de filmes para internet (TV foco),openai/gpt-oss-120b,2026-11-04T22:08:35+00:00
+10964921000128,MDR PUBLICIDADE LTDA,Outras digitais,0.95,False,Vídeos e jingles para redes sociais,openai/gpt-oss-120b,2026-11-04T22:08:35+00:00
+66149255000129,CITARA MARKETING COMUNICACAO 360 LTDA,Outras digitais,0.95,False,Criação e gestão de conteúdo digital,openai/gpt-oss-120b,2026-11-04T22:08:35+00:00
+47459697000127,AM NEUROMARKETING SOLUCOES EM MARKETING DIGITAL LTDA,Outras digitais,0.95,False,Serviços de neuromarketing digital,openai/gpt-oss-120b,2026-11-04T22:08:35+00:00
+60311979000140,AW DIGITAL LTDA,Outras digitais,0.95,False,Comunicação e marketing em redes sociais,openai/gpt-oss-120b,2026-11-04T22:08:35+00:00
+46671553000177,VM MARKETING LTDA,Outras digitais,0.95,False,Gestão e produção digital,openai/gpt-oss-120b,2026-11-04T22:08:35+00:00
+57246063000140,MORDIDA AGENCIA DE MARKETING E PUBLICIDADE LTDA,Outras digitais,0.94,False,Peças impressas e mídia digital,openai/gpt-oss-120b,2026-11-04T22:08:35+00:00
+58834940000166,PAULO SIMAS COMUNICACAO LTDA,Offline,0.93,False,Produção de TV para campanha,openai/gpt-oss-120b,2026-11-04T22:08:35+00:00
+48402063000109,RODOLPHO VICTOR DALMO AGENCIA DE PUBLICIDADE LTDA,Outras digitais,0.95,False,Estratégia e consultoria de marketing político,openai/gpt-oss-120b,2026-11-04T22:08:35+00:00
+26495611000141,MAP EMPRESARIAL LTDA,Outras digitais,0.95,False,Comunicação e marketing digital,openai/gpt-oss-120b,2026-11-04T22:08:35+00:00
+17904314000111,ESTUDIO DESIGN A SERIO SERVICOS EMPRESARIAIS LTDA,Offline,0.93,False,Produção audiovisual e design gráfico para campanha,openai/gpt-oss-120b,2026-11-04T22:08:35+00:00
+36749233000139,JULIO CESAR DE ALMEIDA MARKETING DIRETO LTDA,Outras digitais,0.95,False,Criação de páginas internet,openai/gpt-oss-120b,2026-11-04T22:08:35+00:00
+18738938000179,CAIO LIVIO PEREIRA LOPES LTDA,Offline,0.93,False,Criação de campanha publicitária e mídia tradicional,openai/gpt-oss-120b,2026-11-04T22:08:35+00:00
+53170322000145,3S SOLUCOES LTDA,Outras digitais,0.95,False,Comunicação digital e planejamento de conteúdo,openai/gpt-oss-120b,2026-11-04T22:08:35+00:00
+27142890000122,VR2 PRODUCOES LTDA,Outras digitais,0.95,False,Gestão de redes sociais e produção audiovisual,openai/gpt-oss-120b,2026-11-04T22:08:35+00:00
+48325210000186,LADO B PRODUTOS GRAFICOS LTDA,Offline,0.93,False,Produção de TV para eleições,openai/gpt-oss-120b,2026-11-04T22:08:35+00:00
+15256298000172,15.256.298 MATHEUS TAVARES PIRAJA,Offline,0.93,False,Color grading e finalização de imagens,openai/gpt-oss-120b,2026-11-04T22:08:35+00:00
+37572100000100,LUCAS FIGUEIREDO PAULINO,Offline,0.93,False,Serviços de mídia durante período eleitoral,openai/gpt-oss-120b,2026-11-04T22:08:35+00:00
+48308765000110,JHON KENNEDY NOGUEIRA ALVES,Outras digitais,0.95,False,Gestão e produção digital,openai/gpt-oss-120b,2026-11-04T22:08:35+00:00
+28895728000148,ALVARES CRIACAO E ESTRATEGIA DIGITAL LTDA,Outras digitais,0.95,False,Propaganda e planejamento de campanhas digitais,openai/gpt-oss-120b,2026-11-04T22:08:35+00:00
+29054127000175,GUILHERME DA ROCHA,Outras digitais,0.95,False,Produção de conteúdo publicitário e gestão de campanha,openai/gpt-oss-120b,2026-11-04T22:08:35+00:00
+45861249000120,RETURN PRODUCTIONS LTDA,Offline,0.95,False,Produção audiovisual tradicional,openai/gpt-oss-120b,2026-11-04T22:09:11+00:00
+55341563000135,55.341.563 JEFFERSON FARIAS SANTOS FERREIRA,Offline,0.95,False,Produção audiovisual tradicional,openai/gpt-oss-120b,2026-11-04T22:09:11+00:00
+50378768000171,50.378.768 EDIMERSON GALVAO BESERRA,Offline,0.95,False,Produção audiovisual tradicional,openai/gpt-oss-120b,2026-11-04T22:09:11+00:00
+59434285000111,59.434.285 ALAN RODRIGUES XAVIER,Offline,0.95,False,Produção audiovisual tradicional,openai/gpt-oss-120b,2026-11-04T22:09:11+00:00
+30150685000113,DISTINTO FILMES LTDA,Offline,0.95,False,Produção audiovisual tradicional,openai/gpt-oss-120b,2026-11-04T22:09:11+00:00
+68735093000136,TRIVIUM SOLUCOES DIGITAIS LTDA,Outras digitais,0.9,False,Serviços de marketing digital,openai/gpt-oss-120b,2026-11-04T22:09:11+00:00
+62821744000124,UMOJA INFINITY INOVA SIMPLES (I.S.),Outras digitais,0.9,False,Comunicação digital de campanha,openai/gpt-oss-120b,2026-11-04T22:09:11+00:00
+25147846000180,25.147.846 MARCOS PEREIRA LOUZADA,Offline,0.95,False,Impressão e materiais gráficos,openai/gpt-oss-120b,2026-11-04T22:09:11+00:00
+16598599000147,BRASILIA CAPITAL PRODUTORA E EDITORA DE JORNAIS E REVISTAS LTDA,Offline,0.95,False,Publicidade em imprensa escrita,openai/gpt-oss-120b,2026-11-04T22:09:11+00:00
+34870155000109,34.870.155 RHANNA ROSA ALVES ESPERIDIAO,Outras digitais,0.85,False,Conteúdo editorial digital,openai/gpt-oss-120b,2026-11-04T22:09:11+00:00
+31184029000102,VOZ COMUNICACAO LTDA,Outras digitais,0.9,False,Comunicação digital político-eleitoral,openai/gpt-oss-120b,2026-11-04T22:09:11+00:00
+49859502000161,49.859.502 DEIVID DE MEDEIROS FERREIRA,Outras digitais,0.8,False,Vídeos para redes sociais,openai/gpt-oss-120b,2026-11-04T22:09:11+00:00
+23304247000105,TAKIT COMUNICACAO E TECNOLOGIA LTDA,Outras digitais,0.9,False,Gestão de plataformas online,openai/gpt-oss-120b,2026-11-04T22:09:11+00:00
+19766297000129,SUELEN DARC DE OLIVEIRA FERREIRA,Outras digitais,0.9,False,Coordenação de marketing de campanha,openai/gpt-oss-120b,2026-11-04T22:09:11+00:00
+07021482000105,MENTE FERTIL SOLUCOES CRIATIVAS LTDA,Outras digitais,0.9,False,Design e criação publicitária,openai/gpt-oss-120b,2026-11-04T22:09:11+00:00
+21441128000160,BELIF INTERNET E MARKETING LTDA,Outras digitais,0.9,False,Serviço de marketing eleitoral,openai/gpt-oss-120b,2026-11-04T22:09:11+00:00
+23185302000187,TUTANO COMUNICACAO LTDA,Outras digitais,0.9,False,Consultoria e comunicação digital,openai/gpt-oss-120b,2026-11-04T22:09:11+00:00
+50435561000191,ACTA DIGITAL LTDA,Outras digitais,0.9,False,Gestão e mobilização digital,openai/gpt-oss-120b,2026-11-04T22:09:11+00:00
+48671297000143,BLOOM COMUNICACAO LTDA,Outras digitais,0.9,False,Gestão de tráfego pago Meta,openai/gpt-oss-120b,2026-11-04T22:09:11+00:00
+52096028000178,VICTOR SAVAS JACQUES CONSULTORIA EM TECNOLOGIA DA INFORMACAO LTDA,Outras digitais,0.9,False,Desenvolvimento web para campanha,openai/gpt-oss-120b,2026-11-04T22:09:11+00:00
+19157144000184,MR PUBLICIDADE MARKETING E PROPAGANDA LTDA,Offline,0.95,False,Produção de windbanner e anúncios impressos,openai/gpt-oss-120b,2026-11-04T22:09:11+00:00
+00752643000191,ARTE EM IMPRESSAO DIGITAL LTDA,Offline,0.95,False,Impressão digital de materiais,openai/gpt-oss-120b,2026-11-04T22:09:11+00:00
+48606764000151,WILLIAM DA SILVA NUNES,Offline,0.95,False,Produção de material impresso,openai/gpt-oss-120b,2026-11-04T22:09:11+00:00
+07943881000123,GRAFICA CENTRAL EDITORA E DIGITAL LTDA,Offline,0.95,False,Gráfica e impressão de adesivos,openai/gpt-oss-120b,2026-11-04T22:09:11+00:00
+53973426000198,JORNAL A CIDADE DE VOTUPORANGA LTDA,Offline,0.95,False,Publicidade em jornais,openai/gpt-oss-120b,2026-11-04T22:09:11+00:00
+59549786000143,PULSO SOLUCOES EM COMUNICACAO E CULTURA LTDA,Offline,0.9,False,Mídia e publicidade em jornal,openai/gpt-oss-120b,2026-11-04T22:09:11+00:00
+46809409000154,BUSINESS FACTORY MARKETING E COMUNICACAO LTDA,Outras digitais,0.9,False,Marketing digital especializado,openai/gpt-oss-120b,2026-11-04T22:09:11+00:00
+54835853000172,FULL DETAIL MARKETING DE CRESCIMENTO PARA NEGOCIOS DE GASTRONOMIA E EXPERIENCIA LTDA,Outras digitais,0.9,False,Gestão de redes sociais e marketing,openai/gpt-oss-120b,2026-11-04T22:09:11+00:00
+48160715000138,48.160.715 TONY DE SANTANA DA SILVA,Outras digitais,0.9,False,Conteúdo digital para redes sociais,openai/gpt-oss-120b,2026-11-04T22:09:11+00:00
+37156421000116,SET POINT COMUNICACAO LTDA,Outras digitais,0.9,False,Produção de programa para YouTube,openai/gpt-oss-120b,2026-11-04T22:09:11+00:00
+52358504000181,PALBERTI PROMOCOES E PUBLICIDADE S/S LTDA,Offline,1.0,False,Impressão e jornalismo,openai/gpt-oss-120b,2026-11-04T22:09:49+00:00
+35934964000191,ROSANGELA APARECIDA MARTINS DE OLIVEIRA,Offline,1.0,False,Propaganda e distribuição física,openai/gpt-oss-120b,2026-11-04T22:09:49+00:00
+51422225000177,CAMPEOES DO TRAFEGO LTDA,Outras digitais,0.9,False,Tráfego pago sem plataforma específica,openai/gpt-oss-120b,2026-11-04T22:09:49+00:00
+00242709000101,COMPUSOFT COMPUTADORES E SISTEMAS LTDA,Outras digitais,0.9,False,Gestão de redes sociais e tráfego,openai/gpt-oss-120b,2026-11-04T22:09:49+00:00
+54921723000152,YHWH CONSULTORIA EM MARKETING LTDA,Outras digitais,0.9,False,Marketing digital e criação de vídeos,openai/gpt-oss-120b,2026-11-04T22:09:49+00:00
+90964057000101,GRAFICA E EDITORA GAUCHA LTDA,Offline,1.0,False,Gráfica e impressão,openai/gpt-oss-120b,2026-11-04T22:09:49+00:00
+63592071000140,GRUPO CARDUME LTDA,Offline,0.9,False,Criação de peças gráficas físicas,openai/gpt-oss-120b,2026-11-04T22:09:49+00:00
+38333750000158,MARCO ANTONIO CARDOSO ALMEIDA,Offline,1.0,False,Impressão de folders e santinhos,openai/gpt-oss-120b,2026-11-04T22:09:49+00:00
+55771995000186,IQONIC MARKETING DIGITAL LTDA,Outras digitais,0.9,False,Marketing digital e gestão de redes,openai/gpt-oss-120b,2026-11-04T22:09:49+00:00
+07713072000125,JN IMPRESSOS GRAFICOS LTDA,Offline,1.0,False,Impressão de banners e materiais,openai/gpt-oss-120b,2026-11-04T22:09:49+00:00
+04067191000160,EDITORA GLOBO S/A,Offline,1.0,False,Anúncio em jornal impresso,openai/gpt-oss-120b,2026-11-04T22:09:49+00:00
+32672267000111,CORDEIRO FILMS LTDA,Outras digitais,0.9,False,Audiovisual para redes sociais,openai/gpt-oss-120b,2026-11-04T22:09:49+00:00
+66845890000140,66.845.890 JESSICA CHRYSCHINAN BALSANI,Outras digitais,0.9,False,Impulsionamento e gestão de redes,openai/gpt-oss-120b,2026-11-04T22:09:49+00:00
+30688262000151,JADER ARAUJO DOS SANTOS,Outras digitais,0.9,False,Conteúdo digital e filmmaker,openai/gpt-oss-120b,2026-11-04T22:09:49+00:00
+52783536000124,52.783.536 JOANA BARBOSA,Offline,0.8,False,Produção audiovisual tradicional,openai/gpt-oss-120b,2026-11-04T22:09:49+00:00
+44501527000175,SODTEC SEVEN TECNOLOGIA LTDA,Outras digitais,0.9,False,Tráfego pago e podcast,openai/gpt-oss-120b,2026-11-04T22:09:49+00:00
+46931516000150,46.931.516 ROSSANA LETICIA LISBOA SOARES,Outras digitais,0.9,False,Criação de website e comunicação digital,openai/gpt-oss-120b,2026-11-04T22:09:49+00:00
+32980778000109,EXATA PRO SOLUCOES LTDA,Outras digitais,0.9,False,Gestão de redes sociais,openai/gpt-oss-120b,2026-11-04T22:09:49+00:00
+37877943000107,M. F. C. LEITE MARKETING DIRETO LTDA,Outras digitais,0.9,False,Criação de páginas e identidade visual,openai/gpt-oss-120b,2026-11-04T22:09:49+00:00
+34028316386117,EMPRESA BRASILEIRA DE CORREIOS E TELEGRAFOS,Offline,1.0,False,Serviços postais e mala direta,openai/gpt-oss-120b,2026-11-04T22:09:49+00:00
+68174751000168,EDITORA NOSSO BAIRRO COMUNICACAO E PUBLICIDADE INTEGRADA LTDA,Offline,0.9,False,Anúncio em jornal impresso,openai/gpt-oss-120b,2026-11-04T22:09:49+00:00
+15080352000171,JULIANO SILVA OLIVEIRA,Outras digitais,0.9,False,Conteúdos digitais e tráfego pago,openai/gpt-oss-120b,2026-11-04T22:09:49+00:00
+42955938000105,42.955.938 JORGE LUIZ PAZ DO NASCIMENTO,Offline,1.0,False,Impressão de materiais promocionais,openai/gpt-oss-120b,2026-11-04T22:09:49+00:00
+12389769000122,ZOOM IMPRESSAO DIGITAL - INDUSTRIA GRAFICA E TEXTIL LTDA.,Offline,1.0,False,Impressão de adesivos e bandeiras,openai/gpt-oss-120b,2026-11-04T22:09:49+00:00
+14625536000107,MOVIDA PRODUTORA DE CONTEUDO LTDA,Offline,0.8,False,Produção audiovisual de campanha,openai/gpt-oss-120b,2026-11-04T22:09:49+00:00
+53970875000182,AZE3 COMUNICACAO LTDA,Outras digitais,0.9,False,Portal e gestão de comunicação digital,openai/gpt-oss-120b,2026-11-04T22:09:49+00:00
+27025389000186,WN INDUSTRIA COMERCIO E SERVICOS LTDA,Offline,0.9,False,Confecção de peças e impressão,openai/gpt-oss-120b,2026-11-04T22:09:49+00:00
+54903982000150,GVS DECOR LTDA,Offline,0.9,False,Adesivos e sinalização física,openai/gpt-oss-120b,2026-11-04T22:09:49+00:00
+34884707000120,TECDECORA COMUNICACAO VISUAL LTDA,Offline,0.9,False,Adesivos e bandeira física,openai/gpt-oss-120b,2026-11-04T22:09:49+00:00
+67804835000175,OAK VISION ESTUDIO LTDA,Offline,0.8,False,Marketing eleitoral e audiovisual tradicional,openai/gpt-oss-120b,2026-11-04T22:09:49+00:00
+22889163000100,TRILHA AGENCIA DE MARKETING LTDA,Outras digitais,0.95,False,Gestão redes sociais e tráfego pago,openai/gpt-oss-120b,2026-11-04T22:10:34+00:00
+68927761000127,CASTELOS COMUNICACAO E MARKETING LTDA,Offline,0.9,False,Produção TV/radio tradicional,openai/gpt-oss-120b,2026-11-04T22:10:34+00:00
+20698798000102,20.698.798 FELIPE PEREIRA DE SOUZA PRATES,Offline,0.9,False,Produção de TV para campanha,openai/gpt-oss-120b,2026-11-04T22:10:34+00:00
+18230366000112,"L C- PROMOCAO, PRODUCAO E COMUNICACAO LTDA",Offline,0.9,False,Direção e produção de programa de rádio,openai/gpt-oss-120b,2026-11-04T22:10:34+00:00
+34609282000140,MALASSOMBRO AUDIOVISUAL LTDA,Offline,0.9,False,Color grading e finalização de vídeo,openai/gpt-oss-120b,2026-11-04T22:10:34+00:00
+22166919000192,22.166.919 BERNARDO FAEL O DWYER,Offline,0.9,False,Direção geral de cena para rádio/TV,openai/gpt-oss-120b,2026-11-04T22:10:34+00:00
+68709631000118,68.709.631 CREUZA MORENO DA SILVA,Offline,0.9,False,Produção e edição de vídeo/foto,openai/gpt-oss-120b,2026-11-04T22:10:34+00:00
+47672047000165,47.672.047 HERUS FREITAS PASSOS,Offline,0.9,False,Produção de vídeos e fotografia,openai/gpt-oss-120b,2026-11-04T22:10:34+00:00
+57014280000104,57.014.280 PATRICK WILSON RODRIGUES,Outras digitais,0.8,False,Divulgação em redes sociais e audiovisual,openai/gpt-oss-120b,2026-11-04T22:10:34+00:00
+51746797000101,AUTA LAB CRIACAO E SISTEMAS LTDA,Outras digitais,0.9,False,Comunicação digital e design gráfico,openai/gpt-oss-120b,2026-11-04T22:10:34+00:00
+39687859000156,IB REPRESENTACOES ARTISTICAS LTDA,Offline,0.8,False,Redação de textos publicitários,openai/gpt-oss-120b,2026-11-04T22:10:34+00:00
+61787926000163,ANA PAULA ALVES SILVA SERVICOS E CONSULTORIA LTDA,Outras digitais,0.85,False,Tratamento e organização de dados da campanha,openai/gpt-oss-120b,2026-11-04T22:10:34+00:00
+60289033000125,RBLA LTDA,Outras digitais,0.9,False,Impulsionamento e gestão de grupos WhatsApp,openai/gpt-oss-120b,2026-11-04T22:10:34+00:00
+28831549000147,ON SKY NETWORK PUBLICIDADE MARKETING E TECNOLOGIA LTDA,Outras digitais,0.9,False,Marketing digital para campanha,openai/gpt-oss-120b,2026-11-04T22:10:34+00:00
+68374175000100,ZARRA COMUNICACAO E MARKETING LTDA,Outras digitais,0.9,False,Impulsionamento de campanha,openai/gpt-oss-120b,2026-11-04T22:10:34+00:00
+26748774000199,NEWCO SM - EMPRESA JORNALISTICA LTDA,Offline,0.95,False,Anúncios em jornais e revistas,openai/gpt-oss-120b,2026-11-04T22:10:34+00:00
+42208729000106,THIAGO FONSECA COSTA,Offline,0.85,False,Produção audiovisual e impressão,openai/gpt-oss-120b,2026-11-04T22:10:34+00:00
+68303748000105,PLURAL COMUNICACAO DIGITAL LTDA,Outras digitais,0.9,False,Comunicação digital e produção de conteúdo,openai/gpt-oss-120b,2026-11-04T22:10:34+00:00
+61942696000160,DNO COMUNICACAO E ENTRETERIMENTO LTDA,Outras digitais,0.85,False,Conteúdo para internet e redes sociais,openai/gpt-oss-120b,2026-11-04T22:10:34+00:00
+34889577000118,AQLA SOLUCOES AUDIOVISUAIS LTDA,Offline,0.85,False,Edição de vídeo e fotografia,openai/gpt-oss-120b,2026-11-04T22:10:34+00:00
+06066920000199,PAINEIS ROCHA STAR LTDA,Offline,0.95,False,Produção de banners e adesivos,openai/gpt-oss-120b,2026-11-04T22:10:34+00:00
+61422431000130,GABRIELA CARNEIRO GOMES LTDA,Offline,0.95,False,Impressão publicitária e materiais impressos,openai/gpt-oss-120b,2026-11-04T22:10:34+00:00
+48149498000185,SOMOS COMMU LTDA.,Outras digitais,0.85,False,Consultoria de gestão de comunidade,openai/gpt-oss-120b,2026-11-04T22:10:34+00:00
+04735364000170,JORNAL GAZETA SP LTDA,Offline,0.95,False,Anúncios em jornal e materiais impressos,openai/gpt-oss-120b,2026-11-04T22:10:34+00:00
+39305337000142,JULIANA BARROS SERVICOS DE MARKETING E DESIGN LTDA,Outras digitais,0.85,False,Gestão operacional de rede social,openai/gpt-oss-120b,2026-11-04T22:10:34+00:00
+25957363000140,TARCISO GUTEMBERG DE CARVALHO JUNIOR,Offline,0.8,False,Produção de vídeos para campanha,openai/gpt-oss-120b,2026-11-04T22:10:34+00:00
+56875317000126,56.875.317 ALEXANDRE FREITAS HAUBRICH,Outras digitais,0.9,False,Impulsionamento e redes sociais,openai/gpt-oss-120b,2026-11-04T22:10:34+00:00
+68216502000198,68.216.502 WILLIAN AUGUSTO SILVEIRA DE OLIVEIRA,Outras digitais,0.9,False,Serviços de redes sociais,openai/gpt-oss-120b,2026-11-04T22:10:34+00:00
+48043372000121,EMPRESA DE TECNOLOGIA ALMEIDA E LEITE LTDA,Outras digitais,0.9,False,Planejamento e operação digital eleitoral,openai/gpt-oss-120b,2026-11-04T22:10:34+00:00
+66707736000102,CIA DA ETIQUETA LTDA,Offline,0.95,False,Impressão de banners e materiais,openai/gpt-oss-120b,2026-11-04T22:10:34+00:00
+46699711000105,46.699.711 TALES ALONSO,Outras digitais,0.95,False,Marketing digital genérico,openai/gpt-oss-120b,2026-11-04T22:11:19+00:00
+58470939000108,NERIUM SISTEMAS LTDA,Outras digitais,0.95,False,Software de gestão de campanha,openai/gpt-oss-120b,2026-11-04T22:11:19+00:00
+30658295000159,GUSTAVO LEONARDO ARAUJO,Outras digitais,0.95,False,Marketing digital e audiovisual,openai/gpt-oss-120b,2026-11-04T22:11:19+00:00
+59052003000111,KELI LETICIA BIGUELINI LTDA,Outras digitais,0.95,False,Agência de publicidade e impulsionamento,openai/gpt-oss-120b,2026-11-04T22:11:19+00:00
+08882884000167,J. PIMENTA SERVICOS CONTABEIS LTDA,Outras digitais,0.95,False,Serviços de hospedagem e dados,openai/gpt-oss-120b,2026-11-04T22:11:19+00:00
+09352574000101,JORNAL SEMANARIO DA ZONA NORTE LTDA,Offline,0.95,False,Publicação em jornal impresso,openai/gpt-oss-120b,2026-11-04T22:11:19+00:00
+22788315000188,"C G S REBOUCAS RECARGA DE CARTUCHOS, SUPRIMENTOS DE INFORMATICA E IMPRESSAO GRAFICA",Offline,0.95,False,Adesivos e impressão gráfica,openai/gpt-oss-120b,2026-11-04T22:11:19+00:00
+01010003000179,DEBATE EMPRESA JORNALISTICA LTDA,Offline,0.95,False,Jornal e produção de mídia tradicional,openai/gpt-oss-120b,2026-11-04T22:11:19+00:00
+13408791000135,PRODUZ VIDEO PRODUCOES LTDA,Offline,0.95,False,Produção audiovisual para TV/radio,openai/gpt-oss-120b,2026-11-04T22:11:19+00:00
+53192436000196,DOMA MARKETING E COMUNICACAO LTDA,Outras digitais,0.95,False,Comunicação digital e audiovisual,openai/gpt-oss-120b,2026-11-04T22:11:19+00:00
+59262005000135,INNOVATIVA LTDA,Outras digitais,0.95,False,Marketing digital e análise de redes,openai/gpt-oss-120b,2026-11-04T22:11:19+00:00
+35554822000107,SELECT PRODUCOES E MARKETING LTDA,Outras digitais,0.95,False,Gestão de tráfego pago e marketing online,openai/gpt-oss-120b,2026-11-04T22:11:19+00:00
+65499138000122,65.499.138 JONATHAS PATRICIO BARBOSA GOMES,Offline,0.95,False,Transferência via Pix sem plataforma digital,openai/gpt-oss-120b,2026-11-04T22:11:19+00:00
+22726190000161,FABIO CUNHA SOARES CIA. LTDA.,Outras digitais,0.95,False,Criação de artes e gestão de redes,openai/gpt-oss-120b,2026-11-04T22:11:19+00:00
+07712031000114,WK DIGITAL COMERCIO E SERVICOS DE IMPRESSAO LTDA,Offline,0.95,False,Adesivos e material impresso,openai/gpt-oss-120b,2026-11-04T22:11:19+00:00
+29248717000139,ART SERRA SOLUCOES VISUAIS LTDA,Offline,0.95,False,Adesivos impressos digitalmente,openai/gpt-oss-120b,2026-11-04T22:11:19+00:00
+23173729000165,GUSTAVO ROBERTO GOMES CORREA,Offline,0.95,False,Materiais impressos e promocionais,openai/gpt-oss-120b,2026-11-04T22:11:19+00:00
+14310257000154,SETE QUATRO COMUNICACAO E PUBLICIDADE LTDA,Offline,0.95,False,Produção de conteúdo para TV/radio,openai/gpt-oss-120b,2026-11-04T22:11:19+00:00
+51848995000186,CVS SOLUCOES EMPRESARIAIS LTDA,Outras digitais,0.95,False,Comunicação e conteúdo para redes,openai/gpt-oss-120b,2026-11-04T22:11:19+00:00
+36027857000142,ESTRELA COMUNICACOES LTDA,Outras digitais,0.95,False,Identidade visual e tráfego pago,openai/gpt-oss-120b,2026-11-04T22:11:19+00:00
+35555470000104,BIO BRAND COMERCIO E SERVICOS DE COMUNICACAO DIGITAL LTDA.,Outras digitais,0.95,False,Marketing digital genérico,openai/gpt-oss-120b,2026-11-04T22:11:19+00:00
+47183723000137,ALCANCE MIDIA PROGRAMATICA LTDA,Outras digitais,0.95,False,Gestão de mídia social e programática,openai/gpt-oss-120b,2026-11-04T22:11:19+00:00
+50721727000136,KOFI PUBLICIDADE LTDA,Offline,0.95,False,Ator em programa televisivo,openai/gpt-oss-120b,2026-11-04T22:11:19+00:00
+62869204000110,C C RAMOS MARKETING LTDA,Outras digitais,0.95,False,Marketing digital e gestão de redes,openai/gpt-oss-120b,2026-11-04T22:11:19+00:00
+29225500000103,W. F. FIORANI - EVENTOS,Outras digitais,0.95,False,Consultoria e tráfego pago digital,openai/gpt-oss-120b,2026-11-04T22:11:19+00:00
+30367462000102,MIRANDA PRODUCOES LTDA,Offline,0.95,False,Roteirista para TV/radio,openai/gpt-oss-120b,2026-11-04T22:11:19+00:00
+61348197000149,AGENCIA VIRALIS MARKETING DIGITAL LTDA,Outras digitais,0.95,False,Marketing digital e publicação,openai/gpt-oss-120b,2026-11-04T22:11:19+00:00
+23026353000166,CASA AMARELA ESCRITORIO DE INOVACAO LTDA,Outras digitais,0.95,False,Criação de peças e vídeos gráficos,openai/gpt-oss-120b,2026-11-04T22:11:19+00:00
+31272642000173,31.272.642 MARIO DA SILVA NUNES JUNIOR,Outras digitais,0.95,False,Conteúdo para redes sociais e coordenação,openai/gpt-oss-120b,2026-11-04T22:11:19+00:00
+65151982000168,MIRIANE COMUNICACOES LTDA,Offline,0.95,False,Produção de filmes e fitas,openai/gpt-oss-120b,2026-11-04T22:11:19+00:00
+42426240000100,42.426.240 ELAINE DE ARAUJO MOURA,Offline,0.95,False,Produção de vídeo tradicional,openai/gpt-oss-120b,2026-11-04T22:11:59+00:00
+22469913000194,MARCELO CHAGAS COSTA,Offline,0.95,False,Produção cinematográfica,openai/gpt-oss-120b,2026-11-04T22:11:59+00:00
+24595734000129,YOUNG DIGITAL LTDA,Outras digitais,0.9,False,Serviços de marketing digital,openai/gpt-oss-120b,2026-11-04T22:11:59+00:00
+56052347000132,ZENITH SERVICOS AUDIOVISUAIS LTDA,Offline,0.9,False,Serviços audiovisuais tradicionais,openai/gpt-oss-120b,2026-11-04T22:11:59+00:00
+29632512000152,NINA PRODUCOES ARTISTICAS LTDA,Offline,0.9,False,Produtora de set e logística,openai/gpt-oss-120b,2026-11-04T22:11:59+00:00
+49788999000174,VELLES AUDIOVISUAL E MARKETING LTDA,Outras digitais,0.85,False,Publicidade e impulsionamento sem plataforma específica,openai/gpt-oss-120b,2026-11-04T22:11:59+00:00
+59516809000113,HARTMANN COMUNICACAO ESTRATEGICA LTDA,Outras digitais,0.85,False,Gestão ambiente digital,openai/gpt-oss-120b,2026-11-04T22:11:59+00:00
+46623586000141,AFOFO COMUNICACAO DIGITAL LTDA,Outras digitais,0.85,False,Coordenação redes sociais,openai/gpt-oss-120b,2026-11-04T22:11:59+00:00
+62643431000123,62.643.431 DYULIA KETHENY FELIX MORAES VIEIRA,Outras digitais,0.85,False,Gestão de tráfego digital,openai/gpt-oss-120b,2026-11-04T22:11:59+00:00
+16678338000137,OAK CRIATIVO MARKETING DIGITAL LTDA,Outras digitais,0.85,False,Consultoria digital de campanha,openai/gpt-oss-120b,2026-11-04T22:11:59+00:00
+65820972000178,65.820.972 RODRIGO MARTINS GONCALVES,Offline,0.9,False,Artes gráficas e audiovisual,openai/gpt-oss-120b,2026-11-04T22:11:59+00:00
+46675646000170,CAMILA CRISTIANE SIQUEIRA,Offline,0.9,False,Pós‑produção de vídeos,openai/gpt-oss-120b,2026-11-04T22:11:59+00:00
+46678634000107,TUBAROES BR INTELIGENCIA E ESTRATEGIA DIGITAL LTDA,Outras digitais,0.85,False,Serviço de marketing digital,openai/gpt-oss-120b,2026-11-04T22:11:59+00:00
+65851902000187,LOVISI COMUNICACAO LTDA,Offline,0.9,False,Produção executiva de TV,openai/gpt-oss-120b,2026-11-04T22:11:59+00:00
+42602562000155,BRUNO CARBONI GODECKE SERVICOS DE AUDIOVISUAL LTDA,Offline,0.9,False,Edição técnica de vídeo,openai/gpt-oss-120b,2026-11-04T22:11:59+00:00
+17263448000109,MARCELO MACHADO SOCIEDADE INDIVIDUAL DE ADVOCACIA,Offline,0.95,False,Assessoria jurídica,openai/gpt-oss-120b,2026-11-04T22:11:59+00:00
+66930065000144,SAM INTELIGENCIA ARTIFICIAL LTDA,Outras digitais,0.8,False,Licença de software IA,openai/gpt-oss-120b,2026-11-04T22:11:59+00:00
+18047276000190,KING MKT LTDA,Meta,0.95,False,Planejamento Meta Ads,openai/gpt-oss-120b,2026-11-04T22:11:59+00:00
+54692254000147,54.692.254 CARLOS HENRIQUE OLIVEIRA LARANJO,Offline,0.9,False,Impressão e produção de mídia,openai/gpt-oss-120b,2026-11-04T22:11:59+00:00
+23954202000178,AUTO MECANICA TOM LTDA,Offline,0.95,False,Locação veículo estúdio móvel,openai/gpt-oss-120b,2026-11-04T22:11:59+00:00
+41689556000114,TRIAD COMUNICACAO DIGITAL LTDA,Outras digitais,0.85,False,Portal e estratégia digital,openai/gpt-oss-120b,2026-11-04T22:11:59+00:00
+30902398000112,30.902.398 MARCOS ROBERTO BORK,Offline,0.95,False,Impressão de adesivos e banners,openai/gpt-oss-120b,2026-11-04T22:11:59+00:00
+39324602000130,LUCAS CARNEIRO COSTA,Outras digitais,0.85,False,Impulsionamento redes sociais sem plataforma definida,openai/gpt-oss-120b,2026-11-04T22:11:59+00:00
+58145834000175,P23 COMUNICACAO LTDA,Outras digitais,0.85,False,Agência web e criação de páginas,openai/gpt-oss-120b,2026-11-04T22:11:59+00:00
+42089940000149,ENTERUP PUBLICIDADES LTDA,Outras digitais,0.85,False,Gestão redes sociais e produção de vídeos,openai/gpt-oss-120b,2026-11-04T22:11:59+00:00
+60995071000101,60.995.071 GUILHERME FONSECA DE PAULA,Outras digitais,0.8,False,Comunicação foto e vídeo para redes,openai/gpt-oss-120b,2026-11-04T22:11:59+00:00
+63313919000155,AGORA VAI AGENCIA DE PUBLICIDADE LTDA,Outras digitais,0.85,False,Gerenciamento de redes sociais e conteúdo,openai/gpt-oss-120b,2026-11-04T22:11:59+00:00
+27485844000126,SEJA - AGENCIA DE COMUNICACAO LTDA,Offline,0.9,False,Produção audiovisual institucional,openai/gpt-oss-120b,2026-11-04T22:11:59+00:00
+51719518000110,ELITE FINDER INOVA SIMPLES (I.S.),Outras digitais,0.8,False,Assessoria marketing e produção audiovisual,openai/gpt-oss-120b,2026-11-04T22:11:59+00:00
+29360676000178,ESSENCIA COMUNICACAO DIGITAL LTDA,Outras digitais,0.85,False,Comunicação digital e marketing,openai/gpt-oss-120b,2026-11-04T22:11:59+00:00
+43884115000107,PROHUB SOLUCOES EM AUDIOVISUAL LTDA,Offline,0.95,False,produção audiovisual TV,openai/gpt-oss-120b,2026-11-04T22:12:39+00:00
+42730506000104,MARCELO WILLIAM FELIPE DE LIMA,Outras digitais,0.95,False,criação web e redes sociais,openai/gpt-oss-120b,2026-11-04T22:12:39+00:00
+12633792000110,DPJ ESTRATEGIAS DE COMUNICACAO E ASSESSORIA LTDA,Outras digitais,0.95,False,audiovisual para internet,openai/gpt-oss-120b,2026-11-04T22:12:39+00:00
+45217835000136,GRAFICA JJ DIGITAL LTDA,Offline,0.95,False,impressão de materiais,openai/gpt-oss-120b,2026-11-04T22:12:39+00:00
+21355301000108,ABSOLUTE COMUNICACAO E GRAFICA DIGITAL LTDA,Offline,0.95,False,impressão gráfica,openai/gpt-oss-120b,2026-11-04T22:12:39+00:00
+25130440000194,YNDERSON OSVALDO CORREA DIAS,Offline,0.95,False,impressão e material gráfico,openai/gpt-oss-120b,2026-11-04T22:12:39+00:00
+26878522000184,FML IMPRESSAO DIGITAL LTDA,Offline,0.95,False,impressão de adesivos,openai/gpt-oss-120b,2026-11-04T22:12:39+00:00
+23970671000180,AGENCIA RESULT LTDA,Outras digitais,0.95,False,agência publicidade digital,openai/gpt-oss-120b,2026-11-04T22:12:39+00:00
+68094034000126,GB PRODUCOES E PUBLICIDADE LTDA,Offline,0.95,False,produção TV/vídeo,openai/gpt-oss-120b,2026-11-04T22:12:39+00:00
+42343805000188,42.343.805 CAIO VICTOR BARREIRA OLIVEIRA,Offline,0.95,False,produção audiovisual campanha,openai/gpt-oss-120b,2026-11-04T22:12:39+00:00
+63842820000140,GOL DIGITAL SERVICOS DE PROPAGANDA LTDA,Outras digitais,0.95,False,gestão de tráfego pago,openai/gpt-oss-120b,2026-11-04T22:12:39+00:00
+53336563000111,53.336.563 CAIO LUIZ NOGUEIRA AIELO,Offline,0.95,False,produção audiovisual,openai/gpt-oss-120b,2026-11-04T22:12:39+00:00
+38779122000109,38.779.122 KHATHYN DA SILVA CABRAL,Outras digitais,0.95,False,tráfego pago e consultoria,openai/gpt-oss-120b,2026-11-04T22:12:39+00:00
+53521978000165,FEELING ASSESSORIA DIGITAL LTDA,Outras digitais,0.95,False,assessoria digital e tráfego,openai/gpt-oss-120b,2026-11-04T22:12:39+00:00
+38430784000160,EP MIDIA BRASIL LTDA,Outras digitais,0.95,False,agência marketing digital,openai/gpt-oss-120b,2026-11-04T22:12:39+00:00
+57921600000100,RAFAEL ABREU MARKETING E TECNOLOGIA LTDA.,Outras digitais,0.95,False,consultoria tráfego pago,openai/gpt-oss-120b,2026-11-04T22:12:39+00:00
+42987267000164,RON MIDIA MARKETING E CONSULTORIA LTDA,Outras digitais,0.95,False,gestão redes sociais e tráfego,openai/gpt-oss-120b,2026-11-04T22:12:39+00:00
+45413215000172,"BOSSA NOVA COMUNICACAO, MARKETING, EVENTOS E PRODUCOES LTDA.",Outras digitais,0.95,False,conteúdo digital e tráfego,openai/gpt-oss-120b,2026-11-04T22:12:39+00:00
+67616695000101,67.616.695 IURY RODRIGUES DOS SANTOS,Outras digitais,0.95,False,conteúdo para redes sociais,openai/gpt-oss-120b,2026-11-04T22:12:39+00:00
+46871486000134,MKTFREE LTDA,Outras digitais,0.95,False,marketing digital e vídeo,openai/gpt-oss-120b,2026-11-04T22:12:39+00:00
+08413624000142,DUARTE COMUNICACAO COMERCIO E SERVICOS GRAFICOS LTDA,Offline,0.95,False,impressão de adesivos e banners,openai/gpt-oss-120b,2026-11-04T22:12:39+00:00
+14991501000191,SOM TIME PRODUCOES E EVENTOS - LTDA,Offline,0.95,False,sonorização e iluminação evento,openai/gpt-oss-120b,2026-11-04T22:12:39+00:00
+29462302000163,TAMEIRAO E CARVALHO PRODUCOES LTDA,Outras digitais,0.95,False,gestão redes sociais e tráfego,openai/gpt-oss-120b,2026-11-04T22:12:39+00:00
+32223772000189,CONECTARET - ARTICULACAO DE REDES E SABERES LTDA,Offline,0.95,False,instalação de wind banners,openai/gpt-oss-120b,2026-11-04T22:12:39+00:00
+53725617000130,AKESSAN COMUNICACAO,Offline,0.95,False,impulsionamento + material gráfico,openai/gpt-oss-120b,2026-11-04T22:12:39+00:00
+44749099000102,LUCAS WALISSON DOS SANTOS BENTO,Outras digitais,0.95,False,gestão tráfego pago e redes,openai/gpt-oss-120b,2026-11-04T22:12:39+00:00
+26870110000106,EDUARDO DE ALMEIDA COUTO LTDA,Outras digitais,0.95,False,gestão redes sociais e artes,openai/gpt-oss-120b,2026-11-04T22:12:39+00:00
+08739793000177,PROVOCARE EDITORA E COMUNICACAO LTDA,Offline,0.95,False,impressão de jornal,openai/gpt-oss-120b,2026-11-04T22:12:39+00:00
+38065109000180,CODIGO DIGITAL LTDA,Outras digitais,0.95,False,gestão tráfego pago digital,openai/gpt-oss-120b,2026-11-04T22:12:39+00:00
+43700005000130,BIANIC AGENCIA DE PUBLICIDADE E PROPAGANDA LTDA,Offline,0.95,False,produção de jingles e áudio,openai/gpt-oss-120b,2026-11-04T22:12:39+00:00
+59519016000158,59.519.016 LTDA,Outras digitais,0.9,False,gerencia redes sociais,openai/gpt-oss-120b,2026-11-04T22:13:18+00:00
+38612680000177,NOVA GERACAO SERVICOS LTDA,Offline,0.95,False,impressão de materiais,openai/gpt-oss-120b,2026-11-04T22:13:18+00:00
+04539571000150,INFORMATIVO REGIONAL EMPRESA JORNALISTICA LTDA,Offline,0.95,False,publicidade em jornais,openai/gpt-oss-120b,2026-11-04T22:13:18+00:00
+01985921000113,EDITORA JORNALISTICA BAIRROS UNIDOS LTDA,Offline,0.95,False,serviços jornalísticos impressos,openai/gpt-oss-120b,2026-11-04T22:13:18+00:00
+34679413000166,LUCAS SOUZA FERRAZ,Offline,0.9,False,pós‑produção de vídeo,openai/gpt-oss-120b,2026-11-04T22:13:18+00:00
+32152096000108,MARCOS LUIS DA CONCEICAO SOUSA,Offline,0.9,False,produção audiovisual,openai/gpt-oss-120b,2026-11-04T22:13:18+00:00
+30793114000105,MQF PRODUCOES LTDA,Offline,0.9,False,propaganda rádio/TV,openai/gpt-oss-120b,2026-11-04T22:13:18+00:00
+10776281000122,PASSOS IMPRESSAO DIGITAL LTDA,Offline,0.95,False,adesivos impressos,openai/gpt-oss-120b,2026-11-04T22:13:18+00:00
+43376990000170,KOLE MARKETING LTDA,Outras digitais,0.9,False,gestão de tráfego pago,openai/gpt-oss-120b,2026-11-04T22:13:18+00:00
+23670481000148,VIT CONTEUDO CONSULTORIA LTDA,Offline,0.9,False,produção de jingles,openai/gpt-oss-120b,2026-11-04T22:13:18+00:00
+05918959000124,EDVALDO RANZANI CARLOS,Outras digitais,0.8,False,serviços digitais e app,openai/gpt-oss-120b,2026-11-04T22:13:18+00:00
+68150034000104,BLACK LAB COMUNICACAO ESTRATEGICA LTDA,Offline,0.9,False,produção cinematográfica e audiovisual,openai/gpt-oss-120b,2026-11-04T22:13:18+00:00
+67713500000141,67.713.500 INGRID FERREIRA ARAUJO,Offline,0.9,False,assistente de câmera,openai/gpt-oss-120b,2026-11-04T22:13:18+00:00
+36251459000105,WALA MAKING DIGITAL SPORTS LTDA,Offline,0.95,False,bandeiras e materiais impressos,openai/gpt-oss-120b,2026-11-04T22:13:18+00:00
+36965297000177,LUCIA ANDREIA DONADELLI BENTO,Offline,0.8,False,"produção de textos, áudios e vídeos",openai/gpt-oss-120b,2026-11-04T22:13:18+00:00
+57005428000144,GROWTHDATA PERFORMANCE DE RESULTADOS LTDA,Outras digitais,0.9,False,hospedagem e serviços de internet,openai/gpt-oss-120b,2026-11-04T22:13:18+00:00
+50755029000151,DESIGNALTH MARKETING LTDA,Outras digitais,0.9,False,criação de material de marketing,openai/gpt-oss-120b,2026-11-04T22:13:18+00:00
+52128032000170,52.128.032 ANNA LUISA BOTELHO ROCHA NASCIMENTO,Outras digitais,0.9,False,gestão de redes e produção de conteúdo,openai/gpt-oss-120b,2026-11-04T22:13:18+00:00
+39327799000160,A R ECOMMERCE E SERVICOS NA INTERNET LTDA,Outras digitais,0.9,False,gestão e planejamento de redes sociais,openai/gpt-oss-120b,2026-11-04T22:13:18+00:00
+65281335000170,65.281.335 ANTHONY BERNARDO BARUFFI BUQUI,Offline,0.9,False,produção audiovisual para campanha,openai/gpt-oss-120b,2026-11-04T22:13:18+00:00
+18292141000190,ALTERNATIVA COMERCIAL GRAFICA LTDA,Offline,0.95,False,gráfica de banners e adesivos,openai/gpt-oss-120b,2026-11-04T22:13:18+00:00
+38293456000160,GRAFICA 1DESIGN LTDA,Offline,0.95,False,impressão de adesivos,openai/gpt-oss-120b,2026-11-04T22:13:18+00:00
+22989691000130,IPERO COMUNICACAO LTDA,Offline,0.95,False,publicidade em jornal,openai/gpt-oss-120b,2026-11-04T22:13:18+00:00
+46466141000103,BE+ LTDA,Outras digitais,0.85,False,agência de publicidade geral,openai/gpt-oss-120b,2026-11-04T22:13:18+00:00
+46406788000131,JONI GONTIJO - GESTAO DE TRAFEGO PAGO LTDA.,Outras digitais,0.9,False,tráfego pago e propaganda,openai/gpt-oss-120b,2026-11-04T22:13:18+00:00
+49018406000190,CREATY VISION AGENCIA CRIATIVA LTDA,Outras digitais,0.9,False,tráfego pago e mídia digital,openai/gpt-oss-120b,2026-11-04T22:13:18+00:00
+04858126000152,T2A COMUNICACAO E PUBLICIDADE LTDA,Outras digitais,0.9,False,desenvolvimento de website,openai/gpt-oss-120b,2026-11-04T22:13:18+00:00
+02886194000108,MISTER SOM DIGITAL STUDIO LTDA,Offline,0.9,False,produção de jingles e vinhetas,openai/gpt-oss-120b,2026-11-04T22:13:18+00:00
+49795616000195,CS PRODUCOES LTDA,Offline,0.85,False,produção audiovisual para TV e redes,openai/gpt-oss-120b,2026-11-04T22:13:18+00:00
+59320717000163,P ALVES POSSATTI,Outras digitais,0.85,False,marketing digital e assessoria de imprensa,openai/gpt-oss-120b,2026-11-04T22:13:18+00:00
+69384210000127,CBCOM COMUNICACAO ESTRATEGICA LTDA,Outras digitais,0.95,False,Serviços de comunicação digital,openai/gpt-oss-120b,2026-11-04T22:13:58+00:00
+27375636000174,WENDELL FERNANDES AMORIM VERMELHO LIMAO,Offline,0.96,False,Produção de rádio/TV,openai/gpt-oss-120b,2026-11-04T22:13:58+00:00
+50683837000150,WONDER MARKETING E COMUNICACAO DIGITAL LTDA,Outras digitais,0.95,False,Comunicação e mobilização digital,openai/gpt-oss-120b,2026-11-04T22:13:58+00:00
+59150073000102,59.150.073 MATHEUS LOURENCO DA SILVA BATISTA,Outras digitais,0.94,False,Gestão redes sociais e vídeo,openai/gpt-oss-120b,2026-11-04T22:13:58+00:00
+54047398000140,54.047.398 KAUAN ALEXANDRO DE SOUSA FERREIRA,Outras digitais,0.94,False,Gestor de tráfego e videomaker,openai/gpt-oss-120b,2026-11-04T22:13:58+00:00
+34301597000126,34.301.597 DONATO DOS SANTOS COSTA,Outras digitais,0.95,False,Planejamento e redes sociais,openai/gpt-oss-120b,2026-11-04T22:13:58+00:00
+57085421000180,57.085.421 DAYANE SANTOS DUARTE,Offline,0.96,False,Produção audiovisual para campanha,openai/gpt-oss-120b,2026-11-04T22:13:58+00:00
+21783558000160,MART PRODUTORA LTDA,Offline,0.96,False,Produção de vídeos,openai/gpt-oss-120b,2026-11-04T22:13:58+00:00
+08395199000106,MARCOS R DE SOUZA COMERCIAL,Offline,0.96,False,Vídeo produção para campanha,openai/gpt-oss-120b,2026-11-04T22:13:58+00:00
+63599705000197,DR7 MARKETING LTDA,Outras digitais,0.94,False,Gestão contas anúncios e apoio admin,openai/gpt-oss-120b,2026-11-04T22:13:58+00:00
+24130688000192,FORMATO IMPRESS COMUNICACAO VISUAL LTDA,Offline,0.97,False,Impressão digital de adesivos,openai/gpt-oss-120b,2026-11-04T22:13:58+00:00
+12457988000100,INDEXNET PUBLICIDADE DIGITAL LTDA,Outras digitais,0.95,False,Marketing político digital,openai/gpt-oss-120b,2026-11-04T22:13:58+00:00
+55359709000170,SONDAINTEL INTELIGENCIA DE DADOS E TECNOLOGIA LTDA,Outras digitais,0.94,False,Serviços de marketing e hospedagem,openai/gpt-oss-120b,2026-11-04T22:13:58+00:00
+08179984000121,MIX MIDIA LTDA,Offline,0.96,False,Publicidade por adesivos e materiais impressos,openai/gpt-oss-120b,2026-11-04T22:13:58+00:00
+10480535000160,JORNAL O CELEIRO LTDA,Offline,0.97,False,Anúncio em jornal impresso,openai/gpt-oss-120b,2026-11-04T22:13:58+00:00
+18176958000101,EMPRESA JORNALISTICA POCOS DE CALDAS LIMITADA,Offline,0.97,False,Publicação em jornal impresso,openai/gpt-oss-120b,2026-11-04T22:13:58+00:00
+66051714000137,66.051.714 MATHEUS DELPOSITO SARAIVA,Outras digitais,0.93,False,Marketing digital genérico,openai/gpt-oss-120b,2026-11-04T22:13:58+00:00
+35344205000179,PROF LABS LTDA.,Outras digitais,0.94,False,Gestão de tráfego e marketing direto,openai/gpt-oss-120b,2026-11-04T22:13:58+00:00
+27689472000150,CENTERPRINTING PROCESSAMENTO E IMPRESSAO LTDA,Offline,0.96,False,Impressão e mala direta,openai/gpt-oss-120b,2026-11-04T22:13:58+00:00
+37767807000164,IWWEB AGENCIA WEB E MARKETING DIGITAL LTDA.,Outras digitais,0.95,False,Agência de marketing digital,openai/gpt-oss-120b,2026-11-04T22:13:58+00:00
+12406487000196,AGENCIA APARECIDA LTDA,Outras digitais,0.94,False,Despesa de impulsionamento sem plataforma clara,openai/gpt-oss-120b,2026-11-04T22:13:58+00:00
+43638702000108,PORTAL MIDIA ONLINE LTDA,Outras digitais,0.95,False,Direção digital e tráfego pago,openai/gpt-oss-120b,2026-11-04T22:13:58+00:00
+51117144000163,S. H. B. RODRIGUES CIA LTDA,Outras digitais,0.94,False,"Filmagrem, foto e tráfego pago",openai/gpt-oss-120b,2026-11-04T22:13:58+00:00
+65717442000107,65.717.442 MAISA LENCIONI VIEIRA,Offline,0.96,False,Edição e pós-produção de vídeos,openai/gpt-oss-120b,2026-11-04T22:13:58+00:00
+62164029000166,62.164.029 JULIO GUSTAVO ANDRADE DE RAMOS,Offline,0.95,False,Produção audiovisual e fotografia,openai/gpt-oss-120b,2026-11-04T22:13:58+00:00
+67030039000122,FKS HOLANDA CONSULTORIA E ESTRATEGIA DIGITAL LTDA,Outras digitais,0.94,False,Estratégia digital e produção de vídeos,openai/gpt-oss-120b,2026-11-04T22:13:58+00:00
+68575298000100,AGENCIA ROMA MARKETING PUBLICIDADE E PROPAGANDA LTDA,Outras digitais,0.94,False,Marketing direto e redes sociais,openai/gpt-oss-120b,2026-11-04T22:13:58+00:00
+30889903000136,IMPACTUS GRAFICA E SERVICOS LTDA,Offline,0.96,False,Impressão de banners e tecidos,openai/gpt-oss-120b,2026-11-04T22:13:58+00:00
+51521028000105,VR COMUNICACAO LTDA,Offline,0.95,False,Produção de jingles e áudio,openai/gpt-oss-120b,2026-11-04T22:13:58+00:00
+05468610000138,DIGITAL 5 PRODUCOES LTDA,Offline,0.95,False,Diárias de sonorização e estrutura física,openai/gpt-oss-120b,2026-11-04T22:13:58+00:00

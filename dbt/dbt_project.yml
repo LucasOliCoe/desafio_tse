@@ -23,3 +23,17 @@ models:
     marts:
       +schema: marts
       +materialized: table
+
+seeds:
+  tse_midia_digital:
+    +schema: seeds
+    fornecedores_classificados_llm:
+      +column_types:
+        cpf_cnpj_fornecedor: string
+        nm_fornecedor: string
+        plataforma: string
+        confianca: float64
+        eh_intermediario: bool
+        justificativa: string
+        modelo: string
+        classificado_em: timestamp

@@ -1,0 +1,114 @@
+version: 2
+
+models:
+  - name: int_fornecedores_perfil
+    description: >
+      Uma linha por fornecedor distinto (CPF/CNPJ) com os atributos usados pelo
+      classificador: nome mais frequente, CNAE, principais categorias, amostra
+      de descrições e valor total. candidato_llm indica se há sinal de mídia digital.
+    columns:
+      - name: cpf_cnpj_fornecedor
+        description: CPF ou CNPJ normalizado do fornecedor.
+        data_tests: [unique, not_null]
+      - name: tipo_documento_fornecedor
+        description: CPF ou CNPJ.
+      - name: nm_fornecedor
+        description: Nome mais frequente (preferindo o da Receita Federal).
+      - name: ds_cnae_fornecedor
+        description: CNAE mais frequente.
+      - name: qtd_despesas
+        description: Quantidade de lançamentos.
+      - name: qtd_candidatos
+        description: Quantidade de candidatos distintos atendidos.
+      - name: vr_total
+        description: Valor total contratado (R$).
+      - name: tem_categoria_digital
+        description: Tem despesa em Impulsionamento, Criação de páginas na internet ou Produção de rádio/TV/vídeo.
+      - name: tem_termo_digital
+        description: Nome, CNAE ou descrição contém termos de mídia digital.
+      - name: principais_categorias
+        description: Até 3 categorias de despesa de maior valor.
+      - name: amostra_descricoes
+        description: Até 5 descrições distintas de maior valor (150 caracteres).
+      - name: candidato_llm
+        description: TRUE se o fornecedor tem algum sinal digital e deve ser classificado pelo LLM (se PJ).
+
+  - name: int_fornecedores_classificados
+    description: >
+      Cada fornecedor distinto com plataforma de mídia (Meta, Google, TikTok,
+      Kwai, Outras digitais, Offline) e confiança. Combina o classificador LLM
+      (seed fornecedores_classificados_llm) com regras determinísticas para
+      pessoas físicas, fornecedores sem sinal digital e PJs ainda não
+      classificadas pelo LLM. A confiança do LLM é autodeclarada e tende a ser
+      otimista.
+    columns:
+      - name: cpf_cnpj_fornecedor
+        description: CPF ou CNPJ normalizado do fornecedor.
+        data_tests:
+          - unique
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('int_fornecedores_perfil')
+                field: cpf_cnpj_fornecedor
+      - name: tipo_documento_fornecedor
+        description: CPF ou CNPJ.
+      - name: nm_fornecedor
+        description: Nome do fornecedor.
+      - name: ds_cnae_fornecedor
+        description: CNAE do fornecedor.
+      - name: vr_total
+        description: Valor total contratado (R$).
+      - name: candidato_llm
+        description: Se o fornecedor tinha sinal digital.
+      - name: metodo_classificacao
+        description: llm, regra_pf, regra_fallback ou regra_offline.
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: ["llm", "regra_pf", "regra_fallback", "regra_offline"]
+      - name: plataforma
+        description: Plataforma de mídia atribuída ao fornecedor.
+        data_tests:
+          - not_null
+          - accepted_values:
+              arguments:
+                values: ["Meta", "Google", "TikTok", "Kwai", "Outras digitais", "Offline"]
+      - name: confianca
+        description: Confiança de 0 a 1 (do LLM ou fixa por regra).
+        data_tests:
+          - not_null
+          - confianca_entre_0_e_1
+      - name: eh_intermediario
+        description: TRUE se o LLM identificou um intermediário de pagamento (ex. DLOCAL, EBANX).
+      - name: justificativa_llm
+        description: Justificativa curta do LLM.
+      - name: modelo_llm
+        description: Modelo usado na classificação.
+      - name: classificado_em
+        description: Quando o LLM classificou.
+
+  - name: int_despesas_classificadas
+    description: >
+      Lançamentos do stg_despesas com a plataforma final da despesa. Para
+      intermediários de pagamento, a plataforma vem da descrição quando ela
+      cita uma; senão, usa a plataforma predominante do fornecedor.
+    columns:
+      - name: despesa_linha_id
+        description: Chave da linha (herdada do stg_despesas).
+        data_tests: [unique, not_null]
+      - name: plataforma
+        description: Plataforma final da despesa.
+        data_tests:
+          - not_null
+          - accepted_values:
+              arguments:
+                values: ["Meta", "Google", "TikTok", "Kwai", "Outras digitais", "Offline"]
+      - name: confianca
+        description: Confiança da classificação desta despesa (0 a 1).
+        data_tests:
+          - confianca_entre_0_e_1
+      - name: metodo_classificacao
+        description: Como a plataforma foi definida (llm, regra_*, sem_fornecedor, descricao_intermediario, fornecedor_predominante).
+      - name: eh_impulsionamento
+        description: TRUE se a categoria declarada é "Despesa com Impulsionamento de Conteúdos".
