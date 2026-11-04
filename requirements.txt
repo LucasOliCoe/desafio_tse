@@ -1,0 +1,8 @@
+google-cloud-bigquery>=3.25
+pandas>=2.2
+pyarrow>=17
+python-dotenv>=1.0
+requests>=2.32
+groq>=0.11
+dbt-core>=1.10
+dbt-bigquery>=1.10
