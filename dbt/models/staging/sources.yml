@@ -1,0 +1,59 @@
+version: 2
+
+sources:
+  - name: tse
+    description: >
+      Dados brutos da Prestação de Contas Eleitorais 2026 (TSE), carregados por
+      ingestion/load_raw.py. Todas as colunas chegam como STRING, com os nomes
+      originais do TSE; a tipagem acontece no staging.
+    database: "{{ env_var('GCP_PROJECT_ID', 'desafio1-513721') }}"
+    schema: raw
+    config:
+      loaded_at_field: _carregado_em
+      freshness:
+        warn_after: {count: 30, period: day}
+
+    tables:
+      - name: despesas_contratadas_candidatos
+        description: >
+          Despesas contratadas declaradas por candidatos (arquivo
+          despesas_contratadas_candidatos_2026_<UF>.csv), filtradas para as UFs
+          DF, SP, MG, BA, RS e AM. Uma linha por lançamento; SQ_DESPESA NÃO é
+          único (uma despesa pode ser rateada em várias linhas).
+        columns:
+          - name: SQ_DESPESA
+            description: Sequencial da despesa no sistema do TSE (não único).
+            data_tests:
+              - not_null
+          - name: SQ_CANDIDATO
+            description: Sequencial do candidato no TSE (chave do candidato).
+            data_tests:
+              - not_null
+          - name: SG_UF
+            description: UF da eleição.
+            data_tests:
+              - accepted_values:
+                  arguments:
+                    values: ["DF", "SP", "MG", "BA", "RS", "AM"]
+          - name: DS_CARGO
+            description: Cargo disputado.
+          - name: SG_PARTIDO
+            description: Sigla do partido do candidato.
+          - name: NR_CPF_CNPJ_FORNECEDOR
+            description: CPF/CNPJ do fornecedor como veio do TSE (texto, pode ter "#NULO" ou -1).
+          - name: NM_FORNECEDOR
+            description: Nome do fornecedor informado pelo candidato (texto livre).
+          - name: NM_FORNECEDOR_RFB
+            description: Nome do fornecedor segundo a Receita Federal.
+          - name: DS_ORIGEM_DESPESA
+            description: 'Categoria da despesa (ex.: "Despesa com Impulsionamento de Conteúdos").'
+          - name: DS_DESPESA
+            description: Descrição livre da despesa.
+          - name: VR_DESPESA_CONTRATADA
+            description: Valor contratado em formato brasileiro ("1.234,56").
+            data_tests:
+              - not_null
+          - name: _arquivo_origem
+            description: Nome do CSV de origem (metadado da ingestão).
+          - name: _carregado_em
+            description: Timestamp UTC da carga (metadado da ingestão).

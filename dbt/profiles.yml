@@ -1,0 +1,15 @@
+# Sem segredos aqui: a chave fica em credentials/ (fora do git).
+# Rode os comandos dbt de dentro da pasta dbt/ para este arquivo ser encontrado.
+tse_midia_digital:
+  target: dev
+  outputs:
+    dev:
+      type: bigquery
+      method: service-account
+      project: "{{ env_var('GCP_PROJECT_ID', 'desafio1-513721') }}"
+      keyfile: "{{ env_var('DBT_KEYFILE', '../credentials/gcp-key.json') }}"
+      dataset: dbt_dev          # schema padrão; as camadas usam +schema
+      location: US
+      threads: 4
+      job_execution_timeout_seconds: 300
+      priority: interactive
