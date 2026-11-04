@@ -65,7 +65,10 @@ models:
       - name: cpf_cnpj_fornecedor
         description: CPF (11 dígitos) ou CNPJ (14 dígitos) do fornecedor, só números e com zeros à esquerda. NULL quando não informado (ex. tarifas bancárias).
         data_tests:
-          - valid_cpf_cnpj
+          - dbt_expectations.expect_column_values_to_match_regex:
+              arguments:
+                regex: '^([0-9]{11}|[0-9]{14})$'
+                is_raw: true
       - name: tipo_documento_fornecedor
         description: CPF ou CNPJ, inferido pelo tamanho do documento.
         data_tests:
@@ -85,7 +88,19 @@ models:
       - name: nm_municipio_fornecedor
         description: Município do fornecedor.
       - name: dt_despesa
-        description: Data da despesa.
+        description: >
+          Data da despesa como declarada. Há ~39 lançamentos com ano digitado
+          errado pelo candidato (2024, 2025, 2028); são mantidos sem correção.
+        data_tests:
+          # erro de digitação pontual -> warn; muitas linhas -> erro sistêmico de parsing
+          - dbt_expectations.expect_column_values_to_be_between:
+              arguments:
+                min_value: "date(ano_eleicao, 1, 1)"
+                max_value: "date(ano_eleicao, 12, 31)"
+              config:
+                severity: error
+                warn_if: ">0"
+                error_if: ">500"
       - name: cd_origem_despesa
         description: Código da categoria da despesa.
       - name: ds_origem_despesa

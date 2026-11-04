@@ -78,7 +78,8 @@ models:
         description: Confiança de 0 a 1 (do LLM ou fixa por regra).
         data_tests:
           - not_null
-          - confianca_entre_0_e_1
+          - dbt_expectations.expect_column_values_to_be_between:
+              arguments: {min_value: 0, max_value: 1}
       - name: eh_intermediario
         description: TRUE se o LLM identificou um intermediário de pagamento (ex. DLOCAL, EBANX).
       - name: justificativa_llm
@@ -116,7 +117,8 @@ models:
       - name: confianca
         description: Confiança da classificação desta despesa (0 a 1).
         data_tests:
-          - confianca_entre_0_e_1
+          - dbt_expectations.expect_column_values_to_be_between:
+              arguments: {min_value: 0, max_value: 1}
       - name: metodo_classificacao
         description: Como a plataforma foi definida (llm, regra_*, sem_fornecedor, descricao_intermediario, fornecedor_predominante).
       - name: eh_impulsionamento

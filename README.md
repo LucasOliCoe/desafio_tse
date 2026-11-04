@@ -65,9 +65,12 @@ O resultado do LLM fica num **seed versionado no git**. O `dbt build` não chama
 
 ## Qualidade de dados
 
-- **49 testes dbt**: `unique`, `not_null`, `relationships`, `accepted_values` (plataforma, cargo, UF, método), dois testes genéricos próprios (`valid_cpf_cnpj`, `confianca_entre_0_e_1`) e dois testes singulares:
-  - [`assert_marts_batem_com_raw`](dbt/tests/assert_marts_batem_com_raw.sql): conciliação ponta a ponta (raw = dim_candidato, e gasto digital da dim = fct). Foi validado com um erro proposital: falha quando há duplicação.
-  - [`assert_nenhum_gasto_negativo`](dbt/tests/assert_nenhum_gasto_negativo.sql).
+- **53 testes dbt**: `unique`, `not_null`, `relationships`, `accepted_values` (plataforma, cargo, UF, método), testes do pacote **[dbt_expectations](https://hub.getdbt.com/metaplane/dbt_expectations/latest/)** e dois testes singulares.
+  - `dbt_expectations`: volume mínimo da raw (pega ingestão parcial), regex de CPF/CNPJ, datas dentro do ano da eleição, confiança e % digital entre 0 e 1, e presença das plataformas principais no fato.
+  - O teste de datas **encontrou 39 lançamentos com ano digitado errado** pelos candidatos (2024, 2025 e 2028, somando R$ 61 mil). As datas não foram corrigidas, para não inventar dado. O teste emite *warn* para casos pontuais e só dá *error* acima de 500 linhas, o que indicaria um erro sistêmico de conversão.
+  - Testes singulares:
+    - [`assert_marts_batem_com_raw`](dbt/tests/assert_marts_batem_com_raw.sql): conciliação ponta a ponta (raw = dim_candidato, e gasto digital da dim = fct). Foi validado com um erro proposital: falha quando há duplicação.
+    - [`assert_nenhum_gasto_negativo`](dbt/tests/assert_nenhum_gasto_negativo.sql).
 - **Freshness** na source.
 - **Documentação** em todas as colunas dos marts (`dbt docs generate`).
 
@@ -101,7 +104,8 @@ python ingestion/load_raw.py
 
 # 4. Transformações + testes
 cd dbt
-dbt build                         # seed + modelos + 49 testes
+dbt deps                          # instala dbt_expectations
+dbt build                         # seed + modelos + 53 testes
 
 # 5. (Opcional) Reclassificar / continuar a classificação com LLM
 cd ..
@@ -127,7 +131,8 @@ dbt docs generate && dbt docs serve
 │   │   └── marts/              # fct_gasto_midia_digital, dim_candidato
 │   ├── seeds/                  # fornecedores_classificados_llm.csv
 │   ├── macros/                 # tratamento de nulos/formatos do TSE, regex de plataforma
-│   ├── tests/                  # testes singulares e genéricos
+│   ├── tests/                  # testes singulares
+│   ├── packages.yml            # dbt_expectations
 │   └── analyses/               # perguntas_negocio.sql
 └── requirements.txt
 ```

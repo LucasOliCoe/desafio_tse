@@ -38,6 +38,10 @@ models:
           - accepted_values:
               arguments:
                 values: ["Meta", "Google", "TikTok", "Kwai", "Outras digitais"]
+          # se Meta ou Outras digitais sumirem do fato, a classificação quebrou
+          - dbt_expectations.expect_column_distinct_values_to_contain_set:
+              arguments:
+                value_set: ["Meta", "Outras digitais"]
       - name: categoria_despesa
         description: Categoria de despesa declarada ao TSE (ds_origem_despesa), ex. "Despesa com Impulsionamento de Conteúdos".
       - name: eh_impulsionamento
@@ -52,7 +56,8 @@ models:
       - name: confianca_media
         description: Confiança média da classificação de plataforma, ponderada pelo valor (0 a 1).
         data_tests:
-          - confianca_entre_0_e_1
+          - dbt_expectations.expect_column_values_to_be_between:
+              arguments: {min_value: 0, max_value: 1}
       - name: vr_gasto_classificado_llm
         description: Parte de vr_gasto cuja plataforma veio do LLM (diretamente ou via intermediário); o restante veio de regras.
       - name: dt_primeira_despesa
@@ -113,5 +118,8 @@ models:
         description: Gasto com agências, produtoras e outras plataformas digitais, em R$.
       - name: pct_gasto_digital
         description: vr_gasto_digital / vr_despesa_total (NULL se não há despesa).
+        data_tests:
+          - dbt_expectations.expect_column_values_to_be_between:
+              arguments: {min_value: 0, max_value: 1}
       - name: plataforma_digital_principal
         description: Plataforma digital com maior gasto do candidato (NULL se não gastou em digital).

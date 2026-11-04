@@ -15,6 +15,11 @@ sources:
 
     tables:
       - name: despesas_contratadas_candidatos
+        data_tests:
+          # pega ingestão parcial (6 UFs de 2026 somam ~712 mil linhas)
+          - dbt_expectations.expect_table_row_count_to_be_between:
+              arguments:
+                min_value: 500000
         description: >
           Despesas contratadas declaradas por candidatos (arquivo
           despesas_contratadas_candidatos_2026_<UF>.csv), filtradas para as UFs
